@@ -1,0 +1,1352 @@
+order_id,order_date,customer_id,product_id,quantity,discount_pct,payment_method,delivery_days,returned_flag,customer_rating,customer_city,customer_age,customer_segment,product_category,product_name,unit_price,gross_revenue,net_revenue,month
+50109,2024-10-10,1021,2007,5.0,0.0,Cash,4.0,0,4.0,Tanta,33,Regular,Groceries,Olive Oil 7,2727.69,13638.45,13638.45,October
+50083,2024-12-31,1061,2014,3.0,5.0,Card,8.0,0,2.0,Ismailia,24,Regular,Groceries,Olive Oil 14,2648.26,7944.780000000001,7547.541,December
+50268,2024-10-20,1013,2017,4.0,0.0,Cash,8.0,0,4.0,Zagazig,44,New,Groceries,Pasta 17,1437.71,5750.84,5750.84,October
+50070,2024-10-23,1075,2039,2.0,10.0,Card,6.0,0,1.0,Zagazig,46,New,Electronics,Wireless Mouse 39,154.27,308.54,277.68600000000004,October
+51729,2024-11-21,1002,2027,1.0,5.0,Bank Transfer,8.0,0,4.0,Suez,24,Vip,Sports,Jump Rope 27,3197.17,3197.17,3037.3115,November
+51047,2025-01-08,1154,2033,1.0,0.0,Card,4.0,0,5.0,Alexandria,53,Vip,Electronics,Keyboard 33,801.02,801.02,801.02,January
+51128,2025-02-27,1158,2025,4.0,0.0,Cash,6.0,0,4.0,Tanta,31,Regular,Groceries,Tea 25,2684.59,10738.36,10738.36,February
+50242,2024-09-06,1133,2007,5.0,0.0,Cash,6.0,0,4.0,Cairo,23,New,Groceries,Olive Oil 7,2727.69,13638.45,13638.45,September
+51341,2025-02-27,1019,2026,2.0,0.0,Card,1.0,0,4.0,Suez,32,New,Beauty,Perfume 26,376.29,752.58,752.58,February
+50395,2024-12-24,1099,2006,2.0,0.0,Card,3.0,0,5.0,Zagazig,20,Vip,Electronics,Keyboard 6,414.39,828.78,828.78,December
+51044,2025-02-06,1081,2045,2.0,10.0,Cash,2.0,0,2.0,Ismailia,52,New,Beauty,Body Lotion 45,2724.13,5448.26,4903.434,February
+50317,2024-10-01,1045,2038,2.0,5.0,Card,8.0,0,5.0,Cairo,49,New,Beauty,Body Lotion 38,2113.81,4227.62,4016.2389999999996,October
+51119,2024-10-01,1090,2042,1.0,15.0,Card,6.0,0,4.0,Suez,43,New,Sports,Running Socks 42,1954.72,1954.72,1661.512,October
+50814,2024-11-05,1020,2013,2.0,0.0,Cash,1.0,0,4.0,Mansoura,59,New,Fashion,T-Shirt 13,1475.64,2951.28,2951.28,November
+51434,2025-02-13,1043,2012,5.0,20.0,Card,3.0,0,5.0,Zagazig,48,Regular,Beauty,Face Wash 12,78.88,394.4,315.52,February
+51131,2024-12-26,1064,2015,4.0,0.0,Cash,4.0,1,4.0,Ismailia,45,Regular,Home,Lamp 15,973.33,3893.32,3893.32,December
+51098,2024-09-14,1090,2017,5.0,30.0,Card,1.0,1,4.0,Suez,43,New,Groceries,Pasta 17,1437.71,7188.55,5031.985,September
+51097,2024-12-19,1108,2004,1.0,0.0,Card,0.0,0,4.0,Zagazig,42,Regular,Electronics,Keyboard 4,2308.12,2308.12,2308.12,December
+50307,2025-01-17,1132,2041,4.0,5.0,Wallet,4.0,0,3.0,Tanta,46,Regular,Home,Storage Box 41,203.24,812.96,772.312,January
+50483,2024-10-17,1073,2022,3.0,5.0,Wallet,0.0,0,4.0,Mansoura,26,Regular,Groceries,Pasta 22,3190.63,9571.89,9093.295499999998,October
+50297,2024-09-08,1018,2006,4.0,0.0,Card,5.0,0,5.0,Giza,23,Vip,Electronics,Keyboard 6,414.39,1657.56,1657.56,September
+50736,2025-02-28,1096,2005,3.0,20.0,Cash,5.0,1,5.0,Alexandria,38,Regular,Groceries,Rice 5,3045.78,9137.34,7309.872,February
+50403,2024-09-09,1035,2028,4.0,0.0,Bank Transfer,3.0,0,4.0,Ismailia,49,Regular,Home,Kitchen Knife 28,2143.56,8574.24,8574.24,September
+50464,2025-01-09,1118,2037,5.0,5.0,Wallet,2.0,0,2.0,Giza,36,Regular,Groceries,Olive Oil 37,2917.62,14588.099999999999,13858.694999999998,January
+51534,2024-10-13,1175,2042,2.0,0.0,Card,3.0,1,4.0,Zagazig,59,Regular,Sports,Running Socks 42,1954.72,3909.44,3909.44,October
+51580,2025-01-19,1109,2032,1.0,15.0,Card,0.0,0,5.0,Mansoura,41,Regular,Electronics,Power Bank 32,131.64,131.64,111.89399999999999,January
+50754,2024-09-21,1161,2016,1.0,0.0,Card,7.0,1,4.0,Ismailia,45,New,Groceries,Rice 16,1489.01,1489.01,1489.01,September
+50180,2024-11-24,1172,2045,1.0,5.0,Card,8.0,0,4.0,Cairo,19,New,Beauty,Body Lotion 45,2724.13,2724.13,2587.9235,November
+51444,2024-09-30,1118,2040,5.0,0.0,Cash,7.0,0,3.0,Giza,36,Regular,Groceries,Coffee 40,57.16,285.79999999999995,285.79999999999995,September
+51060,2025-01-03,1009,2020,5.0,0.0,Cash,3.0,0,2.0,Giza,28,Regular,Fashion,Jacket 20,2508.89,12544.449999999999,12544.449999999999,January
+50842,2024-09-18,1070,2013,1.0,10.0,Card,7.0,0,3.0,Mansoura,19,Regular,Fashion,T-Shirt 13,1475.64,1475.64,1328.076,September
+51269,2024-12-02,1050,2013,3.0,20.0,Cash,8.0,1,5.0,Suez,25,New,Fashion,T-Shirt 13,1475.64,4426.92,3541.536,December
+50952,2025-01-29,1067,2035,2.0,5.0,Card,2.0,0,5.0,Ismailia,50,Regular,Sports,Jump Rope 35,2494.59,4989.18,4739.7210000000005,January
+50289,2024-09-02,1004,2038,1.0,5.0,Card,7.0,0,5.0,Mansoura,47,New,Beauty,Body Lotion 38,2113.81,2113.81,2008.1194999999998,September
+50105,2024-10-11,1153,2008,4.0,5.0,Bank Transfer,0.0,0,4.0,Ismailia,31,Regular,Electronics,Usb-C Cable 8,2053.15,8212.6,7801.97,October
+51427,2025-02-02,1123,2016,5.0,20.0,Bank Transfer,3.0,0,4.0,Zagazig,18,Regular,Groceries,Rice 16,1489.01,7445.05,5956.040000000001,February
+50940,2024-10-29,1010,2002,3.0,0.0,Card,1.0,0,5.0,Unknown,30,New,Fashion,T-Shirt 2,1229.3,3687.8999999999996,3687.8999999999996,October
+50665,2024-10-25,1084,2010,5.0,5.0,Card,3.0,0,5.0,Suez,57,New,Sports,Running Socks 10,1898.9,9494.5,9019.775,October
+50541,2024-10-01,1109,2024,5.0,15.0,Wallet,4.0,0,4.0,Mansoura,41,Regular,Home,Lamp 24,937.15,4685.75,3982.8875,October
+50487,2024-10-31,1028,2013,2.0,5.0,Bank Transfer,4.0,0,4.0,Suez,59,Regular,Fashion,T-Shirt 13,1475.64,2951.28,2803.716,October
+50129,2024-10-13,1101,2014,5.0,0.0,Wallet,7.0,0,4.0,Suez,29,New,Groceries,Olive Oil 14,2648.26,13241.300000000001,13241.300000000001,October
+50185,2025-02-18,1154,2007,3.0,20.0,Card,5.0,0,4.0,Alexandria,53,Vip,Groceries,Olive Oil 7,2727.69,8183.07,6546.456,February
+50426,2024-09-01,1162,2036,5.0,0.0,Card,5.0,0,4.0,Zagazig,30,Vip,Beauty,Face Wash 36,666.33,3331.65,3331.65,September
+50941,2024-11-07,1012,2007,2.0,10.0,Card,3.0,1,5.0,Ismailia,45,New,Groceries,Olive Oil 7,2727.69,5455.38,4909.842000000001,November
+51279,2024-12-01,1028,2034,5.0,25.0,Cash,3.0,0,4.0,Suez,59,Regular,Fashion,Jeans 34,491.95,2459.75,1844.8125,December
+50113,2025-01-31,1115,2042,2.0,15.0,Card,3.0,0,5.0,Tanta,41,Regular,Sports,Running Socks 42,1954.72,3909.44,3323.024,January
+51788,2024-11-22,1033,2016,3.0,0.0,Card,6.0,0,3.0,Cairo,51,New,Groceries,Rice 16,1489.01,4467.03,4467.03,November
+50187,2024-10-06,1143,2019,5.0,10.0,Bank Transfer,1.0,0,3.0,Alexandria,44,New,Groceries,Olive Oil 19,2942.28,14711.400000000001,13240.260000000002,October
+51526,2024-10-28,1039,2032,3.0,0.0,Cash,8.0,0,4.0,Alexandria,37,Vip,Electronics,Power Bank 32,131.64,394.91999999999996,394.91999999999996,October
+50998,2024-10-26,1062,2040,5.0,0.0,Cash,0.0,0,4.0,Zagazig,43,Regular,Groceries,Coffee 40,2684.59,13422.95,13422.95,October
+51679,2024-09-30,1129,2035,3.0,10.0,Card,4.0,0,3.0,Tanta,31,New,Sports,Jump Rope 35,2494.59,7483.77,6735.393000000001,September
+50681,2024-11-23,1008,2021,3.0,5.0,Wallet,3.0,1,3.0,Zagazig,34,New,Groceries,Rice 21,389.46,1168.3799999999999,1109.9609999999998,November
+50477,2024-11-21,1167,2040,4.0,5.0,Cash,0.0,0,2.0,Alexandria,60,Vip,Groceries,Coffee 40,57.16,228.64,217.20799999999997,November
+50456,2025-01-17,1180,2014,5.0,0.0,Card,4.0,0,5.0,Tanta,50,Regular,Groceries,Olive Oil 14,2648.26,13241.300000000001,13241.300000000001,January
+50029,2025-01-23,1092,2013,1.0,20.0,Wallet,1.0,0,1.0,Suez,18,New,Fashion,T-Shirt 13,1475.64,1475.64,1180.5120000000002,January
+51274,2024-11-26,1030,2008,2.0,0.0,Card,4.0,0,4.0,Mansoura,51,Regular,Electronics,Usb-C Cable 8,2053.15,4106.3,4106.3,November
+50402,2024-10-05,1035,2023,1.0,10.0,Bank Transfer,8.0,1,4.0,Ismailia,49,Regular,Sports,Bottle 23,2818.27,2818.27,2536.443,October
+51299,2024-10-21,1100,2008,2.0,30.0,Wallet,5.0,0,4.0,Giza,21,Vip,Electronics,Usb-C Cable 8,2053.15,4106.3,2874.41,October
+50982,2025-02-13,1169,2030,2.0,0.0,Bank Transfer,0.0,0,5.0,Alexandria,25,Regular,Electronics,Headphones 30,325.79,651.58,651.58,February
+50310,2024-10-03,1054,2028,2.0,5.0,Card,4.0,0,4.0,Mansoura,50,Regular,Home,Kitchen Knife 28,2143.56,4287.12,4072.7639999999997,October
+50700,2024-12-01,1083,2021,4.0,0.0,Cash,5.0,0,2.0,Giza,30,New,Groceries,Rice 21,389.46,1557.84,1557.84,December
+51352,2024-09-21,1119,2011,3.0,0.0,Card,6.0,0,2.0,Giza,30,Regular,Groceries,Tea 11,2208.06,6624.18,6624.18,September
+51729,2024-10-28,1169,2042,1.0,0.0,Card,2.0,0,2.0,Alexandria,25,Regular,Sports,Running Socks 42,1954.72,1954.72,1954.72,October
+50550,2024-12-05,1093,2025,4.0,10.0,Cash,5.0,0,1.0,Suez,24,New,Groceries,Tea 25,2684.59,10738.36,9664.524000000001,December
+50074,2024-09-28,1087,2009,2.0,15.0,Bank Transfer,1.0,0,4.0,Cairo,37,New,Beauty,Face Wash 9,425.27,850.54,722.959,September
+51635,2024-12-13,1017,2027,4.0,0.0,Card,7.0,0,5.0,Tanta,32,Regular,Sports,Jump Rope 27,3197.17,12788.68,12788.68,December
+51203,2024-10-24,1009,2021,4.0,0.0,Cash,4.0,0,5.0,Giza,28,Regular,Groceries,Rice 21,389.46,1557.84,1557.84,October
+50253,2024-12-04,1053,2008,4.0,20.0,Card,4.0,1,2.0,Alexandria,18,Vip,Electronics,Usb-C Cable 8,2053.15,8212.6,6570.080000000001,December
+50357,2024-10-16,1075,2029,4.0,0.0,Cash,7.0,0,4.0,Zagazig,46,New,Home,Lamp 29,2094.4,8377.6,8377.6,October
+50043,2024-09-07,1139,2028,4.0,0.0,Cash,6.0,0,4.0,Alexandria,58,New,Home,Kitchen Knife 28,2143.56,8574.24,8574.24,September
+50204,2024-12-14,1047,2007,1.0,0.0,Cash,0.0,0,3.0,Mansoura,52,New,Groceries,Olive Oil 7,2727.69,2727.69,2727.69,December
+50844,2024-10-28,1106,2043,3.0,10.0,Wallet,2.0,0,4.0,Suez,58,Regular,Fashion,Hoodie 43,2572.68,7718.039999999999,6946.235999999999,October
+51783,2024-10-10,1041,2025,3.0,5.0,Cash,7.0,1,1.0,Giza,23,New,Groceries,Tea 25,2684.59,8053.77,7651.0815,October
+51291,2024-10-24,1170,2009,3.0,0.0,Card,3.0,0,4.0,Cairo,25,New,Beauty,Face Wash 9,425.27,1275.81,1275.81,October
+51731,2025-01-31,1104,2013,3.0,25.0,Card,0.0,0,4.0,Cairo,39,New,Fashion,T-Shirt 13,1475.64,4426.92,3320.19,January
+50105,2024-10-21,1144,2018,3.0,5.0,Wallet,1.0,0,5.0,Mansoura,57,Regular,Beauty,Perfume 18,994.09,2982.27,2833.1565,October
+50804,2024-11-10,1169,2003,5.0,0.0,Wallet,5.0,0,4.0,Alexandria,25,Regular,Fashion,Hoodie 3,3157.76,15788.800000000001,15788.800000000001,November
+50609,2024-09-15,1072,2019,4.0,5.0,Card,6.0,0,1.0,Giza,39,Vip,Groceries,Olive Oil 19,2942.28,11769.12,11180.664,September
+50521,2024-10-09,1056,2006,1.0,20.0,Wallet,4.0,0,4.0,Cairo,48,Regular,Electronics,Keyboard 6,414.39,414.39,331.512,October
+50757,2024-09-17,1158,2004,3.0,0.0,Cash,7.0,0,2.0,Tanta,31,Regular,Electronics,Keyboard 4,2308.12,6924.36,6924.36,September
+51430,2024-11-12,1178,2011,4.0,0.0,Card,5.0,0,3.0,Giza,56,Regular,Groceries,Tea 11,2208.06,8832.24,8832.24,November
+50123,2025-01-25,1069,2029,2.0,5.0,Wallet,4.0,0,4.0,Cairo,51,Regular,Home,Lamp 29,2094.4,4188.8,3979.36,January
+50048,2024-11-15,1062,2031,5.0,5.0,Card,5.0,0,3.0,Zagazig,43,Regular,Fashion,Hoodie 31,2874.63,14373.150000000001,13654.4925,November
+50853,2024-12-24,1146,2029,1.0,0.0,Wallet,4.0,0,3.0,Suez,27,Regular,Home,Lamp 29,2094.4,2094.4,2094.4,December
+51313,2024-10-13,1133,2022,1.0,0.0,Wallet,6.0,0,3.0,Cairo,23,New,Groceries,Pasta 22,3190.63,3190.63,3190.63,October
+50924,2024-09-14,1052,2039,2.0,0.0,Card,5.0,0,3.0,Giza,54,Regular,Electronics,Wireless Mouse 39,154.27,308.54,308.54,September
+51589,2024-10-11,1111,2020,3.0,0.0,Card,1.0,0,3.0,Alexandria,52,Regular,Fashion,Jacket 20,2508.89,7526.67,7526.67,October
+50440,2025-02-12,1049,2010,5.0,0.0,Cash,2.0,0,4.0,Zagazig,41,Regular,Sports,Running Socks 10,1898.9,9494.5,9494.5,February
+50194,2024-12-16,1091,2001,2.0,30.0,Card,2.0,0,3.0,Mansoura,30,New,Electronics,Wireless Mouse 1,1554.81,3109.62,2176.734,December
+51433,2024-11-24,1007,2033,2.0,10.0,Card,4.0,0,3.0,Cairo,25,Regular,Electronics,Keyboard 33,801.02,1602.04,1441.836,November
+50346,2024-09-25,1128,2015,5.0,5.0,Card,0.0,0,3.0,Suez,41,Regular,Home,Lamp 15,973.33,4866.650000000001,4623.3175,September
+51554,2025-02-07,1058,2039,5.0,0.0,Wallet,3.0,0,3.0,Giza,36,Regular,Electronics,Wireless Mouse 39,154.27,771.35,771.35,February
+51248,2025-01-30,1150,2030,3.0,0.0,Bank Transfer,4.0,0,5.0,Cairo,41,New,Electronics,Headphones 30,325.79,977.3700000000001,977.3700000000001,January
+50212,2024-10-13,1103,2034,5.0,5.0,Card,8.0,0,4.0,Suez,46,New,Fashion,Jeans 34,491.95,2459.75,2336.7625,October
+51132,2024-11-01,1125,2034,4.0,10.0,Card,0.0,0,5.0,Suez,41,Vip,Fashion,Jeans 34,491.95,1967.8,1771.02,November
+51689,2024-12-20,1027,2041,3.0,10.0,Card,6.0,0,3.0,Mansoura,50,New,Home,Storage Box 41,203.24,609.72,548.748,December
+50725,2024-10-30,1006,2009,2.0,0.0,Wallet,3.0,0,2.0,Suez,37,Regular,Beauty,Face Wash 9,425.27,850.54,850.54,October
+50867,2024-09-09,1114,2008,1.0,0.0,Bank Transfer,4.0,0,3.0,Mansoura,32,New,Electronics,Usb-C Cable 8,2053.15,2053.15,2053.15,September
+50860,2025-02-02,1175,2001,1.0,30.0,Wallet,8.0,0,2.0,Zagazig,59,Regular,Electronics,Wireless Mouse 1,1554.81,1554.81,1088.367,February
+50222,2025-01-14,1137,2014,1.0,20.0,Wallet,2.0,0,5.0,Tanta,49,Regular,Groceries,Olive Oil 14,2648.26,2648.26,2118.608,January
+51715,2024-12-21,1032,2039,3.0,0.0,Wallet,5.0,0,3.0,Giza,48,Regular,Electronics,Wireless Mouse 39,154.27,462.81000000000006,462.81000000000006,December
+50411,2024-12-19,1026,2015,4.0,5.0,Wallet,1.0,0,4.0,Zagazig,29,New,Home,Lamp 15,973.33,3893.32,3698.654,December
+50792,2024-10-30,1060,2016,4.0,0.0,Card,5.0,0,5.0,Zagazig,44,New,Groceries,Rice 16,1489.01,5956.04,5956.04,October
+51513,2024-11-21,1065,2003,5.0,10.0,Card,6.0,0,2.0,Mansoura,45,Regular,Fashion,Hoodie 3,3157.76,15788.800000000001,14209.920000000002,November
+50725,2024-09-18,1056,2025,3.0,0.0,Cash,4.0,0,3.0,Cairo,48,Regular,Groceries,Tea 25,2684.59,8053.77,8053.77,September
+50723,2024-11-11,1160,2040,2.0,0.0,Cash,6.0,0,3.0,Suez,58,Vip,Groceries,Coffee 40,57.16,114.32,114.32,November
+51586,2025-01-05,1163,2014,3.0,15.0,Cash,8.0,0,5.0,Mansoura,44,Regular,Groceries,Olive Oil 14,2648.26,7944.780000000001,6753.063,January
+50830,2025-02-11,1023,2025,3.0,30.0,Cash,3.0,0,4.0,Giza,39,Regular,Groceries,Tea 25,2684.59,8053.77,5637.639,February
+51781,2024-11-12,1149,2005,3.0,10.0,Card,1.0,0,5.0,Suez,24,Regular,Groceries,Rice 5,3045.78,9137.34,8223.606,November
+51747,2024-12-22,1064,2001,5.0,25.0,Card,5.0,0,3.0,Ismailia,45,Regular,Electronics,Wireless Mouse 1,1554.81,7774.049999999999,5830.537499999999,December
+51077,2025-01-07,1166,2016,4.0,0.0,Wallet,2.0,0,4.0,Suez,29,Regular,Groceries,Rice 16,1489.01,5956.04,5956.04,January
+50214,2024-10-10,1115,2038,1.0,0.0,Card,3.0,0,4.0,Tanta,41,Regular,Beauty,Body Lotion 38,2113.81,2113.81,2113.81,October
+50315,2024-11-24,1060,2001,2.0,0.0,Wallet,3.0,0,4.0,Zagazig,44,New,Electronics,Wireless Mouse 1,1554.81,3109.62,3109.62,November
+50378,2024-10-19,1087,2032,1.0,30.0,Cash,7.0,1,4.0,Cairo,37,New,Electronics,Power Bank 32,131.64,131.64,92.14799999999998,October
+51751,2024-10-15,1090,2009,4.0,10.0,Card,2.0,1,4.0,Suez,43,New,Beauty,Face Wash 9,425.27,1701.08,1530.972,October
+50747,2025-01-15,1156,2011,2.0,20.0,Card,2.0,0,5.0,Zagazig,52,Regular,Groceries,Tea 11,2208.06,4416.12,3532.896,January
+50043,2024-11-14,1128,2031,3.0,0.0,Card,1.0,0,5.0,Suez,41,Regular,Fashion,Hoodie 31,2874.63,8623.89,8623.89,November
+50287,2025-02-13,1008,2001,2.0,0.0,Card,2.0,0,3.0,Zagazig,34,New,Electronics,Wireless Mouse 1,1554.81,3109.62,3109.62,February
+50546,2025-02-03,1069,2007,2.0,5.0,Card,8.0,0,5.0,Cairo,51,Regular,Groceries,Olive Oil 7,2727.69,5455.38,5182.611,February
+50284,2024-09-15,1061,2015,4.0,10.0,Card,0.0,0,1.0,Ismailia,24,Regular,Home,Lamp 15,973.33,3893.32,3503.9880000000003,September
+51728,2024-10-15,1017,2018,1.0,5.0,Wallet,8.0,0,5.0,Tanta,32,Regular,Beauty,Perfume 18,994.09,994.09,944.3855,October
+51348,2024-12-01,1127,2033,4.0,0.0,Cash,3.0,0,3.0,Cairo,30,Regular,Electronics,Keyboard 33,801.02,3204.08,3204.08,December
+51705,2024-12-14,1081,2036,3.0,10.0,Card,3.0,0,2.0,Ismailia,52,New,Beauty,Face Wash 36,666.33,1998.9900000000002,1799.0910000000003,December
+50711,2025-01-22,1013,2042,4.0,0.0,Card,1.0,0,4.0,Zagazig,44,New,Sports,Running Socks 42,1954.72,7818.88,7818.88,January
+50366,2025-02-22,1137,2042,3.0,0.0,Cash,1.0,0,4.0,Tanta,49,Regular,Sports,Running Socks 42,1954.72,5864.16,5864.16,February
+51506,2024-11-08,1152,2042,2.0,5.0,Card,5.0,0,4.0,Alexandria,33,New,Sports,Running Socks 42,1954.72,3909.44,3713.968,November
+51536,2024-09-18,1096,2010,1.0,0.0,Bank Transfer,6.0,0,4.0,Alexandria,38,Regular,Sports,Running Socks 10,1898.9,1898.9,1898.9,September
+51106,2024-09-17,1166,2004,3.0,20.0,Wallet,1.0,0,4.0,Suez,29,Regular,Electronics,Keyboard 4,2308.12,6924.36,5539.488,September
+50560,2025-02-25,1118,2025,2.0,0.0,Cash,8.0,0,4.0,Giza,36,Regular,Groceries,Tea 25,2684.59,5369.18,5369.18,February
+51024,2024-10-10,1100,2025,2.0,0.0,Card,3.0,0,2.0,Giza,21,Vip,Groceries,Tea 25,2684.59,5369.18,5369.18,October
+50771,2024-09-06,1108,2045,1.0,0.0,Card,6.0,0,2.0,Zagazig,42,Regular,Beauty,Body Lotion 45,2724.13,2724.13,2724.13,September
+51438,2025-01-28,1069,2001,2.0,0.0,Card,1.0,0,4.0,Cairo,51,Regular,Electronics,Wireless Mouse 1,1554.81,3109.62,3109.62,January
+50306,2025-01-02,1053,2028,2.0,20.0,Card,5.0,0,5.0,Alexandria,18,Vip,Home,Kitchen Knife 28,2143.56,4287.12,3429.696,January
+50388,2024-10-26,1050,2010,2.0,15.0,Cash,5.0,0,4.0,Suez,25,New,Sports,Running Socks 10,1898.9,3797.8,3228.13,October
+51318,2024-12-13,1166,2015,3.0,25.0,Card,5.0,0,4.0,Unknown,29,Regular,Home,Lamp 15,973.33,2919.9900000000002,2189.9925000000003,December
+51548,2025-01-19,1009,2035,4.0,15.0,Wallet,4.0,0,4.0,Giza,28,Regular,Sports,Jump Rope 35,2494.59,9978.36,8481.606,January
+50406,2025-02-24,1162,2039,3.0,0.0,Bank Transfer,2.0,0,4.0,Zagazig,30,Vip,Electronics,Wireless Mouse 39,154.27,462.81000000000006,462.81000000000006,February
+50778,2024-11-16,1068,2013,4.0,0.0,Card,3.0,0,5.0,Unknown,35,Regular,Fashion,T-Shirt 13,1475.64,5902.56,5902.56,November
+51128,2024-09-21,1131,2020,2.0,0.0,Wallet,2.0,0,2.0,Tanta,46,Regular,Fashion,Jacket 20,2508.89,5017.78,5017.78,September
+51375,2025-02-17,1149,2031,4.0,30.0,Cash,4.0,0,4.0,Suez,24,Regular,Fashion,Hoodie 31,2874.63,11498.52,8048.964,February
+51026,2024-10-10,1045,2011,3.0,25.0,Cash,3.0,0,2.0,Cairo,49,New,Groceries,Tea 11,2208.06,6624.18,4968.135,October
+51670,2024-09-30,1087,2004,4.0,0.0,Card,6.0,0,3.0,Cairo,37,New,Electronics,Keyboard 4,2308.12,9232.48,9232.48,September
+50348,2025-02-12,1084,2022,1.0,10.0,Bank Transfer,0.0,0,5.0,Suez,57,New,Groceries,Pasta 22,3190.63,3190.63,2871.567,February
+51698,2025-02-18,1077,2028,3.0,10.0,Cash,4.0,0,4.0,Alexandria,47,Regular,Home,Kitchen Knife 28,2143.56,6430.68,5787.612,February
+51114,2024-11-09,1082,2036,3.0,0.0,Wallet,6.0,0,4.0,Mansoura,25,Regular,Beauty,Face Wash 36,666.33,1998.9900000000002,1998.9900000000002,November
+50788,2025-02-16,1050,2020,5.0,0.0,Card,1.0,0,3.0,Suez,25,New,Fashion,Jacket 20,2508.89,12544.449999999999,12544.449999999999,February
+51381,2024-11-12,1135,2006,1.0,0.0,Wallet,7.0,0,1.0,Suez,28,Regular,Electronics,Keyboard 6,414.39,414.39,414.39,November
+51163,2024-10-03,1026,2011,2.0,0.0,Card,4.0,0,5.0,Zagazig,29,New,Groceries,Tea 11,2208.06,4416.12,4416.12,October
+50761,2025-01-17,1073,2036,2.0,0.0,Card,4.0,0,4.0,Mansoura,26,Regular,Beauty,Face Wash 36,666.33,1332.66,1332.66,January
+50543,2024-12-29,1054,2040,2.0,20.0,Card,0.0,0,4.0,Mansoura,50,Regular,Groceries,Coffee 40,57.16,114.32,91.456,December
+50733,2025-02-18,1036,2004,2.0,5.0,Cash,2.0,0,1.0,Cairo,29,Regular,Electronics,Keyboard 4,2308.12,4616.24,4385.428,February
+50616,2024-12-31,1142,2030,4.0,0.0,Card,5.0,0,5.0,Giza,22,Regular,Electronics,Headphones 30,325.79,1303.16,1303.16,December
+51442,2024-12-21,1034,2028,2.0,20.0,Wallet,6.0,0,1.0,Tanta,37,Regular,Home,Kitchen Knife 28,2143.56,4287.12,3429.696,December
+50846,2025-02-21,1064,2026,3.0,0.0,Cash,0.0,0,1.0,Ismailia,45,Regular,Beauty,Perfume 26,376.29,1128.8700000000001,1128.8700000000001,February
+50612,2025-01-18,1098,2045,1.0,0.0,Card,6.0,0,4.0,Zagazig,51,Regular,Beauty,Body Lotion 45,2724.13,2724.13,2724.13,January
+50885,2024-09-21,1102,2037,5.0,10.0,Wallet,1.0,0,4.0,Giza,38,New,Groceries,Olive Oil 37,2917.62,14588.099999999999,13129.289999999999,September
+51358,2024-12-12,1123,2004,3.0,0.0,Cash,6.0,0,5.0,Zagazig,18,Regular,Electronics,Keyboard 4,2308.12,6924.36,6924.36,December
+50352,2024-11-01,1175,2036,1.0,0.0,Cash,4.0,0,4.0,Zagazig,59,Regular,Beauty,Face Wash 36,666.33,666.33,666.33,November
+51273,2024-12-05,1081,2042,3.0,5.0,Card,8.0,0,2.0,Ismailia,52,New,Sports,Running Socks 42,1954.72,5864.16,5570.951999999999,December
+50762,2025-01-04,1041,2017,5.0,30.0,Cash,0.0,1,5.0,Giza,23,New,Groceries,Pasta 17,1437.71,7188.55,5031.985,January
+50760,2024-10-28,1041,2038,5.0,0.0,Card,1.0,0,5.0,Giza,23,New,Beauty,Body Lotion 38,2113.81,10569.05,10569.05,October
+50172,2024-11-30,1019,2033,5.0,5.0,Card,6.0,0,4.0,Suez,32,New,Electronics,Keyboard 33,801.02,4005.1,3804.845,November
+50299,2024-12-24,1061,2002,1.0,0.0,Card,0.0,0,4.0,Ismailia,24,Regular,Fashion,T-Shirt 2,1229.3,1229.3,1229.3,December
+50064,2024-09-21,1179,2021,3.0,0.0,Cash,1.0,0,4.0,Ismailia,21,Regular,Groceries,Rice 21,389.46,1168.3799999999999,1168.3799999999999,September
+50277,2025-01-31,1061,2008,3.0,0.0,Wallet,0.0,0,4.0,Ismailia,24,Regular,Electronics,Usb-C Cable 8,2053.15,6159.450000000001,6159.450000000001,January
+51488,2025-01-31,1033,2037,5.0,0.0,Card,2.0,0,2.0,Cairo,51,New,Groceries,Olive Oil 37,2917.62,14588.099999999999,14588.099999999999,January
+51601,2025-01-20,1083,2005,5.0,0.0,Bank Transfer,5.0,0,2.0,Giza,30,New,Groceries,Rice 5,3045.78,15228.900000000001,15228.900000000001,January
+50202,2024-10-31,1094,2013,1.0,30.0,Card,0.0,0,5.0,Mansoura,59,Regular,Fashion,T-Shirt 13,1475.64,1475.64,1032.948,October
+51624,2025-01-06,1134,2011,2.0,10.0,Bank Transfer,0.0,0,5.0,Tanta,30,Regular,Groceries,Tea 11,2208.06,4416.12,3974.508,January
+51278,2024-09-04,1087,2038,5.0,20.0,Wallet,2.0,0,4.0,Cairo,37,New,Beauty,Body Lotion 38,2113.81,10569.05,8455.24,September
+51585,2024-10-14,1059,2012,2.0,5.0,Wallet,2.0,0,3.0,Zagazig,31,New,Beauty,Face Wash 12,78.88,157.76,149.87199999999999,October
+50971,2024-11-02,1054,2009,5.0,5.0,Cash,1.0,0,4.0,Unknown,50,Regular,Beauty,Face Wash 9,425.27,2126.35,2020.0324999999998,November
+50723,2025-02-17,1062,2005,3.0,0.0,Card,6.0,0,4.0,Zagazig,43,Regular,Groceries,Rice 5,3045.78,9137.34,9137.34,February
+51122,2024-10-31,1123,2042,5.0,15.0,Cash,2.0,0,3.0,Zagazig,18,Regular,Sports,Running Socks 42,1954.72,9773.6,8307.56,October
+50981,2025-02-08,1073,2033,2.0,5.0,Card,7.0,0,4.0,Mansoura,26,Regular,Electronics,Keyboard 33,801.02,1602.04,1521.9379999999999,February
+51039,2024-12-15,1171,2030,1.0,10.0,Card,8.0,0,4.0,Cairo,40,Regular,Electronics,Headphones 30,325.79,325.79,293.211,December
+51167,2024-10-28,1130,2028,5.0,0.0,Wallet,7.0,0,4.0,Zagazig,22,New,Home,Kitchen Knife 28,2143.56,10717.8,10717.8,October
+51758,2024-11-15,1152,2003,2.0,0.0,Card,8.0,0,5.0,Unknown,33,New,Fashion,Hoodie 3,3157.76,6315.52,6315.52,November
+50577,2024-11-21,1151,2036,3.0,10.0,Card,8.0,0,3.0,Suez,41,Regular,Beauty,Face Wash 36,666.33,1998.9900000000002,1799.0910000000003,November
+50958,2025-01-22,1085,2019,4.0,15.0,Cash,1.0,0,3.0,Zagazig,60,Vip,Groceries,Olive Oil 19,2942.28,11769.12,10003.752,January
+50349,2025-01-22,1041,2006,3.0,5.0,Bank Transfer,7.0,1,3.0,Giza,23,New,Electronics,Keyboard 6,414.39,1243.17,1181.0115,January
+51548,2025-02-26,1053,2022,3.0,0.0,Cash,7.0,0,4.0,Alexandria,18,Vip,Groceries,Pasta 22,3190.63,9571.89,9571.89,February
+51013,2025-01-14,1051,2023,4.0,0.0,Cash,3.0,0,5.0,Suez,37,New,Sports,Bottle 23,2818.27,11273.08,11273.08,January
+50950,2024-12-07,1054,2037,4.0,20.0,Wallet,8.0,0,3.0,Mansoura,50,Regular,Groceries,Olive Oil 37,2917.62,11670.48,9336.384,December
+50067,2025-02-17,1065,2012,3.0,30.0,Cash,4.0,1,4.0,Mansoura,45,Regular,Beauty,Face Wash 12,78.88,236.64,165.64799999999997,February
+50504,2025-01-12,1165,2044,4.0,20.0,Cash,5.0,0,5.0,Mansoura,56,Regular,Fashion,T-Shirt 44,793.83,3175.32,2540.2560000000003,January
+51075,2024-12-27,1135,2032,4.0,25.0,Cash,7.0,0,1.0,Suez,28,Regular,Electronics,Power Bank 32,131.64,526.56,394.91999999999996,December
+50628,2025-01-27,1107,2024,3.0,0.0,Cash,0.0,0,3.0,Suez,24,New,Home,Lamp 24,937.15,2811.45,2811.45,January
+51196,2024-11-28,1013,2024,5.0,10.0,Wallet,2.0,0,4.0,Zagazig,44,New,Home,Lamp 24,937.15,4685.75,4217.175,November
+50970,2025-01-14,1055,2036,3.0,10.0,Cash,8.0,0,4.0,Mansoura,39,Vip,Beauty,Face Wash 36,666.33,1998.9900000000002,1799.0910000000003,January
+51431,2024-09-01,1035,2018,4.0,30.0,Card,0.0,0,4.0,Ismailia,49,Regular,Beauty,Perfume 18,994.09,3976.36,2783.4519999999998,September
+50161,2024-12-08,1015,2026,3.0,5.0,Cash,1.0,0,4.0,Zagazig,59,New,Beauty,Perfume 26,376.29,1128.8700000000001,1072.4265,December
+50905,2024-11-01,1178,2010,5.0,0.0,Wallet,7.0,0,4.0,Giza,56,Regular,Sports,Running Socks 10,1898.9,9494.5,9494.5,November
+50786,2024-12-22,1075,2013,5.0,10.0,Card,2.0,0,3.0,Zagazig,46,New,Fashion,T-Shirt 13,1475.64,7378.200000000001,6640.380000000001,December
+50492,2024-10-16,1118,2032,1.0,0.0,Cash,2.0,1,4.0,Giza,36,Regular,Electronics,Power Bank 32,131.64,131.64,131.64,October
+51295,2025-02-12,1167,2022,2.0,0.0,Wallet,8.0,0,3.0,Alexandria,60,Vip,Groceries,Pasta 22,3190.63,6381.26,6381.26,February
+51337,2024-12-22,1022,2036,5.0,15.0,Card,0.0,0,4.0,Alexandria,57,Vip,Beauty,Face Wash 36,666.33,3331.65,2831.9025,December
+51684,2024-10-22,1066,2038,3.0,0.0,Card,1.0,0,1.0,Alexandria,21,Vip,Beauty,Body Lotion 38,2113.81,6341.43,6341.43,October
+51326,2024-10-09,1002,2044,1.0,0.0,Card,1.0,1,4.0,Suez,24,Vip,Fashion,T-Shirt 44,793.83,793.83,793.83,October
+51756,2025-01-02,1094,2033,5.0,0.0,Card,7.0,0,5.0,Mansoura,59,Regular,Electronics,Keyboard 33,801.02,4005.1,4005.1,January
+50947,2024-10-22,1035,2026,1.0,25.0,Card,0.0,0,3.0,Ismailia,49,Regular,Beauty,Perfume 26,376.29,376.29,282.21750000000003,October
+51516,2025-01-26,1033,2032,5.0,10.0,Cash,0.0,0,4.0,Cairo,51,New,Electronics,Power Bank 32,131.64,658.1999999999999,592.38,January
+51486,2025-01-18,1176,2035,1.0,0.0,Cash,5.0,0,4.0,Mansoura,60,Regular,Sports,Jump Rope 35,2494.59,2494.59,2494.59,January
+51200,2025-02-01,1119,2027,1.0,0.0,Card,7.0,0,4.0,Giza,30,Regular,Sports,Jump Rope 27,3197.17,3197.17,3197.17,February
+50070,2024-12-10,1166,2011,3.0,0.0,Wallet,1.0,0,5.0,Suez,29,Regular,Groceries,Tea 11,2208.06,6624.18,6624.18,December
+50372,2024-12-19,1034,2028,5.0,0.0,Wallet,1.0,0,4.0,Tanta,37,Regular,Home,Kitchen Knife 28,2143.56,10717.8,10717.8,December
+51258,2024-09-27,1078,2010,1.0,0.0,Bank Transfer,5.0,0,4.0,Giza,22,New,Sports,Running Socks 10,1898.9,1898.9,1898.9,September
+51503,2024-09-09,1053,2039,5.0,20.0,Cash,5.0,0,3.0,Alexandria,18,Vip,Electronics,Wireless Mouse 39,154.27,771.35,617.08,September
+50696,2025-02-21,1035,2044,2.0,5.0,Wallet,4.0,0,5.0,Ismailia,49,Regular,Fashion,T-Shirt 44,793.83,1587.66,1508.277,February
+51049,2024-11-01,1135,2025,2.0,0.0,Card,5.0,0,4.0,Suez,28,Regular,Groceries,Tea 25,2684.59,5369.18,5369.18,November
+50857,2025-02-03,1105,2039,2.0,5.0,Cash,2.0,0,4.0,Suez,36,Regular,Electronics,Wireless Mouse 39,154.27,308.54,293.113,February
+50306,2024-10-15,1091,2043,4.0,0.0,Card,3.0,0,3.0,Mansoura,30,New,Fashion,Hoodie 43,2572.68,10290.72,10290.72,October
+51441,2024-09-04,1142,2004,4.0,10.0,Card,0.0,0,3.0,Giza,22,Regular,Electronics,Keyboard 4,2308.12,9232.48,8309.232,September
+51532,2025-02-16,1151,2036,5.0,10.0,Card,0.0,0,4.0,Suez,41,Regular,Beauty,Face Wash 36,666.33,3331.65,2998.485,February
+50783,2024-10-19,1027,2041,4.0,5.0,Wallet,6.0,0,5.0,Mansoura,50,New,Home,Storage Box 41,203.24,812.96,772.312,October
+50587,2024-11-14,1029,2035,5.0,30.0,Cash,5.0,0,5.0,Tanta,29,New,Sports,Jump Rope 35,2494.59,12472.95,8731.065,November
+51433,2025-02-02,1151,2029,5.0,15.0,Cash,1.0,0,4.0,Suez,41,Regular,Home,Lamp 29,2094.4,10472.0,8901.199999999999,February
+50791,2025-02-18,1085,2008,4.0,0.0,Card,5.0,0,5.0,Zagazig,60,Vip,Electronics,Usb-C Cable 8,2053.15,8212.6,8212.6,February
+50158,2024-11-19,1069,2003,1.0,0.0,Cash,7.0,0,4.0,Cairo,51,Regular,Fashion,Hoodie 3,3157.76,3157.76,3157.76,November
+50408,2024-12-17,1131,2011,5.0,0.0,Wallet,2.0,1,2.0,Tanta,46,Regular,Groceries,Tea 11,2208.06,11040.3,11040.3,December
+50738,2024-10-15,1174,2045,2.0,10.0,Bank Transfer,6.0,0,4.0,Zagazig,36,Regular,Beauty,Body Lotion 45,2724.13,5448.26,4903.434,October
+51737,2024-11-17,1171,2012,1.0,15.0,Card,4.0,1,5.0,Cairo,40,Regular,Beauty,Face Wash 12,78.88,78.88,67.04799999999999,November
+50324,2024-12-16,1011,2039,3.0,5.0,Card,3.0,0,4.0,Tanta,47,Vip,Electronics,Wireless Mouse 39,154.27,462.81000000000006,439.6695,December
+51334,2025-02-01,1028,2018,2.0,0.0,Bank Transfer,0.0,0,4.0,Suez,59,Regular,Beauty,Perfume 18,994.09,1988.18,1988.18,February
+51559,2025-02-01,1133,2034,3.0,0.0,Cash,6.0,0,4.0,Cairo,23,New,Fashion,Jeans 34,491.95,1475.85,1475.85,February
+50867,2025-01-03,1163,2009,5.0,10.0,Cash,1.0,0,4.0,Mansoura,44,Regular,Beauty,Face Wash 9,425.27,2126.35,1913.715,January
+50578,2024-09-26,1077,2005,1.0,0.0,Card,0.0,0,5.0,Alexandria,47,Regular,Groceries,Rice 5,3045.78,3045.78,3045.78,September
+50797,2024-10-26,1061,2013,1.0,0.0,Cash,3.0,0,4.0,Ismailia,24,Regular,Fashion,T-Shirt 13,1475.64,1475.64,1475.64,October
+50899,2024-10-19,1099,2013,4.0,5.0,Wallet,4.0,0,3.0,Zagazig,20,Vip,Fashion,T-Shirt 13,1475.64,5902.56,5607.432,October
+51776,2025-01-29,1054,2025,4.0,20.0,Card,1.0,0,3.0,Mansoura,50,Regular,Groceries,Tea 25,2684.59,10738.36,8590.688,January
+51424,2024-09-19,1102,2012,2.0,10.0,Card,8.0,0,4.0,Giza,38,New,Beauty,Face Wash 12,78.88,157.76,141.984,September
+51392,2024-10-14,1139,2027,1.0,0.0,Bank Transfer,4.0,0,4.0,Alexandria,58,New,Sports,Jump Rope 27,3197.17,3197.17,3197.17,October
+51281,2025-02-27,1138,2015,3.0,5.0,Card,3.0,0,4.0,Cairo,49,Regular,Home,Lamp 15,973.33,2919.9900000000002,2773.9905,February
+50155,2024-12-16,1074,2004,2.0,5.0,Cash,5.0,0,3.0,Giza,32,New,Electronics,Keyboard 4,2308.12,4616.24,4385.428,December
+50784,2025-01-12,1150,2022,3.0,0.0,Card,8.0,0,4.0,Cairo,41,New,Groceries,Pasta 22,3190.63,9571.89,9571.89,January
+50958,2024-10-01,1026,2037,5.0,0.0,Wallet,7.0,0,4.0,Zagazig,29,New,Groceries,Olive Oil 37,2917.62,14588.099999999999,14588.099999999999,October
+51762,2024-11-26,1172,2034,1.0,0.0,Cash,7.0,0,4.0,Cairo,19,New,Fashion,Jeans 34,491.95,491.95,491.95,November
+50957,2025-01-19,1073,2033,4.0,15.0,Wallet,4.0,0,4.0,Mansoura,26,Regular,Electronics,Keyboard 33,801.02,3204.08,2723.468,January
+50230,2024-10-18,1097,2035,2.0,15.0,Card,8.0,0,4.0,Giza,38,New,Sports,Jump Rope 35,2494.59,4989.18,4240.803,October
+50577,2024-12-18,1013,2045,1.0,0.0,Wallet,1.0,0,4.0,Zagazig,44,New,Beauty,Body Lotion 45,2724.13,2724.13,2724.13,December
+51126,2025-02-23,1015,2007,5.0,0.0,Card,4.0,0,4.0,Zagazig,59,New,Groceries,Olive Oil 7,2727.69,13638.45,13638.45,February
+50714,2024-11-12,1137,2043,4.0,15.0,Cash,3.0,0,4.0,Tanta,49,Regular,Fashion,Hoodie 43,2572.68,10290.72,8747.112,November
+51294,2024-12-28,1126,2006,2.0,15.0,Card,1.0,1,5.0,Tanta,24,Regular,Electronics,Keyboard 6,414.39,828.78,704.463,December
+51720,2024-10-15,1176,2037,2.0,0.0,Bank Transfer,1.0,0,4.0,Mansoura,60,Regular,Groceries,Olive Oil 37,2917.62,5835.24,5835.24,October
+51481,2025-02-19,1179,2034,1.0,0.0,Cash,8.0,0,3.0,Ismailia,21,Regular,Fashion,Jeans 34,491.95,491.95,491.95,February
+51125,2025-02-13,1134,2019,1.0,15.0,Cash,8.0,0,3.0,Tanta,30,Regular,Groceries,Olive Oil 19,2942.28,2942.28,2500.938,February
+51590,2025-02-19,1097,2030,1.0,0.0,Card,5.0,0,5.0,Giza,38,New,Electronics,Headphones 30,325.79,325.79,325.79,February
+50726,2024-10-04,1001,2010,1.0,20.0,Wallet,6.0,0,4.0,Cairo,58,Vip,Sports,Running Socks 10,1898.9,1898.9,1519.1200000000001,October
+51767,2024-10-26,1107,2036,4.0,15.0,Cash,8.0,0,5.0,Suez,24,New,Beauty,Face Wash 36,666.33,2665.32,2265.522,October
+50935,2024-09-01,1064,2006,2.0,0.0,Wallet,7.0,1,3.0,Ismailia,45,Regular,Electronics,Keyboard 6,414.39,828.78,828.78,September
+50803,2024-12-03,1005,2034,3.0,0.0,Card,8.0,0,4.0,Mansoura,39,Regular,Fashion,Jeans 34,491.95,1475.85,1475.85,December
+50448,2024-12-28,1116,2027,1.0,5.0,Cash,5.0,0,4.0,Tanta,40,Vip,Sports,Jump Rope 27,3197.17,3197.17,3037.3115,December
+50785,2025-01-20,1046,2021,3.0,0.0,Wallet,3.0,0,4.0,Ismailia,31,Vip,Groceries,Rice 21,389.46,1168.3799999999999,1168.3799999999999,January
+50934,2025-02-01,1013,2034,3.0,0.0,Bank Transfer,1.0,0,1.0,Zagazig,44,New,Fashion,Jeans 34,491.95,1475.85,1475.85,February
+50169,2025-02-14,1101,2015,4.0,0.0,Card,0.0,0,5.0,Suez,29,New,Home,Lamp 15,973.33,3893.32,3893.32,February
+50700,2025-01-30,1021,2016,1.0,0.0,Card,3.0,0,5.0,Tanta,33,Regular,Groceries,Rice 16,1489.01,1489.01,1489.01,January
+50531,2024-11-14,1094,2018,4.0,0.0,Wallet,8.0,0,5.0,Mansoura,59,Regular,Beauty,Perfume 18,994.09,3976.36,3976.36,November
+51701,2024-11-19,1124,2029,1.0,15.0,Wallet,3.0,0,3.0,Mansoura,56,Regular,Home,Lamp 29,2094.4,2094.4,1780.24,November
+51156,2025-02-26,1107,2012,1.0,0.0,Wallet,1.0,0,4.0,Suez,24,New,Beauty,Face Wash 12,78.88,78.88,78.88,February
+51703,2024-12-05,1124,2043,5.0,0.0,Wallet,1.0,0,4.0,Mansoura,56,Regular,Fashion,Hoodie 43,2572.68,12863.4,12863.4,December
+51243,2025-01-16,1025,2011,3.0,0.0,Wallet,3.0,0,1.0,Suez,37,New,Groceries,Tea 11,2208.06,6624.18,6624.18,January
+51581,2024-11-14,1071,2034,3.0,10.0,Card,1.0,0,5.0,Suez,25,Regular,Fashion,Jeans 34,491.95,1475.85,1328.2649999999999,November
+51456,2025-01-05,1154,2003,3.0,15.0,Bank Transfer,8.0,0,5.0,Alexandria,53,Vip,Fashion,Hoodie 3,3157.76,9473.28,8052.2880000000005,January
+51508,2025-02-10,1003,2033,3.0,0.0,Wallet,8.0,0,5.0,Zagazig,39,Regular,Electronics,Keyboard 33,801.02,2403.06,2403.06,February
+51111,2024-10-13,1129,2024,1.0,0.0,Wallet,1.0,0,3.0,Tanta,31,New,Home,Lamp 24,937.15,937.15,937.15,October
+51798,2024-09-02,1044,2013,5.0,0.0,Cash,4.0,0,5.0,Alexandria,26,Vip,Fashion,T-Shirt 13,1475.64,7378.200000000001,7378.200000000001,September
+50459,2024-10-15,1043,2030,3.0,0.0,Cash,7.0,0,2.0,Zagazig,48,Regular,Electronics,Headphones 30,325.79,977.3700000000001,977.3700000000001,October
+51404,2024-12-05,1166,2001,4.0,0.0,Card,2.0,0,2.0,Suez,29,Regular,Electronics,Wireless Mouse 1,1554.81,6219.24,6219.24,December
+51118,2024-11-07,1103,2014,3.0,5.0,Card,6.0,0,4.0,Suez,46,New,Groceries,Olive Oil 14,2648.26,7944.780000000001,7547.541,November
+50722,2024-10-15,1076,2018,2.0,0.0,Wallet,8.0,0,4.0,Mansoura,24,Regular,Beauty,Perfume 18,994.09,1988.18,1988.18,October
+51028,2024-09-25,1138,2005,5.0,20.0,Cash,6.0,0,4.0,Cairo,49,Regular,Groceries,Rice 5,3045.78,15228.900000000001,12183.120000000003,September
+51661,2024-11-25,1014,2022,5.0,5.0,Card,7.0,0,4.0,Suez,33,Regular,Groceries,Pasta 22,3190.63,15953.150000000001,15155.4925,November
+51145,2024-12-06,1160,2010,5.0,0.0,Wallet,5.0,1,3.0,Suez,58,Vip,Sports,Running Socks 10,1898.9,9494.5,9494.5,December
+51173,2025-02-13,1176,2030,5.0,0.0,Cash,7.0,0,4.0,Mansoura,60,Regular,Electronics,Headphones 30,325.79,1628.95,1628.95,February
+50843,2024-10-03,1132,2035,5.0,0.0,Card,6.0,0,1.0,Tanta,46,Regular,Sports,Jump Rope 35,2494.59,12472.95,12472.95,October
+51561,2024-12-03,1078,2042,1.0,10.0,Cash,1.0,0,5.0,Giza,22,New,Sports,Running Socks 42,1954.72,1954.72,1759.248,December
+50371,2024-09-11,1091,2031,4.0,0.0,Card,1.0,0,5.0,Mansoura,30,New,Fashion,Hoodie 31,2874.63,11498.52,11498.52,September
+51396,2025-02-06,1015,2041,4.0,0.0,Card,7.0,0,4.0,Zagazig,59,New,Home,Storage Box 41,203.24,812.96,812.96,February
+51561,2024-10-08,1094,2021,4.0,0.0,Card,3.0,0,4.0,Mansoura,59,Regular,Groceries,Rice 21,389.46,1557.84,1557.84,October
+51223,2024-12-26,1146,2029,2.0,20.0,Card,8.0,0,4.0,Suez,27,Regular,Home,Lamp 29,2094.4,4188.8,3351.0400000000004,December
+50294,2024-11-11,1010,2024,4.0,0.0,Wallet,8.0,0,4.0,Cairo,30,New,Home,Lamp 24,937.15,3748.6,3748.6,November
+50443,2025-02-10,1103,2009,4.0,5.0,Cash,4.0,0,4.0,Suez,46,New,Beauty,Face Wash 9,425.27,1701.08,1616.0259999999998,February
+51749,2025-02-20,1044,2042,4.0,5.0,Card,4.0,0,1.0,Alexandria,26,Vip,Sports,Running Socks 42,1954.72,7818.88,7427.936,February
+50940,2025-02-22,1055,2027,4.0,0.0,Cash,0.0,0,4.0,Mansoura,39,Vip,Sports,Jump Rope 27,3197.17,12788.68,12788.68,February
+50973,2025-02-19,1021,2001,3.0,20.0,Cash,4.0,0,5.0,Tanta,33,Regular,Electronics,Wireless Mouse 1,1554.81,4664.43,3731.5440000000003,February
+51673,2024-11-18,1167,2039,2.0,0.0,Cash,8.0,0,4.0,Alexandria,60,Vip,Electronics,Wireless Mouse 39,154.27,308.54,308.54,November
+50716,2024-11-27,1132,2018,5.0,5.0,Cash,3.0,0,4.0,Tanta,46,Regular,Beauty,Perfume 18,994.09,4970.45,4721.9275,November
+50197,2024-09-28,1169,2042,2.0,15.0,Card,2.0,0,3.0,Alexandria,25,Regular,Sports,Running Socks 42,1954.72,3909.44,3323.024,September
+50272,2024-10-24,1056,2020,1.0,0.0,Wallet,6.0,0,5.0,Cairo,48,Regular,Fashion,Jacket 20,2508.89,2508.89,2508.89,October
+50382,2024-11-07,1055,2044,3.0,0.0,Card,8.0,0,4.0,Mansoura,39,Vip,Fashion,T-Shirt 44,793.83,2381.4900000000002,2381.4900000000002,November
+50742,2024-10-28,1054,2030,4.0,5.0,Wallet,7.0,0,1.0,Mansoura,50,Regular,Electronics,Headphones 30,325.79,1303.16,1238.002,October
+51514,2024-11-11,1048,2033,4.0,5.0,Cash,5.0,0,3.0,Ismailia,42,Regular,Electronics,Keyboard 33,801.02,3204.08,3043.8759999999997,November
+50583,2025-01-31,1103,2018,3.0,5.0,Card,0.0,0,2.0,Suez,46,New,Beauty,Perfume 18,994.09,2982.27,2833.1565,January
+51417,2024-09-29,1111,2019,2.0,0.0,Card,7.0,0,4.0,Alexandria,52,Regular,Groceries,Olive Oil 19,2942.28,5884.56,5884.56,September
+51679,2024-12-24,1167,2034,4.0,0.0,Card,8.0,0,4.0,Alexandria,60,Vip,Fashion,Jeans 34,491.95,1967.8,1967.8,December
+50314,2024-09-17,1034,2038,2.0,10.0,Cash,1.0,0,4.0,Tanta,37,Regular,Beauty,Body Lotion 38,2113.81,4227.62,3804.858,September
+50890,2024-12-09,1057,2018,4.0,20.0,Card,1.0,0,4.0,Tanta,46,Regular,Beauty,Perfume 18,994.09,3976.36,3181.088,December
+51299,2024-09-21,1060,2042,5.0,20.0,Card,3.0,0,4.0,Zagazig,44,New,Sports,Running Socks 42,1954.72,9773.6,7818.880000000001,September
+50447,2025-01-30,1138,2042,5.0,0.0,Cash,8.0,0,4.0,Cairo,49,Regular,Sports,Running Socks 42,1954.72,9773.6,9773.6,January
+50924,2024-09-20,1093,2006,2.0,0.0,Cash,6.0,1,5.0,Suez,24,New,Electronics,Keyboard 6,414.39,828.78,828.78,September
+50381,2024-12-13,1014,2031,4.0,5.0,Bank Transfer,7.0,0,4.0,Suez,33,Regular,Fashion,Hoodie 31,2874.63,11498.52,10923.594,December
+50371,2025-02-15,1157,2030,3.0,10.0,Cash,7.0,1,5.0,Giza,59,New,Electronics,Headphones 30,325.79,977.3700000000001,879.6330000000002,February
+50846,2025-01-03,1175,2014,2.0,0.0,Cash,1.0,0,4.0,Zagazig,59,Regular,Groceries,Olive Oil 14,2648.26,5296.52,5296.52,January
+51360,2025-02-11,1172,2018,3.0,0.0,Card,6.0,0,5.0,Unknown,19,New,Beauty,Perfume 18,994.09,2982.27,2982.27,February
+50236,2024-09-01,1180,2032,4.0,0.0,Card,8.0,0,4.0,Tanta,50,Regular,Electronics,Power Bank 32,131.64,526.56,526.56,September
+50386,2024-11-26,1152,2031,1.0,0.0,Card,3.0,0,4.0,Alexandria,33,New,Fashion,Hoodie 31,2874.63,2874.63,2874.63,November
+50397,2025-01-14,1036,2015,4.0,0.0,Card,0.0,0,3.0,Cairo,29,Regular,Home,Lamp 15,973.33,3893.32,3893.32,January
+51357,2024-10-23,1100,2018,3.0,0.0,Card,2.0,1,5.0,Giza,21,Vip,Beauty,Perfume 18,994.09,2982.27,2982.27,October
+50499,2024-11-22,1087,2007,3.0,10.0,Card,4.0,0,4.0,Cairo,37,New,Groceries,Olive Oil 7,2727.69,8183.07,7364.763,November
+50200,2025-02-07,1021,2011,2.0,10.0,Card,3.0,0,5.0,Tanta,33,Regular,Groceries,Tea 11,2208.06,4416.12,3974.508,February
+51586,2025-01-16,1017,2043,1.0,0.0,Card,8.0,0,3.0,Tanta,32,Regular,Fashion,Hoodie 43,2572.68,2572.68,2572.68,January
+51060,2025-01-02,1095,2017,4.0,0.0,Wallet,5.0,0,4.0,Ismailia,35,Regular,Groceries,Pasta 17,1437.71,5750.84,5750.84,January
+51019,2025-01-12,1105,2019,5.0,0.0,Cash,3.0,0,4.0,Suez,36,Regular,Groceries,Olive Oil 19,2942.28,14711.400000000001,14711.400000000001,January
+50461,2024-11-21,1073,2023,2.0,0.0,Cash,3.0,0,4.0,Mansoura,26,Regular,Sports,Bottle 23,2818.27,5636.54,5636.54,November
+50609,2024-11-20,1136,2028,1.0,0.0,Card,2.0,0,1.0,Alexandria,46,New,Home,Kitchen Knife 28,2143.56,2143.56,2143.56,November
+51106,2024-10-31,1015,2042,4.0,0.0,Cash,2.0,0,3.0,Zagazig,59,New,Sports,Running Socks 42,1954.72,7818.88,7818.88,October
+51368,2024-09-22,1055,2037,4.0,0.0,Wallet,0.0,0,5.0,Mansoura,39,Vip,Groceries,Olive Oil 37,2917.62,11670.48,11670.48,September
+50587,2025-01-10,1095,2034,2.0,0.0,Cash,4.0,0,3.0,Ismailia,35,Regular,Fashion,Jeans 34,491.95,983.9,983.9,January
+50630,2024-10-18,1130,2028,2.0,0.0,Bank Transfer,8.0,1,4.0,Zagazig,22,New,Home,Kitchen Knife 28,2143.56,4287.12,4287.12,October
+51541,2024-09-04,1013,2044,5.0,0.0,Bank Transfer,4.0,0,4.0,Zagazig,44,New,Fashion,T-Shirt 44,793.83,3969.15,3969.15,September
+50179,2024-10-08,1019,2020,2.0,15.0,Card,1.0,0,5.0,Suez,32,New,Fashion,Jacket 20,2508.89,5017.78,4265.112999999999,October
+51560,2024-11-15,1126,2033,2.0,0.0,Card,3.0,0,4.0,Tanta,24,Regular,Electronics,Keyboard 33,801.02,1602.04,1602.04,November
+51767,2024-12-22,1177,2017,5.0,15.0,Card,3.0,0,5.0,Zagazig,24,Regular,Groceries,Pasta 17,1437.71,7188.55,6110.2675,December
+51745,2024-10-03,1126,2011,3.0,15.0,Cash,0.0,0,5.0,Unknown,24,Regular,Groceries,Tea 11,2208.06,6624.18,5630.553,October
+50922,2024-09-22,1030,2014,3.0,5.0,Card,8.0,0,5.0,Mansoura,51,Regular,Groceries,Olive Oil 14,2648.26,7944.780000000001,7547.541,September
+51321,2024-12-10,1105,2015,4.0,0.0,Card,3.0,0,3.0,Suez,36,Regular,Home,Lamp 15,973.33,3893.32,3893.32,December
+51670,2024-12-30,1030,2013,2.0,0.0,Card,0.0,0,2.0,Mansoura,51,Regular,Fashion,T-Shirt 13,1475.64,2951.28,2951.28,December
+50329,2024-09-09,1071,2015,5.0,0.0,Card,2.0,0,5.0,Suez,25,Regular,Home,Lamp 15,973.33,4866.650000000001,4866.650000000001,September
+50844,2024-09-01,1151,2045,1.0,0.0,Cash,4.0,0,2.0,Suez,41,Regular,Beauty,Body Lotion 45,2724.13,2724.13,2724.13,September
+50966,2024-09-07,1063,2025,5.0,10.0,Card,5.0,0,5.0,Alexandria,22,New,Groceries,Tea 25,2684.59,13422.95,12080.655,September
+51755,2025-02-23,1039,2001,4.0,0.0,Card,3.0,0,4.0,Alexandria,37,Vip,Electronics,Wireless Mouse 1,1554.81,6219.24,6219.24,February
+51591,2024-11-02,1128,2005,1.0,20.0,Wallet,6.0,0,5.0,Suez,41,Regular,Groceries,Rice 5,3045.78,3045.78,2436.6240000000003,November
+50894,2025-01-27,1093,2014,3.0,15.0,Cash,6.0,0,2.0,Suez,24,New,Groceries,Olive Oil 14,2648.26,7944.780000000001,6753.063,January
+50700,2024-12-22,1094,2040,4.0,15.0,Card,8.0,0,2.0,Mansoura,59,Regular,Groceries,Coffee 40,57.16,228.64,194.344,December
+50363,2025-02-19,1166,2017,3.0,0.0,Cash,0.0,0,3.0,Suez,29,Regular,Groceries,Pasta 17,1437.71,4313.13,4313.13,February
+51043,2024-09-02,1045,2005,3.0,20.0,Bank Transfer,7.0,0,5.0,Cairo,49,New,Groceries,Rice 5,3045.78,9137.34,7309.872,September
+51061,2024-11-01,1039,2016,5.0,0.0,Wallet,0.0,0,4.0,Alexandria,37,Vip,Groceries,Rice 16,1489.01,7445.05,7445.05,November
+51163,2024-12-18,1065,2042,5.0,0.0,Card,0.0,0,4.0,Mansoura,45,Regular,Sports,Running Socks 42,1954.72,9773.6,9773.6,December
+50811,2024-09-13,1026,2017,5.0,5.0,Wallet,5.0,0,4.0,Zagazig,29,New,Groceries,Pasta 17,1437.71,7188.55,6829.1224999999995,September
+50236,2024-10-03,1097,2007,2.0,5.0,Wallet,5.0,0,5.0,Giza,38,New,Groceries,Olive Oil 7,2727.69,5455.38,5182.611,October
+51283,2024-12-08,1026,2040,1.0,5.0,Card,0.0,0,5.0,Zagazig,29,New,Groceries,Coffee 40,57.16,57.16,54.30199999999999,December
+51601,2024-11-14,1076,2028,4.0,0.0,Wallet,2.0,0,4.0,Mansoura,24,Regular,Home,Kitchen Knife 28,2143.56,8574.24,8574.24,November
+50762,2024-12-19,1175,2010,1.0,20.0,Bank Transfer,0.0,1,4.0,Zagazig,59,Regular,Sports,Running Socks 10,1898.9,1898.9,1519.1200000000001,December
+51557,2024-11-06,1125,2006,2.0,5.0,Card,3.0,0,4.0,Suez,41,Vip,Electronics,Keyboard 6,414.39,828.78,787.3409999999999,November
+51099,2024-11-11,1037,2033,4.0,0.0,Cash,1.0,0,4.0,Suez,21,New,Electronics,Keyboard 33,801.02,3204.08,3204.08,November
+50956,2024-11-29,1139,2042,2.0,0.0,Wallet,2.0,0,4.0,Alexandria,58,New,Sports,Running Socks 42,1954.72,3909.44,3909.44,November
+50118,2024-12-07,1130,2015,1.0,0.0,Card,7.0,0,5.0,Zagazig,22,New,Home,Lamp 15,973.33,973.33,973.33,December
+51582,2025-02-08,1164,2023,3.0,10.0,Cash,2.0,0,4.0,Mansoura,40,Regular,Sports,Bottle 23,2818.27,8454.81,7609.329,February
+51151,2025-02-11,1036,2026,1.0,5.0,Wallet,1.0,0,3.0,Cairo,29,Regular,Beauty,Perfume 26,376.29,376.29,357.4755,February
+50026,2025-01-02,1180,2005,5.0,0.0,Card,0.0,0,3.0,Tanta,50,Regular,Groceries,Rice 5,3045.78,15228.900000000001,15228.900000000001,January
+51731,2024-12-28,1177,2012,3.0,0.0,Cash,5.0,0,5.0,Zagazig,24,Regular,Beauty,Face Wash 12,78.88,236.64,236.64,December
+50875,2025-01-30,1013,2011,1.0,15.0,Wallet,8.0,0,3.0,Zagazig,44,New,Groceries,Tea 11,2208.06,2208.06,1876.8509999999999,January
+50306,2025-02-21,1019,2036,4.0,0.0,Cash,0.0,0,4.0,Suez,32,New,Beauty,Face Wash 36,666.33,2665.32,2665.32,February
+50247,2024-12-13,1154,2021,1.0,10.0,Wallet,6.0,0,5.0,Alexandria,53,Vip,Groceries,Rice 21,389.46,389.46,350.514,December
+50587,2025-01-14,1175,2016,2.0,5.0,Card,5.0,0,3.0,Zagazig,59,Regular,Groceries,Rice 16,1489.01,2978.02,2829.1189999999997,January
+50443,2024-09-17,1180,2014,4.0,0.0,Bank Transfer,4.0,0,5.0,Tanta,50,Regular,Groceries,Olive Oil 14,2648.26,10593.04,10593.04,September
+51529,2024-11-29,1154,2001,3.0,5.0,Cash,2.0,0,4.0,Alexandria,53,Vip,Electronics,Wireless Mouse 1,1554.81,4664.43,4431.2085,November
+50613,2025-01-11,1125,2004,1.0,0.0,Card,2.0,0,5.0,Suez,41,Vip,Electronics,Keyboard 4,2308.12,2308.12,2308.12,January
+51112,2024-10-29,1007,2020,3.0,10.0,Card,1.0,0,4.0,Cairo,25,Regular,Fashion,Jacket 20,2508.89,7526.67,6774.003000000001,October
+51766,2025-01-26,1148,2002,2.0,20.0,Wallet,6.0,0,4.0,Giza,19,Regular,Fashion,T-Shirt 2,1229.3,2458.6,1966.88,January
+50634,2024-09-24,1136,2044,2.0,0.0,Wallet,7.0,0,4.0,Alexandria,46,New,Fashion,T-Shirt 44,793.83,1587.66,1587.66,September
+51515,2025-01-13,1070,2004,1.0,0.0,Card,7.0,0,3.0,Mansoura,19,Regular,Electronics,Keyboard 4,2308.12,2308.12,2308.12,January
+51034,2024-12-25,1176,2003,3.0,0.0,Wallet,4.0,0,5.0,Mansoura,60,Regular,Fashion,Hoodie 3,3157.76,9473.28,9473.28,December
+50808,2025-01-06,1042,2035,2.0,0.0,Card,3.0,0,3.0,Suez,37,Regular,Sports,Jump Rope 35,2494.59,4989.18,4989.18,January
+50126,2025-01-10,1135,2031,3.0,0.0,Card,2.0,0,5.0,Suez,28,Regular,Fashion,Hoodie 31,2874.63,8623.89,8623.89,January
+50157,2024-12-08,1063,2012,2.0,5.0,Card,2.0,0,2.0,Alexandria,22,New,Beauty,Face Wash 12,78.88,157.76,149.87199999999999,December
+50426,2024-09-20,1023,2039,4.0,10.0,Wallet,2.0,1,4.0,Giza,39,Regular,Electronics,Wireless Mouse 39,154.27,617.08,555.3720000000001,September
+51045,2024-12-01,1015,2008,5.0,0.0,Wallet,4.0,0,4.0,Zagazig,59,New,Electronics,Usb-C Cable 8,2053.15,10265.75,10265.75,December
+51790,2025-01-18,1129,2044,2.0,0.0,Cash,5.0,0,4.0,Tanta,31,New,Fashion,T-Shirt 44,793.83,1587.66,1587.66,January
+50652,2025-01-06,1157,2016,2.0,0.0,Card,3.0,0,5.0,Giza,59,New,Groceries,Rice 16,1489.01,2978.02,2978.02,January
+51371,2024-11-02,1019,2032,5.0,15.0,Card,0.0,0,4.0,Suez,32,New,Electronics,Power Bank 32,131.64,658.1999999999999,559.4699999999999,November
+50814,2024-10-26,1174,2022,4.0,0.0,Card,2.0,0,4.0,Zagazig,36,Regular,Groceries,Pasta 22,3190.63,12762.52,12762.52,October
+51149,2025-02-02,1067,2031,5.0,5.0,Card,4.0,0,3.0,Ismailia,50,Regular,Fashion,Hoodie 31,2874.63,14373.150000000001,13654.4925,February
+50512,2024-12-31,1082,2038,1.0,10.0,Cash,1.0,0,3.0,Mansoura,25,Regular,Beauty,Body Lotion 38,2113.81,2113.81,1902.429,December
+51115,2025-02-12,1175,2034,2.0,0.0,Card,3.0,0,5.0,Zagazig,59,Regular,Fashion,Jeans 34,491.95,983.9,983.9,February
+50737,2024-10-17,1121,2002,3.0,20.0,Cash,6.0,0,5.0,Mansoura,33,Regular,Fashion,T-Shirt 2,1229.3,3687.8999999999996,2950.3199999999997,October
+51780,2024-10-25,1062,2001,5.0,10.0,Card,0.0,0,3.0,Zagazig,43,Regular,Electronics,Wireless Mouse 1,1554.81,7774.049999999999,6996.6449999999995,October
+50956,2024-11-19,1079,2035,4.0,0.0,Card,1.0,0,4.0,Tanta,25,New,Sports,Jump Rope 35,2494.59,9978.36,9978.36,November
+50809,2024-10-15,1106,2009,2.0,0.0,Card,1.0,0,4.0,Suez,58,Regular,Beauty,Face Wash 9,425.27,850.54,850.54,October
+50292,2024-12-07,1150,2027,5.0,0.0,Card,7.0,0,5.0,Cairo,41,New,Sports,Jump Rope 27,3197.17,15985.85,15985.85,December
+51531,2024-10-17,1123,2040,1.0,0.0,Wallet,8.0,0,4.0,Zagazig,18,Regular,Groceries,Coffee 40,57.16,57.16,57.16,October
+51295,2024-12-25,1069,2026,2.0,10.0,Bank Transfer,4.0,0,5.0,Cairo,51,Regular,Beauty,Perfume 26,376.29,752.58,677.322,December
+50176,2025-02-01,1013,2042,1.0,0.0,Cash,2.0,0,5.0,Zagazig,44,New,Sports,Running Socks 42,1954.72,1954.72,1954.72,February
+50095,2025-01-11,1028,2008,3.0,15.0,Wallet,8.0,0,2.0,Suez,59,Regular,Electronics,Usb-C Cable 8,2053.15,6159.450000000001,5235.5325,January
+50741,2024-10-08,1125,2032,5.0,0.0,Card,7.0,0,5.0,Suez,41,Vip,Electronics,Power Bank 32,131.64,658.1999999999999,658.1999999999999,October
+50998,2025-02-03,1148,2007,1.0,0.0,Card,8.0,0,2.0,Giza,19,Regular,Groceries,Olive Oil 7,2727.69,2727.69,2727.69,February
+51083,2024-10-27,1080,2028,1.0,5.0,Wallet,4.0,0,4.0,Zagazig,43,Regular,Home,Kitchen Knife 28,2143.56,2143.56,2036.3819999999998,October
+51480,2024-10-12,1068,2001,2.0,0.0,Cash,5.0,0,2.0,Alexandria,35,Regular,Electronics,Wireless Mouse 1,1554.81,3109.62,3109.62,October
+50374,2024-09-17,1071,2007,5.0,0.0,Wallet,7.0,0,5.0,Suez,25,Regular,Groceries,Olive Oil 7,2727.69,13638.45,13638.45,September
+51674,2025-01-11,1164,2008,1.0,0.0,Cash,7.0,1,4.0,Mansoura,40,Regular,Electronics,Usb-C Cable 8,2053.15,2053.15,2053.15,January
+51322,2024-12-02,1010,2043,1.0,10.0,Card,1.0,0,4.0,Cairo,30,New,Fashion,Hoodie 43,2572.68,2572.68,2315.412,December
+51416,2024-12-22,1107,2040,2.0,20.0,Card,3.0,0,4.0,Suez,24,New,Groceries,Coffee 40,57.16,114.32,91.456,December
+51648,2024-12-16,1090,2016,4.0,5.0,Wallet,3.0,0,4.0,Suez,43,New,Groceries,Rice 16,1489.01,5956.04,5658.237999999999,December
+50750,2025-02-09,1011,2006,4.0,0.0,Wallet,5.0,0,5.0,Tanta,47,Vip,Electronics,Keyboard 6,414.39,1657.56,1657.56,February
+51734,2024-09-09,1019,2013,1.0,0.0,Card,5.0,0,3.0,Suez,32,New,Fashion,T-Shirt 13,1475.64,1475.64,1475.64,September
+51571,2024-12-15,1117,2040,1.0,5.0,Wallet,2.0,1,4.0,Cairo,54,Vip,Groceries,Coffee 40,57.16,57.16,54.30199999999999,December
+51342,2024-12-11,1145,2038,3.0,5.0,Wallet,2.0,0,3.0,Ismailia,59,Regular,Beauty,Body Lotion 38,2113.81,6341.43,6024.3585,December
+50593,2024-11-01,1125,2031,5.0,20.0,Cash,2.0,0,5.0,Suez,41,Vip,Fashion,Hoodie 31,2874.63,14373.150000000001,11498.520000000002,November
+51668,2025-02-14,1112,2013,2.0,0.0,Card,8.0,0,4.0,Suez,29,New,Fashion,T-Shirt 13,1475.64,2951.28,2951.28,February
+50850,2025-01-13,1063,2021,5.0,0.0,Cash,2.0,0,3.0,Alexandria,22,New,Groceries,Rice 21,389.46,1947.3,1947.3,January
+50672,2025-01-22,1146,2036,1.0,0.0,Wallet,2.0,0,4.0,Suez,27,Regular,Beauty,Face Wash 36,666.33,666.33,666.33,January
+51615,2025-01-26,1172,2016,3.0,0.0,Bank Transfer,3.0,0,1.0,Cairo,19,New,Groceries,Rice 16,1489.01,4467.03,4467.03,January
+51042,2025-02-23,1026,2012,3.0,0.0,Bank Transfer,5.0,0,5.0,Zagazig,29,New,Beauty,Face Wash 12,78.88,236.64,236.64,February
+50864,2024-12-21,1036,2027,2.0,5.0,Wallet,6.0,0,5.0,Cairo,29,Regular,Sports,Jump Rope 27,3197.17,6394.34,6074.623,December
+50080,2024-10-25,1077,2028,5.0,0.0,Card,0.0,0,4.0,Alexandria,47,Regular,Home,Kitchen Knife 28,2143.56,10717.8,10717.8,October
+50565,2024-09-28,1070,2044,2.0,10.0,Card,6.0,0,4.0,Mansoura,19,Regular,Fashion,T-Shirt 44,793.83,1587.66,1428.894,September
+50589,2025-02-24,1081,2022,4.0,0.0,Card,8.0,0,3.0,Ismailia,52,New,Groceries,Pasta 22,3190.63,12762.52,12762.52,February
+50658,2024-10-19,1125,2042,4.0,0.0,Wallet,1.0,0,5.0,Suez,41,Vip,Sports,Running Socks 42,1954.72,7818.88,7818.88,October
+51568,2024-10-12,1133,2028,2.0,0.0,Wallet,1.0,1,4.0,Cairo,23,New,Home,Kitchen Knife 28,2143.56,4287.12,4287.12,October
+50752,2025-01-01,1027,2023,2.0,20.0,Bank Transfer,6.0,0,4.0,Mansoura,50,New,Sports,Bottle 23,2818.27,5636.54,4509.232,January
+50970,2024-09-17,1105,2008,3.0,10.0,Cash,4.0,0,3.0,Suez,36,Regular,Electronics,Usb-C Cable 8,2053.15,6159.450000000001,5543.505000000001,September
+50341,2024-10-22,1110,2006,4.0,15.0,Card,8.0,1,2.0,Zagazig,38,New,Electronics,Keyboard 6,414.39,1657.56,1408.926,October
+51283,2025-02-16,1009,2019,4.0,0.0,Cash,1.0,0,2.0,Giza,28,Regular,Groceries,Olive Oil 19,2942.28,11769.12,11769.12,February
+50939,2024-10-02,1037,2023,1.0,0.0,Card,1.0,0,4.0,Suez,21,New,Sports,Bottle 23,2818.27,2818.27,2818.27,October
+51304,2024-10-18,1109,2024,5.0,15.0,Card,8.0,0,5.0,Mansoura,41,Regular,Home,Lamp 24,937.15,4685.75,3982.8875,October
+51315,2024-11-10,1023,2017,5.0,0.0,Cash,7.0,0,5.0,Giza,39,Regular,Groceries,Pasta 17,1437.71,7188.55,7188.55,November
+50543,2024-11-02,1088,2021,3.0,10.0,Card,2.0,0,2.0,Alexandria,32,New,Groceries,Rice 21,389.46,1168.3799999999999,1051.542,November
+50280,2024-09-08,1113,2014,4.0,0.0,Cash,3.0,0,4.0,Tanta,59,Vip,Groceries,Olive Oil 14,2648.26,10593.04,10593.04,September
+50673,2024-12-10,1057,2024,3.0,10.0,Wallet,6.0,0,2.0,Tanta,46,Regular,Home,Lamp 24,937.15,2811.45,2530.305,December
+50859,2024-09-19,1131,2026,2.0,15.0,Card,4.0,0,5.0,Tanta,46,Regular,Beauty,Perfume 26,376.29,752.58,639.693,September
+51692,2025-01-20,1028,2041,2.0,10.0,Wallet,2.0,0,4.0,Suez,59,Regular,Home,Storage Box 41,203.24,406.48,365.83200000000005,January
+50737,2024-10-02,1067,2026,5.0,0.0,Card,0.0,0,1.0,Ismailia,50,Regular,Beauty,Perfume 26,376.29,1881.45,1881.45,October
+50854,2024-11-16,1059,2031,3.0,20.0,Wallet,0.0,0,4.0,Zagazig,31,New,Fashion,Hoodie 31,2874.63,8623.89,6899.112,November
+51364,2024-12-27,1145,2002,3.0,20.0,Card,6.0,0,4.0,Ismailia,59,Regular,Fashion,T-Shirt 2,1229.3,3687.8999999999996,2950.3199999999997,December
+50173,2025-01-07,1091,2029,2.0,5.0,Bank Transfer,6.0,0,3.0,Mansoura,30,New,Home,Lamp 29,2094.4,4188.8,3979.36,January
+50172,2024-10-28,1106,2006,2.0,10.0,Card,3.0,0,5.0,Suez,58,Regular,Electronics,Keyboard 6,414.39,828.78,745.902,October
+50178,2025-02-05,1115,2037,1.0,0.0,Card,8.0,0,4.0,Tanta,41,Regular,Groceries,Olive Oil 37,2917.62,2917.62,2917.62,February
+50277,2025-02-04,1139,2020,5.0,0.0,Cash,0.0,0,4.0,Alexandria,58,New,Fashion,Jacket 20,2508.89,12544.449999999999,12544.449999999999,February
+50699,2024-10-28,1047,2035,5.0,20.0,Cash,4.0,0,4.0,Mansoura,52,New,Sports,Jump Rope 35,2494.59,12472.95,9978.36,October
+50425,2024-10-09,1174,2024,2.0,25.0,Bank Transfer,7.0,0,4.0,Zagazig,36,Regular,Home,Lamp 24,973.33,1946.66,1459.9950000000001,October
+50325,2025-02-21,1104,2038,4.0,0.0,Cash,4.0,0,4.0,Cairo,39,New,Beauty,Body Lotion 38,2113.81,8455.24,8455.24,February
+51790,2024-09-30,1149,2019,2.0,0.0,Cash,8.0,0,4.0,Suez,24,Regular,Groceries,Olive Oil 19,2942.28,5884.56,5884.56,September
+50707,2024-10-04,1021,2015,5.0,15.0,Card,6.0,0,3.0,Tanta,33,Regular,Home,Lamp 15,973.33,4866.650000000001,4136.6525,October
+50232,2025-02-13,1005,2003,2.0,0.0,Card,7.0,1,5.0,Mansoura,39,Regular,Fashion,Hoodie 3,3157.76,6315.52,6315.52,February
+51402,2024-09-23,1137,2017,2.0,30.0,Card,8.0,0,4.0,Tanta,49,Regular,Groceries,Pasta 17,1437.71,2875.42,2012.7939999999999,September
+51016,2024-12-04,1076,2029,1.0,10.0,Card,7.0,0,4.0,Mansoura,24,Regular,Home,Lamp 29,2094.4,2094.4,1884.96,December
+50805,2024-12-06,1178,2004,2.0,20.0,Card,7.0,0,4.0,Giza,56,Regular,Electronics,Keyboard 4,2308.12,4616.24,3692.992,December
+50114,2024-09-01,1146,2012,2.0,20.0,Card,2.0,0,5.0,Suez,27,Regular,Beauty,Face Wash 12,78.88,157.76,126.208,September
+51459,2025-01-23,1142,2038,1.0,5.0,Wallet,4.0,0,5.0,Giza,22,Regular,Beauty,Body Lotion 38,2113.81,2113.81,2008.1194999999998,January
+51171,2024-11-23,1168,2010,5.0,0.0,Wallet,7.0,0,4.0,Giza,58,New,Sports,Running Socks 10,1898.9,9494.5,9494.5,November
+50434,2025-01-23,1011,2011,1.0,0.0,Card,6.0,0,4.0,Tanta,47,Vip,Groceries,Tea 11,2208.06,2208.06,2208.06,January
+50001,2024-11-22,1052,2012,2.0,0.0,Bank Transfer,7.0,0,4.0,Giza,54,Regular,Beauty,Face Wash 12,78.88,157.76,157.76,November
+51769,2025-01-18,1078,2045,1.0,0.0,Cash,5.0,0,5.0,Giza,22,New,Beauty,Body Lotion 45,2724.13,2724.13,2724.13,January
+51157,2024-11-08,1011,2012,5.0,5.0,Cash,1.0,0,5.0,Tanta,47,Vip,Beauty,Face Wash 12,78.88,394.4,374.67999999999995,November
+51082,2025-01-09,1098,2022,4.0,0.0,Wallet,4.0,0,4.0,Zagazig,51,Regular,Groceries,Pasta 22,3190.63,12762.52,12762.52,January
+50327,2024-11-17,1098,2045,4.0,10.0,Bank Transfer,3.0,0,4.0,Zagazig,51,Regular,Beauty,Body Lotion 45,2724.13,10896.52,9806.868,November
+50170,2025-01-20,1179,2033,5.0,0.0,Card,0.0,0,3.0,Ismailia,21,Regular,Electronics,Keyboard 33,801.02,4005.1,4005.1,January
+50685,2025-01-08,1003,2003,3.0,10.0,Wallet,1.0,0,4.0,Zagazig,39,Regular,Fashion,Hoodie 3,3157.76,9473.28,8525.952000000001,January
+51378,2024-10-06,1039,2042,4.0,0.0,Card,0.0,0,1.0,Alexandria,37,Vip,Sports,Running Socks 42,1954.72,7818.88,7818.88,October
+50521,2024-10-11,1169,2014,5.0,0.0,Cash,3.0,0,1.0,Alexandria,25,Regular,Groceries,Olive Oil 14,2648.26,13241.300000000001,13241.300000000001,October
+50338,2024-09-12,1033,2004,2.0,5.0,Bank Transfer,3.0,0,5.0,Cairo,51,New,Electronics,Keyboard 4,2308.12,4616.24,4385.428,September
+51174,2024-09-27,1179,2031,4.0,0.0,Cash,5.0,0,4.0,Ismailia,21,Regular,Fashion,Hoodie 31,2874.63,11498.52,11498.52,September
+51427,2024-11-11,1101,2030,2.0,5.0,Card,1.0,0,4.0,Suez,29,New,Electronics,Headphones 30,325.79,651.58,619.001,November
+50945,2024-12-27,1026,2012,4.0,10.0,Card,2.0,0,4.0,Zagazig,29,New,Beauty,Face Wash 12,78.88,315.52,283.968,December
+50986,2024-11-24,1075,2004,4.0,0.0,Card,0.0,0,5.0,Zagazig,46,New,Electronics,Keyboard 4,2308.12,9232.48,9232.48,November
+51185,2024-09-08,1013,2013,4.0,0.0,Cash,4.0,0,5.0,Zagazig,44,New,Fashion,T-Shirt 13,1475.64,5902.56,5902.56,September
+50216,2024-12-01,1079,2036,2.0,0.0,Card,4.0,0,4.0,Tanta,25,New,Beauty,Face Wash 36,666.33,1332.66,1332.66,December
+51498,2024-11-12,1157,2044,5.0,0.0,Cash,6.0,0,3.0,Giza,59,New,Fashion,T-Shirt 44,793.83,3969.15,3969.15,November
+50366,2024-11-21,1092,2011,2.0,10.0,Wallet,1.0,0,2.0,Suez,18,New,Groceries,Tea 11,2208.06,4416.12,3974.508,November
+51041,2025-01-01,1097,2015,2.0,25.0,Card,3.0,0,4.0,Giza,38,New,Home,Lamp 15,973.33,1946.66,1459.9950000000001,January
+50277,2024-10-02,1137,2043,3.0,25.0,Card,8.0,0,5.0,Tanta,49,Regular,Fashion,Hoodie 43,2572.68,7718.039999999999,5788.529999999999,October
+50757,2024-11-12,1178,2035,3.0,25.0,Cash,5.0,0,3.0,Giza,56,Regular,Sports,Jump Rope 35,2494.59,7483.77,5612.8275,November
+50882,2024-09-11,1089,2027,2.0,5.0,Card,8.0,0,4.0,Suez,44,New,Sports,Jump Rope 27,3197.17,6394.34,6074.623,September
+51118,2024-11-27,1177,2009,3.0,15.0,Wallet,8.0,0,4.0,Zagazig,24,Regular,Beauty,Face Wash 9,425.27,1275.81,1084.4385,November
+50107,2024-11-25,1110,2040,2.0,0.0,Wallet,3.0,0,4.0,Zagazig,38,New,Groceries,Coffee 40,57.16,114.32,114.32,November
+51315,2024-11-15,1093,2026,1.0,0.0,Card,3.0,0,4.0,Suez,24,New,Beauty,Perfume 26,376.29,376.29,376.29,November
+51475,2024-11-28,1015,2026,3.0,0.0,Card,2.0,0,4.0,Zagazig,59,New,Beauty,Perfume 26,376.29,1128.8700000000001,1128.8700000000001,November
+50048,2024-12-04,1110,2002,4.0,15.0,Card,7.0,0,4.0,Unknown,38,New,Fashion,T-Shirt 2,1229.3,4917.2,4179.62,December
+51794,2024-11-29,1111,2011,4.0,5.0,Wallet,1.0,0,3.0,Alexandria,52,Regular,Groceries,Tea 11,2208.06,8832.24,8390.627999999999,November
+50626,2025-01-10,1047,2029,5.0,0.0,Card,2.0,0,4.0,Mansoura,52,New,Home,Lamp 29,2094.4,10472.0,10472.0,January
+50470,2025-02-15,1020,2023,4.0,0.0,Card,8.0,0,4.0,Mansoura,59,New,Sports,Bottle 23,2818.27,11273.08,11273.08,February
+50547,2024-10-14,1152,2004,1.0,0.0,Cash,5.0,0,4.0,Alexandria,33,New,Electronics,Keyboard 4,2308.12,2308.12,2308.12,October
+50820,2025-01-14,1018,2042,3.0,0.0,Wallet,6.0,0,4.0,Giza,23,Vip,Sports,Running Socks 42,1954.72,5864.16,5864.16,January
+50229,2025-01-21,1003,2002,5.0,30.0,Card,2.0,0,3.0,Zagazig,39,Regular,Fashion,T-Shirt 2,1229.3,6146.5,4302.549999999999,January
+51737,2024-11-07,1076,2016,2.0,15.0,Bank Transfer,6.0,0,4.0,Mansoura,24,Regular,Groceries,Rice 16,1489.01,2978.02,2531.317,November
+50194,2024-09-28,1003,2019,1.0,5.0,Card,3.0,0,4.0,Zagazig,39,Regular,Groceries,Olive Oil 19,2942.28,2942.28,2795.166,September
+50477,2024-09-21,1078,2005,4.0,0.0,Wallet,0.0,1,4.0,Giza,22,New,Groceries,Rice 5,3045.78,12183.12,12183.12,September
+50509,2024-10-04,1062,2013,2.0,20.0,Card,2.0,0,4.0,Unknown,43,Regular,Fashion,T-Shirt 13,1475.64,2951.28,2361.0240000000003,October
+50910,2024-09-27,1106,2030,1.0,20.0,Card,0.0,0,4.0,Suez,58,Regular,Electronics,Headphones 30,325.79,325.79,260.632,September
+50303,2024-10-25,1095,2024,3.0,0.0,Wallet,6.0,0,4.0,Ismailia,35,Regular,Home,Lamp 24,937.15,2811.45,2811.45,October
+50281,2024-12-05,1062,2027,5.0,0.0,Card,7.0,0,1.0,Zagazig,43,Regular,Sports,Jump Rope 27,3197.17,15985.85,15985.85,December
+51648,2024-11-13,1128,2026,4.0,10.0,Cash,2.0,1,4.0,Suez,41,Regular,Beauty,Perfume 26,376.29,1505.16,1354.644,November
+51642,2024-10-31,1017,2011,3.0,5.0,Wallet,3.0,0,3.0,Tanta,32,Regular,Groceries,Tea 11,2208.06,6624.18,6292.971,October
+50520,2024-11-02,1164,2021,4.0,0.0,Cash,1.0,0,5.0,Mansoura,40,Regular,Groceries,Rice 21,389.46,1557.84,1557.84,November
+50835,2024-10-25,1086,2032,5.0,0.0,Card,4.0,0,5.0,Zagazig,42,New,Electronics,Power Bank 32,131.64,658.1999999999999,658.1999999999999,October
+51286,2024-12-21,1173,2012,1.0,20.0,Card,7.0,0,5.0,Suez,30,Regular,Beauty,Face Wash 12,78.88,78.88,63.104,December
+51725,2024-12-29,1098,2003,4.0,0.0,Cash,0.0,0,4.0,Zagazig,51,Regular,Fashion,Hoodie 3,3157.76,12631.04,12631.04,December
+51122,2024-09-17,1179,2007,2.0,10.0,Bank Transfer,8.0,0,3.0,Ismailia,21,Regular,Groceries,Olive Oil 7,2727.69,5455.38,4909.842000000001,September
+51188,2024-12-09,1081,2004,1.0,30.0,Card,3.0,0,4.0,Ismailia,52,New,Electronics,Keyboard 4,2308.12,2308.12,1615.6839999999997,December
+51442,2025-01-30,1096,2001,5.0,0.0,Bank Transfer,5.0,0,3.0,Alexandria,38,Regular,Electronics,Wireless Mouse 1,1554.81,7774.049999999999,7774.049999999999,January
+50092,2024-11-05,1031,2010,5.0,25.0,Wallet,6.0,0,4.0,Mansoura,29,Regular,Sports,Running Socks 10,1898.9,9494.5,7120.875,November
+51466,2024-11-27,1088,2034,4.0,10.0,Card,8.0,0,4.0,Alexandria,32,New,Fashion,Jeans 34,491.95,1967.8,1771.02,November
+50623,2024-12-24,1068,2001,1.0,25.0,Card,3.0,0,5.0,Alexandria,35,Regular,Electronics,Wireless Mouse 1,1554.81,1554.81,1166.1075,December
+50856,2024-12-18,1168,2006,2.0,0.0,Card,2.0,0,3.0,Giza,58,New,Electronics,Keyboard 6,414.39,828.78,828.78,December
+50316,2024-09-07,1061,2001,1.0,10.0,Card,5.0,0,5.0,Ismailia,24,Regular,Electronics,Wireless Mouse 1,1554.81,1554.81,1399.329,September
+51108,2024-11-14,1158,2020,4.0,10.0,Card,6.0,0,4.0,Tanta,31,Regular,Fashion,Jacket 20,2508.89,10035.56,9032.003999999999,November
+51774,2024-09-25,1114,2035,5.0,0.0,Card,3.0,0,4.0,Mansoura,32,New,Sports,Jump Rope 35,2494.59,12472.95,12472.95,September
+50674,2025-02-04,1138,2026,3.0,25.0,Card,2.0,0,4.0,Cairo,49,Regular,Beauty,Perfume 26,376.29,1128.8700000000001,846.6525000000001,February
+51140,2024-11-12,1044,2027,3.0,0.0,Wallet,7.0,0,4.0,Alexandria,26,Vip,Sports,Jump Rope 27,3197.17,9591.51,9591.51,November
+50696,2025-02-15,1138,2040,2.0,0.0,Card,5.0,0,4.0,Cairo,49,Regular,Groceries,Coffee 40,57.16,114.32,114.32,February
+51519,2024-11-19,1173,2042,4.0,0.0,Card,0.0,0,1.0,Suez,30,Regular,Sports,Running Socks 42,1954.72,7818.88,7818.88,November
+50258,2025-01-09,1011,2035,1.0,5.0,Card,1.0,0,4.0,Tanta,47,Vip,Sports,Jump Rope 35,2494.59,2494.59,2369.8605000000002,January
+50010,2024-10-13,1053,2015,5.0,0.0,Card,8.0,0,4.0,Alexandria,18,Vip,Home,Lamp 15,973.33,4866.650000000001,4866.650000000001,October
+50487,2024-12-10,1096,2018,5.0,0.0,Wallet,2.0,0,4.0,Alexandria,38,Regular,Beauty,Perfume 18,994.09,4970.45,4970.45,December
+51507,2025-02-10,1154,2004,1.0,0.0,Cash,2.0,0,4.0,Alexandria,53,Vip,Electronics,Keyboard 4,2308.12,2308.12,2308.12,February
+51155,2025-01-24,1032,2037,1.0,0.0,Card,3.0,0,5.0,Giza,48,Regular,Groceries,Olive Oil 37,2917.62,2917.62,2917.62,January
+51761,2024-09-11,1153,2004,4.0,15.0,Bank Transfer,0.0,0,2.0,Ismailia,31,Regular,Electronics,Keyboard 4,2308.12,9232.48,7847.607999999999,September
+50913,2024-12-05,1050,2029,3.0,0.0,Card,8.0,0,5.0,Suez,25,New,Home,Lamp 29,2094.4,6283.200000000001,6283.200000000001,December
+51240,2024-10-17,1167,2032,3.0,0.0,Wallet,6.0,0,4.0,Alexandria,60,Vip,Electronics,Power Bank 32,131.64,394.91999999999996,394.91999999999996,October
+51576,2025-01-10,1060,2009,5.0,0.0,Wallet,1.0,0,4.0,Zagazig,44,New,Beauty,Face Wash 9,425.27,2126.35,2126.35,January
+50524,2025-01-13,1060,2043,5.0,0.0,Card,6.0,0,3.0,Zagazig,44,New,Fashion,Hoodie 43,2572.68,12863.4,12863.4,January
+51792,2025-02-19,1159,2029,1.0,25.0,Card,7.0,0,4.0,Tanta,26,New,Home,Lamp 29,2094.4,2094.4,1570.8000000000002,February
+50339,2024-12-13,1047,2021,1.0,0.0,Bank Transfer,1.0,1,4.0,Mansoura,52,New,Groceries,Rice 21,389.46,389.46,389.46,December
+50012,2025-01-25,1167,2020,1.0,25.0,Card,4.0,0,3.0,Alexandria,60,Vip,Fashion,Jacket 20,2508.89,2508.89,1881.6675,January
+51644,2025-02-23,1049,2015,3.0,10.0,Card,8.0,0,4.0,Zagazig,41,Regular,Home,Lamp 15,973.33,2919.9900000000002,2627.9910000000004,February
+51344,2024-10-16,1178,2007,4.0,0.0,Cash,0.0,0,4.0,Giza,56,Regular,Groceries,Olive Oil 7,2727.69,10910.76,10910.76,October
+50885,2024-11-18,1108,2012,5.0,5.0,Wallet,1.0,0,4.0,Zagazig,42,Regular,Beauty,Face Wash 12,78.88,394.4,374.67999999999995,November
+51381,2024-09-28,1137,2014,3.0,5.0,Card,3.0,1,4.0,Tanta,49,Regular,Groceries,Olive Oil 14,2648.26,7944.780000000001,7547.541,September
+50875,2025-01-18,1047,2024,4.0,0.0,Wallet,1.0,0,3.0,Mansoura,52,New,Home,Lamp 24,937.15,3748.6,3748.6,January
+50817,2024-12-10,1091,2028,4.0,0.0,Cash,5.0,0,4.0,Mansoura,30,New,Home,Kitchen Knife 28,2143.56,8574.24,8574.24,December
+51492,2025-01-15,1144,2033,4.0,0.0,Card,8.0,0,4.0,Mansoura,57,Regular,Electronics,Keyboard 33,801.02,3204.08,3204.08,January
+50522,2025-01-26,1039,2005,3.0,10.0,Card,2.0,0,5.0,Alexandria,37,Vip,Groceries,Rice 5,3045.78,9137.34,8223.606,January
+50266,2025-02-06,1007,2017,4.0,0.0,Card,7.0,0,4.0,Cairo,25,Regular,Groceries,Pasta 17,1437.71,5750.84,5750.84,February
+50340,2024-10-24,1047,2038,2.0,0.0,Wallet,5.0,0,4.0,Mansoura,52,New,Beauty,Body Lotion 38,2113.81,4227.62,4227.62,October
+50206,2024-09-10,1177,2003,4.0,10.0,Card,2.0,0,4.0,Zagazig,24,Regular,Fashion,Hoodie 3,3157.76,12631.04,11367.936000000002,September
+51345,2025-01-28,1047,2030,3.0,0.0,Bank Transfer,4.0,0,4.0,Mansoura,52,New,Electronics,Headphones 30,325.79,977.3700000000001,977.3700000000001,January
+50110,2024-11-26,1095,2040,1.0,0.0,Wallet,0.0,0,4.0,Ismailia,35,Regular,Groceries,Coffee 40,57.16,57.16,57.16,November
+51148,2025-02-26,1095,2025,5.0,5.0,Bank Transfer,5.0,0,2.0,Ismailia,35,Regular,Groceries,Tea 25,2684.59,13422.95,12751.8025,February
+50331,2024-12-16,1178,2036,4.0,0.0,Wallet,0.0,0,5.0,Giza,56,Regular,Beauty,Face Wash 36,666.33,2665.32,2665.32,December
+50822,2024-09-26,1064,2028,5.0,0.0,Card,7.0,0,4.0,Ismailia,45,Regular,Home,Kitchen Knife 28,2143.56,10717.8,10717.8,September
+50765,2024-12-17,1034,2045,2.0,0.0,Cash,0.0,0,4.0,Tanta,37,Regular,Beauty,Body Lotion 45,2724.13,5448.26,5448.26,December
+50111,2025-02-13,1063,2016,3.0,10.0,Wallet,0.0,0,1.0,Alexandria,22,New,Groceries,Rice 16,1489.01,4467.03,4020.3269999999998,February
+50352,2024-10-13,1009,2014,2.0,20.0,Card,6.0,0,4.0,Giza,28,Regular,Groceries,Olive Oil 14,2648.26,5296.52,4237.216,October
+51322,2024-11-12,1011,2026,4.0,0.0,Card,1.0,0,4.0,Tanta,47,Vip,Beauty,Perfume 26,376.29,1505.16,1505.16,November
+50926,2025-01-23,1171,2014,1.0,30.0,Card,2.0,0,4.0,Cairo,40,Regular,Groceries,Olive Oil 14,2648.26,2648.26,1853.782,January
+51268,2024-11-20,1029,2032,1.0,0.0,Wallet,3.0,0,3.0,Tanta,29,New,Electronics,Power Bank 32,131.64,131.64,131.64,November
+50763,2025-01-30,1021,2037,2.0,10.0,Wallet,1.0,0,2.0,Tanta,33,Regular,Groceries,Olive Oil 37,2917.62,5835.24,5251.716,January
+50138,2025-02-20,1133,2025,4.0,20.0,Card,6.0,1,5.0,Cairo,23,New,Groceries,Tea 25,2684.59,10738.36,8590.688,February
+50442,2024-09-11,1060,2028,4.0,15.0,Card,7.0,0,5.0,Zagazig,44,New,Home,Kitchen Knife 28,2143.56,8574.24,7288.103999999999,September
+50812,2024-10-05,1178,2012,3.0,0.0,Wallet,5.0,0,4.0,Giza,56,Regular,Beauty,Face Wash 12,78.88,236.64,236.64,October
+50973,2024-09-28,1048,2024,3.0,0.0,Bank Transfer,0.0,0,2.0,Ismailia,42,Regular,Home,Lamp 24,937.15,2811.45,2811.45,September
+50496,2024-10-24,1085,2002,1.0,20.0,Card,3.0,1,4.0,Zagazig,60,Vip,Fashion,T-Shirt 2,1229.3,1229.3,983.44,October
+51553,2024-10-12,1025,2013,4.0,0.0,Cash,2.0,0,5.0,Suez,37,New,Fashion,T-Shirt 13,1475.64,5902.56,5902.56,October
+51756,2025-01-05,1096,2029,4.0,0.0,Card,5.0,0,1.0,Alexandria,38,Regular,Home,Lamp 29,2094.4,8377.6,8377.6,January
+50909,2024-09-10,1009,2021,1.0,10.0,Card,1.0,0,5.0,Giza,28,Regular,Groceries,Rice 21,389.46,389.46,350.514,September
+51127,2025-01-20,1139,2035,1.0,0.0,Cash,4.0,1,4.0,Alexandria,58,New,Sports,Jump Rope 35,2494.59,2494.59,2494.59,January
+50293,2025-01-11,1146,2014,1.0,10.0,Card,6.0,0,4.0,Suez,27,Regular,Groceries,Olive Oil 14,2648.26,2648.26,2383.434,January
+50346,2024-12-09,1032,2042,5.0,15.0,Wallet,4.0,0,2.0,Giza,48,Regular,Sports,Running Socks 42,1954.72,9773.6,8307.56,December
+51493,2024-11-21,1168,2013,5.0,0.0,Bank Transfer,2.0,0,3.0,Giza,58,New,Fashion,T-Shirt 13,1475.64,7378.200000000001,7378.200000000001,November
+51046,2025-01-01,1099,2002,4.0,20.0,Wallet,6.0,1,3.0,Zagazig,20,Vip,Fashion,T-Shirt 2,1229.3,4917.2,3933.76,January
+50738,2025-01-12,1090,2018,4.0,0.0,Wallet,8.0,0,5.0,Suez,43,New,Beauty,Perfume 18,994.09,3976.36,3976.36,January
+51003,2024-09-05,1097,2008,4.0,0.0,Card,8.0,0,1.0,Giza,38,New,Electronics,Usb-C Cable 8,2053.15,8212.6,8212.6,September
+50814,2025-02-06,1075,2012,2.0,15.0,Wallet,5.0,0,4.0,Unknown,46,New,Beauty,Face Wash 12,78.88,157.76,134.09599999999998,February
+50305,2024-12-20,1123,2044,1.0,0.0,Cash,6.0,0,4.0,Zagazig,18,Regular,Fashion,T-Shirt 44,793.83,793.83,793.83,December
+51076,2024-09-22,1129,2018,2.0,20.0,Card,3.0,0,2.0,Tanta,31,New,Beauty,Perfume 18,994.09,1988.18,1590.544,September
+50470,2024-11-14,1167,2027,5.0,0.0,Card,2.0,1,5.0,Alexandria,60,Vip,Sports,Jump Rope 27,3197.17,15985.85,15985.85,November
+51114,2024-10-04,1091,2005,1.0,0.0,Card,5.0,0,1.0,Mansoura,30,New,Groceries,Rice 5,3045.78,3045.78,3045.78,October
+50556,2025-01-02,1032,2042,1.0,20.0,Cash,3.0,1,4.0,Giza,48,Regular,Sports,Running Socks 42,1954.72,1954.72,1563.776,January
+51477,2024-09-03,1054,2045,2.0,20.0,Cash,3.0,0,5.0,Mansoura,50,Regular,Beauty,Body Lotion 45,2724.13,5448.26,4358.608,September
+50179,2025-02-06,1078,2024,2.0,0.0,Card,5.0,0,1.0,Giza,22,New,Home,Lamp 24,937.15,1874.3,1874.3,February
+50491,2025-02-22,1063,2040,5.0,0.0,Wallet,5.0,0,4.0,Alexandria,22,New,Groceries,Coffee 40,57.16,285.79999999999995,285.79999999999995,February
+51003,2024-09-24,1138,2025,5.0,0.0,Card,2.0,0,4.0,Cairo,49,Regular,Groceries,Tea 25,2684.59,13422.95,13422.95,September
+50668,2025-02-01,1019,2032,5.0,0.0,Card,7.0,0,4.0,Suez,32,New,Electronics,Power Bank 32,131.64,658.1999999999999,658.1999999999999,February
+50230,2025-02-03,1095,2041,3.0,30.0,Card,5.0,0,5.0,Ismailia,35,Regular,Home,Storage Box 41,203.24,609.72,426.804,February
+51100,2024-09-15,1101,2015,5.0,0.0,Bank Transfer,6.0,0,4.0,Unknown,29,New,Home,Lamp 15,973.33,4866.650000000001,4866.650000000001,September
+50852,2024-12-05,1161,2017,5.0,5.0,Bank Transfer,8.0,0,5.0,Ismailia,45,New,Groceries,Pasta 17,1437.71,7188.55,6829.1224999999995,December
+50363,2024-09-24,1130,2027,2.0,0.0,Card,1.0,0,4.0,Zagazig,22,New,Sports,Jump Rope 27,3197.17,6394.34,6394.34,September
+50559,2024-10-02,1112,2008,3.0,5.0,Wallet,5.0,1,4.0,Suez,29,New,Electronics,Usb-C Cable 8,2053.15,6159.450000000001,5851.4775,October
+51070,2025-01-08,1005,2024,2.0,5.0,Wallet,5.0,0,5.0,Mansoura,39,Regular,Home,Lamp 24,937.15,1874.3,1780.5849999999998,January
+51078,2024-09-27,1047,2020,5.0,0.0,Card,7.0,0,4.0,Mansoura,52,New,Fashion,Jacket 20,2508.89,12544.449999999999,12544.449999999999,September
+50616,2024-12-07,1020,2012,1.0,0.0,Card,8.0,0,5.0,Mansoura,59,New,Beauty,Face Wash 12,78.88,78.88,78.88,December
+51702,2024-09-09,1075,2034,4.0,0.0,Card,5.0,0,4.0,Zagazig,46,New,Fashion,Jeans 34,491.95,1967.8,1967.8,September
+50794,2024-12-06,1145,2042,3.0,0.0,Card,1.0,0,4.0,Ismailia,59,Regular,Sports,Running Socks 42,1954.72,5864.16,5864.16,December
+50611,2024-11-04,1085,2006,1.0,20.0,Card,2.0,0,4.0,Zagazig,60,Vip,Electronics,Keyboard 6,414.39,414.39,331.512,November
+51673,2024-11-21,1072,2025,5.0,20.0,Wallet,4.0,0,3.0,Giza,39,Vip,Groceries,Tea 25,2684.59,13422.95,10738.36,November
+50243,2024-09-30,1099,2036,4.0,0.0,Bank Transfer,5.0,0,4.0,Zagazig,20,Vip,Beauty,Face Wash 36,666.33,2665.32,2665.32,September
+50236,2024-12-27,1171,2021,5.0,0.0,Card,6.0,0,3.0,Cairo,40,Regular,Groceries,Rice 21,389.46,1947.3,1947.3,December
+51664,2025-01-22,1127,2018,3.0,10.0,Card,2.0,0,2.0,Cairo,30,Regular,Beauty,Perfume 18,994.09,2982.27,2684.043,January
+50093,2024-11-21,1011,2010,3.0,0.0,Wallet,8.0,0,5.0,Tanta,47,Vip,Sports,Running Socks 10,1898.9,5696.700000000001,5696.700000000001,November
+50627,2025-02-19,1013,2025,2.0,10.0,Wallet,8.0,1,1.0,Zagazig,44,New,Groceries,Tea 25,2684.59,5369.18,4832.262000000001,February
+50568,2024-12-25,1064,2010,1.0,0.0,Wallet,4.0,0,4.0,Ismailia,45,Regular,Sports,Running Socks 10,1898.9,1898.9,1898.9,December
+51763,2024-11-25,1076,2033,3.0,0.0,Card,3.0,0,2.0,Mansoura,24,Regular,Electronics,Keyboard 33,801.02,2403.06,2403.06,November
+50742,2024-11-28,1058,2040,5.0,15.0,Cash,4.0,0,4.0,Giza,36,Regular,Groceries,Coffee 40,57.16,285.79999999999995,242.92999999999995,November
+50551,2024-10-16,1084,2001,5.0,20.0,Cash,7.0,1,4.0,Suez,57,New,Electronics,Wireless Mouse 1,1554.81,7774.049999999999,6219.24,October
+51746,2024-12-12,1075,2023,2.0,5.0,Card,2.0,0,3.0,Zagazig,46,New,Sports,Bottle 23,2818.27,5636.54,5354.713,December
+50539,2024-09-24,1038,2022,3.0,0.0,Bank Transfer,7.0,0,4.0,Suez,22,New,Groceries,Pasta 22,3190.63,9571.89,9571.89,September
+51578,2024-12-06,1025,2028,4.0,10.0,Card,5.0,0,4.0,Suez,37,New,Home,Kitchen Knife 28,2143.56,8574.24,7716.816,December
+51287,2024-11-26,1010,2034,1.0,0.0,Card,0.0,0,4.0,Cairo,30,New,Fashion,Jeans 34,491.95,491.95,491.95,November
+50387,2024-10-14,1137,2009,5.0,0.0,Card,8.0,0,1.0,Tanta,49,Regular,Beauty,Face Wash 9,425.27,2126.35,2126.35,October
+51186,2024-11-21,1122,2018,4.0,15.0,Card,2.0,0,4.0,Zagazig,53,New,Beauty,Perfume 18,994.09,3976.36,3379.906,November
+51708,2024-10-15,1110,2014,1.0,15.0,Card,4.0,0,4.0,Zagazig,38,New,Groceries,Olive Oil 14,2648.26,2648.26,2251.021,October
+51210,2024-12-11,1049,2021,3.0,10.0,Card,8.0,0,2.0,Zagazig,41,Regular,Groceries,Rice 21,389.46,1168.3799999999999,1051.542,December
+51777,2024-11-03,1178,2004,1.0,5.0,Bank Transfer,2.0,0,4.0,Giza,56,Regular,Electronics,Keyboard 4,2308.12,2308.12,2192.714,November
+50801,2024-10-14,1135,2045,3.0,30.0,Wallet,6.0,0,4.0,Unknown,28,Regular,Beauty,Body Lotion 45,2724.13,8172.39,5720.673,October
+51091,2025-02-01,1095,2031,2.0,0.0,Wallet,8.0,0,5.0,Ismailia,35,Regular,Fashion,Hoodie 31,2874.63,5749.26,5749.26,February
+51262,2025-02-14,1004,2009,5.0,25.0,Card,0.0,0,5.0,Mansoura,47,New,Beauty,Face Wash 9,425.27,2126.35,1594.7624999999998,February
+51698,2025-02-11,1111,2002,5.0,0.0,Card,6.0,1,4.0,Alexandria,52,Regular,Fashion,T-Shirt 2,1229.3,6146.5,6146.5,February
+51736,2024-11-29,1094,2027,2.0,15.0,Wallet,4.0,0,4.0,Mansoura,59,Regular,Sports,Jump Rope 27,3197.17,6394.34,5435.189,November
+51138,2024-10-22,1161,2038,1.0,0.0,Card,8.0,0,1.0,Ismailia,45,New,Beauty,Body Lotion 38,2113.81,2113.81,2113.81,October
+51750,2024-10-07,1019,2003,3.0,10.0,Cash,1.0,0,5.0,Suez,32,New,Fashion,Hoodie 3,3157.76,9473.28,8525.952000000001,October
+50715,2024-10-25,1043,2035,5.0,0.0,Wallet,6.0,0,1.0,Zagazig,48,Regular,Sports,Jump Rope 35,2494.59,12472.95,12472.95,October
+50282,2024-11-22,1060,2018,5.0,0.0,Cash,6.0,0,4.0,Zagazig,44,New,Beauty,Perfume 18,994.09,4970.45,4970.45,November
+50125,2024-10-10,1102,2039,4.0,0.0,Cash,4.0,0,4.0,Giza,38,New,Electronics,Wireless Mouse 39,154.27,617.08,617.08,October
+51368,2025-01-05,1127,2016,2.0,20.0,Wallet,3.0,0,5.0,Cairo,30,Regular,Groceries,Rice 16,1489.01,2978.02,2382.416,January
+51474,2024-09-27,1096,2030,5.0,0.0,Card,7.0,0,4.0,Alexandria,38,Regular,Electronics,Headphones 30,325.79,1628.95,1628.95,September
+51689,2024-11-08,1017,2011,1.0,0.0,Card,3.0,0,5.0,Tanta,32,Regular,Groceries,Tea 11,2208.06,2208.06,2208.06,November
+50009,2025-02-09,1008,2037,2.0,0.0,Cash,6.0,0,4.0,Zagazig,34,New,Groceries,Olive Oil 37,2917.62,5835.24,5835.24,February
+51775,2024-11-11,1045,2031,1.0,0.0,Wallet,4.0,0,4.0,Cairo,49,New,Fashion,Hoodie 31,2874.63,2874.63,2874.63,November
+50915,2025-02-02,1102,2010,2.0,25.0,Card,4.0,0,4.0,Giza,38,New,Sports,Running Socks 10,1898.9,3797.8,2848.3500000000004,February
+51491,2025-02-14,1153,2021,2.0,20.0,Cash,4.0,0,4.0,Ismailia,31,Regular,Groceries,Rice 21,389.46,778.92,623.136,February
+50214,2024-11-09,1088,2008,1.0,5.0,Card,4.0,0,5.0,Alexandria,32,New,Electronics,Usb-C Cable 8,2053.15,2053.15,1950.4925,November
+51368,2024-09-25,1027,2016,3.0,0.0,Wallet,1.0,0,1.0,Mansoura,50,New,Groceries,Rice 16,1489.01,4467.03,4467.03,September
+51010,2024-09-11,1163,2023,3.0,0.0,Card,3.0,1,2.0,Mansoura,44,Regular,Sports,Bottle 23,2818.27,8454.81,8454.81,September
+51011,2025-02-07,1101,2025,2.0,10.0,Cash,0.0,0,4.0,Suez,29,New,Groceries,Tea 25,2684.59,5369.18,4832.262000000001,February
+50910,2024-11-09,1091,2025,1.0,20.0,Card,4.0,0,2.0,Mansoura,30,New,Groceries,Tea 25,2684.59,2684.59,2147.672,November
+50318,2024-11-13,1046,2008,1.0,0.0,Card,0.0,0,5.0,Unknown,31,Vip,Electronics,Usb-C Cable 8,2053.15,2053.15,2053.15,November
+51659,2024-12-28,1150,2030,1.0,0.0,Cash,5.0,0,3.0,Cairo,41,New,Electronics,Headphones 30,325.79,325.79,325.79,December
+51502,2025-02-12,1163,2039,1.0,0.0,Card,7.0,0,4.0,Unknown,44,Regular,Electronics,Wireless Mouse 39,154.27,154.27,154.27,February
+51136,2024-09-30,1093,2010,5.0,0.0,Card,3.0,0,3.0,Suez,24,New,Sports,Running Socks 10,1898.9,9494.5,9494.5,September
+50338,2025-01-01,1170,2009,2.0,0.0,Wallet,8.0,0,4.0,Cairo,25,New,Beauty,Face Wash 9,425.27,850.54,850.54,January
+50175,2024-09-25,1155,2008,3.0,15.0,Cash,6.0,0,5.0,Mansoura,37,New,Electronics,Usb-C Cable 8,2053.15,6159.450000000001,5235.5325,September
+51211,2024-09-02,1049,2006,5.0,15.0,Cash,7.0,0,4.0,Zagazig,41,Regular,Electronics,Keyboard 6,414.39,2071.95,1761.1574999999998,September
+51498,2024-12-29,1153,2018,1.0,0.0,Card,1.0,0,4.0,Ismailia,31,Regular,Beauty,Perfume 18,994.09,994.09,994.09,December
+50304,2024-12-22,1091,2002,2.0,20.0,Cash,6.0,0,5.0,Mansoura,30,New,Fashion,T-Shirt 2,1229.3,2458.6,1966.88,December
+51332,2024-11-26,1112,2006,3.0,0.0,Card,3.0,0,5.0,Suez,29,New,Electronics,Keyboard 6,414.39,1243.17,1243.17,November
+51312,2025-01-13,1005,2027,4.0,10.0,Card,1.0,0,3.0,Mansoura,39,Regular,Sports,Jump Rope 27,3197.17,12788.68,11509.812,January
+51676,2025-01-17,1059,2003,3.0,0.0,Wallet,7.0,1,4.0,Zagazig,31,New,Fashion,Hoodie 3,3157.76,9473.28,9473.28,January
+51156,2024-11-13,1149,2012,3.0,15.0,Cash,1.0,0,3.0,Suez,24,Regular,Beauty,Face Wash 12,78.88,236.64,201.14399999999998,November
+50433,2025-02-23,1030,2014,3.0,0.0,Card,7.0,0,5.0,Mansoura,51,Regular,Groceries,Olive Oil 14,2648.26,7944.780000000001,7944.780000000001,February
+50519,2024-09-08,1113,2003,2.0,20.0,Cash,7.0,0,5.0,Tanta,59,Vip,Fashion,Hoodie 3,3157.76,6315.52,5052.416000000001,September
+50706,2025-02-09,1036,2019,4.0,0.0,Card,6.0,1,3.0,Cairo,29,Regular,Groceries,Olive Oil 19,2942.28,11769.12,11769.12,February
+51209,2025-01-12,1022,2018,2.0,15.0,Cash,3.0,0,4.0,Alexandria,57,Vip,Beauty,Perfume 18,994.09,1988.18,1689.953,January
+50888,2025-02-27,1114,2022,5.0,0.0,Card,8.0,0,4.0,Mansoura,32,New,Groceries,Pasta 22,3190.63,15953.150000000001,15953.150000000001,February
+50930,2024-10-25,1098,2013,5.0,0.0,Card,2.0,0,5.0,Zagazig,51,Regular,Fashion,T-Shirt 13,1475.64,7378.200000000001,7378.200000000001,October
+50358,2024-09-04,1082,2007,2.0,0.0,Card,5.0,0,5.0,Mansoura,25,Regular,Groceries,Olive Oil 7,2727.69,5455.38,5455.38,September
+50912,2025-02-11,1053,2023,1.0,15.0,Cash,8.0,0,3.0,Alexandria,18,Vip,Sports,Bottle 23,2818.27,2818.27,2395.5295,February
+51311,2024-11-24,1157,2016,4.0,0.0,Cash,3.0,0,4.0,Giza,59,New,Groceries,Rice 16,1489.01,5956.04,5956.04,November
+51269,2024-09-23,1048,2014,1.0,0.0,Card,7.0,0,3.0,Unknown,42,Regular,Groceries,Olive Oil 14,2648.26,2648.26,2648.26,September
+50694,2024-10-21,1099,2035,4.0,5.0,Cash,0.0,0,5.0,Zagazig,20,Vip,Sports,Jump Rope 35,2494.59,9978.36,9479.442000000001,October
+51349,2024-12-02,1106,2005,3.0,25.0,Cash,3.0,0,2.0,Suez,58,Regular,Groceries,Rice 5,3045.78,9137.34,6853.005,December
+51797,2025-01-13,1126,2036,2.0,0.0,Card,5.0,0,4.0,Tanta,24,Regular,Beauty,Face Wash 36,666.33,1332.66,1332.66,January
+51473,2024-11-21,1168,2043,4.0,15.0,Wallet,1.0,1,4.0,Giza,58,New,Fashion,Hoodie 43,2572.68,10290.72,8747.112,November
+50719,2024-11-28,1179,2010,5.0,0.0,Card,6.0,0,5.0,Ismailia,21,Regular,Sports,Running Socks 10,1898.9,9494.5,9494.5,November
+50849,2024-12-28,1097,2030,5.0,0.0,Card,3.0,1,5.0,Giza,38,New,Electronics,Headphones 30,325.79,1628.95,1628.95,December
+51076,2025-01-11,1041,2019,5.0,10.0,Card,1.0,0,4.0,Giza,23,New,Groceries,Olive Oil 19,2942.28,14711.400000000001,13240.260000000002,January
+50213,2024-09-06,1061,2002,5.0,15.0,Bank Transfer,8.0,0,5.0,Ismailia,24,Regular,Fashion,T-Shirt 2,1229.3,6146.5,5224.525,September
+50509,2024-09-21,1030,2032,2.0,0.0,Bank Transfer,8.0,0,5.0,Mansoura,51,Regular,Electronics,Power Bank 32,131.64,263.28,263.28,September
+50705,2024-09-08,1070,2034,3.0,5.0,Card,4.0,0,4.0,Mansoura,19,Regular,Fashion,Jeans 34,491.95,1475.85,1402.0575,September
+50157,2025-02-02,1108,2025,1.0,0.0,Card,2.0,0,5.0,Zagazig,42,Regular,Groceries,Tea 25,2684.59,2684.59,2684.59,February
+50189,2024-11-24,1112,2028,3.0,30.0,Card,2.0,0,5.0,Suez,29,New,Home,Kitchen Knife 28,2143.56,6430.68,4501.476,November
+51525,2024-12-27,1024,2037,4.0,30.0,Cash,3.0,0,3.0,Ismailia,48,New,Groceries,Olive Oil 37,2917.62,11670.48,8169.335999999999,December
+51114,2024-10-17,1141,2010,1.0,5.0,Card,5.0,0,4.0,Ismailia,31,Vip,Sports,Running Socks 10,1898.9,1898.9,1803.955,October
+51725,2024-12-24,1122,2010,4.0,5.0,Card,2.0,0,2.0,Zagazig,53,New,Sports,Running Socks 10,1898.9,7595.6,7215.82,December
+51789,2024-10-26,1090,2015,5.0,10.0,Bank Transfer,2.0,0,4.0,Suez,43,New,Home,Lamp 15,973.33,4866.650000000001,4379.985000000001,October
+50982,2024-09-13,1151,2034,2.0,0.0,Wallet,7.0,0,4.0,Suez,41,Regular,Fashion,Jeans 34,491.95,983.9,983.9,September
+51228,2025-01-19,1010,2019,4.0,5.0,Wallet,0.0,0,4.0,Cairo,30,New,Groceries,Olive Oil 19,2942.28,11769.12,11180.664,January
+51176,2024-12-12,1081,2019,3.0,20.0,Cash,7.0,0,4.0,Ismailia,52,New,Groceries,Olive Oil 19,2942.28,8826.84,7061.472000000001,December
+50982,2024-12-11,1048,2013,4.0,0.0,Bank Transfer,3.0,1,5.0,Ismailia,42,Regular,Fashion,T-Shirt 13,1475.64,5902.56,5902.56,December
+51259,2024-10-27,1112,2012,4.0,0.0,Cash,5.0,0,4.0,Suez,29,New,Beauty,Face Wash 12,78.88,315.52,315.52,October
+51141,2024-09-25,1055,2012,5.0,0.0,Wallet,7.0,0,5.0,Mansoura,39,Vip,Beauty,Face Wash 12,78.88,394.4,394.4,September
+50127,2024-11-15,1136,2009,5.0,15.0,Card,0.0,0,4.0,Alexandria,46,New,Beauty,Face Wash 9,425.27,2126.35,1807.3974999999998,November
+51425,2024-11-06,1018,2027,1.0,15.0,Wallet,0.0,0,5.0,Giza,23,Vip,Sports,Jump Rope 27,3197.17,3197.17,2717.5945,November
+50267,2024-09-21,1138,2035,1.0,0.0,Cash,0.0,0,4.0,Cairo,49,Regular,Sports,Jump Rope 35,2494.59,2494.59,2494.59,September
+51625,2025-01-15,1130,2043,2.0,0.0,Card,0.0,0,2.0,Zagazig,22,New,Fashion,Hoodie 43,2572.68,5145.36,5145.36,January
+50835,2025-01-15,1114,2038,4.0,15.0,Card,1.0,0,5.0,Mansoura,32,New,Beauty,Body Lotion 38,2113.81,8455.24,7186.954,January
+51153,2024-12-30,1119,2001,3.0,0.0,Card,0.0,1,1.0,Giza,30,Regular,Electronics,Wireless Mouse 1,1554.81,4664.43,4664.43,December
+50398,2024-11-18,1119,2004,4.0,25.0,Wallet,6.0,1,4.0,Giza,30,Regular,Electronics,Keyboard 4,2308.12,9232.48,6924.36,November
+51270,2024-11-16,1064,2031,4.0,0.0,Card,5.0,0,4.0,Ismailia,45,Regular,Fashion,Hoodie 31,2874.63,11498.52,11498.52,November
+51599,2025-01-15,1004,2030,4.0,10.0,Cash,1.0,0,4.0,Mansoura,47,New,Electronics,Headphones 30,325.79,1303.16,1172.844,January
+50650,2025-01-30,1075,2026,1.0,0.0,Wallet,6.0,0,3.0,Zagazig,46,New,Beauty,Perfume 26,376.29,376.29,376.29,January
+50648,2024-12-16,1159,2025,4.0,0.0,Card,3.0,0,5.0,Tanta,26,New,Groceries,Tea 25,2684.59,10738.36,10738.36,December
+51203,2024-10-20,1171,2030,3.0,0.0,Wallet,3.0,0,4.0,Cairo,40,Regular,Electronics,Headphones 30,325.79,977.3700000000001,977.3700000000001,October
+50146,2024-11-11,1096,2016,3.0,15.0,Cash,0.0,0,4.0,Alexandria,38,Regular,Groceries,Rice 16,1489.01,4467.03,3796.9754999999996,November
+51437,2024-09-22,1094,2032,3.0,0.0,Card,6.0,0,3.0,Mansoura,59,Regular,Electronics,Power Bank 32,131.64,394.91999999999996,394.91999999999996,September
+51015,2025-01-13,1131,2039,1.0,25.0,Bank Transfer,1.0,0,5.0,Tanta,46,Regular,Electronics,Wireless Mouse 39,154.27,154.27,115.70250000000001,January
+50863,2024-10-24,1105,2036,5.0,5.0,Wallet,2.0,0,4.0,Suez,36,Regular,Beauty,Face Wash 36,666.33,3331.65,3165.0675,October
+50866,2024-12-12,1158,2022,1.0,5.0,Card,6.0,0,5.0,Tanta,31,Regular,Groceries,Pasta 22,3190.63,3190.63,3031.0985,December
+51350,2024-10-26,1144,2028,5.0,0.0,Card,3.0,0,5.0,Mansoura,57,Regular,Home,Kitchen Knife 28,2143.56,10717.8,10717.8,October
+50429,2025-02-07,1179,2008,2.0,5.0,Wallet,1.0,0,3.0,Ismailia,21,Regular,Electronics,Usb-C Cable 8,2053.15,4106.3,3900.985,February
+50089,2024-09-21,1079,2020,3.0,5.0,Card,1.0,0,4.0,Tanta,25,New,Fashion,Jacket 20,2508.89,7526.67,7150.336499999999,September
+51531,2024-11-27,1124,2021,4.0,0.0,Wallet,0.0,0,2.0,Mansoura,56,Regular,Groceries,Rice 21,389.46,1557.84,1557.84,November
+50444,2025-02-25,1147,2003,5.0,0.0,Card,1.0,0,3.0,Cairo,28,Regular,Fashion,Hoodie 3,3157.76,15788.800000000001,15788.800000000001,February
+51214,2024-09-26,1050,2042,2.0,0.0,Card,4.0,0,5.0,Suez,25,New,Sports,Running Socks 42,1954.72,3909.44,3909.44,September
+50908,2024-10-21,1164,2025,4.0,0.0,Card,4.0,0,3.0,Mansoura,40,Regular,Groceries,Tea 25,2684.59,10738.36,10738.36,October
+50894,2025-01-19,1118,2024,5.0,0.0,Card,6.0,0,3.0,Giza,36,Regular,Home,Lamp 24,973.33,4866.650000000001,4866.650000000001,January
+51621,2024-10-15,1048,2036,4.0,0.0,Card,8.0,0,5.0,Ismailia,42,Regular,Beauty,Face Wash 36,666.33,2665.32,2665.32,October
+50652,2024-12-31,1081,2019,2.0,5.0,Cash,3.0,0,4.0,Ismailia,52,New,Groceries,Olive Oil 19,2942.28,5884.56,5590.332,December
+50146,2025-02-04,1136,2015,2.0,5.0,Cash,6.0,0,3.0,Alexandria,46,New,Home,Lamp 15,973.33,1946.66,1849.327,February
+50521,2025-01-07,1156,2021,2.0,30.0,Cash,7.0,0,4.0,Zagazig,52,Regular,Groceries,Rice 21,389.46,778.92,545.2439999999999,January
+51442,2024-12-03,1064,2040,1.0,0.0,Card,6.0,0,5.0,Ismailia,45,Regular,Groceries,Coffee 40,57.16,57.16,57.16,December
+50656,2024-11-03,1102,2036,2.0,15.0,Cash,0.0,0,3.0,Giza,38,New,Beauty,Face Wash 36,666.33,1332.66,1132.761,November
+50851,2025-01-22,1041,2001,3.0,0.0,Card,7.0,0,2.0,Giza,23,New,Electronics,Wireless Mouse 1,1554.81,4664.43,4664.43,January
+50105,2025-02-20,1128,2037,4.0,15.0,Card,2.0,0,3.0,Suez,41,Regular,Groceries,Olive Oil 37,2917.62,11670.48,9919.908,February
+50032,2025-02-05,1035,2014,5.0,0.0,Card,5.0,0,5.0,Ismailia,49,Regular,Groceries,Olive Oil 14,2648.26,13241.300000000001,13241.300000000001,February
+50861,2025-02-22,1092,2015,3.0,0.0,Card,8.0,0,5.0,Suez,18,New,Home,Lamp 15,973.33,2919.9900000000002,2919.9900000000002,February
+50154,2024-11-11,1103,2011,1.0,0.0,Wallet,6.0,0,1.0,Suez,46,New,Groceries,Tea 11,2208.06,2208.06,2208.06,November
+51481,2024-12-27,1168,2002,1.0,0.0,Card,7.0,0,1.0,Giza,58,New,Fashion,T-Shirt 2,1229.3,1229.3,1229.3,December
+50781,2025-01-07,1004,2024,1.0,5.0,Card,1.0,0,4.0,Mansoura,47,New,Home,Lamp 24,937.15,937.15,890.2924999999999,January
+51052,2025-01-18,1067,2022,1.0,20.0,Card,3.0,0,4.0,Unknown,50,Regular,Groceries,Pasta 22,3190.63,3190.63,2552.5040000000004,January
+50229,2024-12-10,1118,2010,5.0,20.0,Bank Transfer,5.0,0,3.0,Giza,36,Regular,Sports,Running Socks 10,1898.9,9494.5,7595.6,December
+50591,2024-11-20,1123,2025,2.0,10.0,Cash,5.0,0,4.0,Zagazig,18,Regular,Groceries,Tea 25,2684.59,5369.18,4832.262000000001,November
+50724,2025-02-08,1144,2023,2.0,0.0,Cash,0.0,0,4.0,Mansoura,57,Regular,Sports,Bottle 23,2818.27,5636.54,5636.54,February
+51689,2025-02-03,1141,2006,2.0,0.0,Card,0.0,0,4.0,Ismailia,31,Vip,Electronics,Keyboard 6,414.39,828.78,828.78,February
+51436,2024-12-25,1152,2009,1.0,10.0,Cash,1.0,0,5.0,Alexandria,33,New,Beauty,Face Wash 9,425.27,425.27,382.743,December
+51245,2025-02-28,1013,2025,3.0,0.0,Cash,5.0,0,4.0,Zagazig,44,New,Groceries,Tea 25,2684.59,8053.77,8053.77,February
+51320,2024-12-31,1092,2015,1.0,0.0,Cash,8.0,1,4.0,Suez,18,New,Home,Lamp 15,973.33,973.33,973.33,December
+50410,2024-09-30,1076,2009,2.0,0.0,Wallet,5.0,0,5.0,Mansoura,24,Regular,Beauty,Face Wash 9,425.27,850.54,850.54,September
+50869,2024-11-18,1006,2031,5.0,0.0,Wallet,8.0,0,4.0,Suez,37,Regular,Fashion,Hoodie 31,2874.63,14373.150000000001,14373.150000000001,November
+51084,2024-09-29,1138,2025,4.0,0.0,Wallet,8.0,0,4.0,Cairo,49,Regular,Groceries,Tea 25,2684.59,10738.36,10738.36,September
+51340,2025-02-26,1153,2010,1.0,5.0,Wallet,6.0,0,4.0,Ismailia,31,Regular,Sports,Running Socks 10,1898.9,1898.9,1803.955,February
+50963,2025-01-13,1008,2029,4.0,20.0,Cash,6.0,0,3.0,Zagazig,34,New,Home,Lamp 29,2094.4,8377.6,6702.080000000001,January
+50201,2024-11-05,1117,2035,5.0,0.0,Card,8.0,0,1.0,Cairo,54,Vip,Sports,Jump Rope 35,2494.59,12472.95,12472.95,November
+50368,2024-12-10,1129,2005,1.0,0.0,Cash,5.0,0,3.0,Tanta,31,New,Groceries,Rice 5,3045.78,3045.78,3045.78,December
+51093,2025-02-03,1008,2036,2.0,0.0,Cash,6.0,0,4.0,Zagazig,34,New,Beauty,Face Wash 36,666.33,1332.66,1332.66,February
+50240,2024-10-26,1072,2003,1.0,0.0,Card,3.0,0,4.0,Giza,39,Vip,Fashion,Hoodie 3,3157.76,3157.76,3157.76,October
+50886,2025-01-19,1159,2037,4.0,10.0,Wallet,7.0,0,4.0,Tanta,26,New,Groceries,Olive Oil 37,2917.62,11670.48,10503.432,January
+50811,2024-09-18,1125,2024,3.0,0.0,Wallet,6.0,0,4.0,Suez,41,Vip,Home,Lamp 24,937.15,2811.45,2811.45,September
+51013,2024-10-23,1031,2018,4.0,10.0,Card,0.0,0,4.0,Mansoura,29,Regular,Beauty,Perfume 18,994.09,3976.36,3578.724,October
+51367,2025-02-09,1053,2022,2.0,0.0,Cash,4.0,1,5.0,Alexandria,18,Vip,Groceries,Pasta 22,3190.63,6381.26,6381.26,February
+51762,2024-09-20,1038,2038,3.0,0.0,Card,3.0,0,4.0,Suez,22,New,Beauty,Body Lotion 38,2113.81,6341.43,6341.43,September
+50157,2024-11-09,1059,2041,4.0,15.0,Card,8.0,0,5.0,Zagazig,31,New,Home,Storage Box 41,203.24,812.96,691.016,November
+51394,2024-12-20,1156,2031,2.0,10.0,Wallet,7.0,0,4.0,Zagazig,52,Regular,Fashion,Hoodie 31,2874.63,5749.26,5174.334000000001,December
+50962,2024-09-04,1123,2029,5.0,15.0,Wallet,2.0,1,5.0,Zagazig,18,Regular,Home,Lamp 29,2094.4,10472.0,8901.199999999999,September
+50162,2024-10-15,1062,2021,1.0,5.0,Wallet,5.0,0,4.0,Unknown,43,Regular,Groceries,Rice 21,389.46,389.46,369.98699999999997,October
+51352,2024-11-13,1091,2002,4.0,0.0,Wallet,3.0,0,4.0,Mansoura,30,New,Fashion,T-Shirt 2,1229.3,4917.2,4917.2,November
+51043,2024-11-21,1038,2026,1.0,0.0,Card,2.0,0,5.0,Suez,22,New,Beauty,Perfume 26,376.29,376.29,376.29,November
+50091,2024-12-10,1066,2033,4.0,0.0,Card,8.0,0,5.0,Alexandria,21,Vip,Electronics,Keyboard 33,801.02,3204.08,3204.08,December
+51132,2024-10-13,1047,2022,3.0,5.0,Wallet,7.0,0,4.0,Mansoura,52,New,Groceries,Pasta 22,3190.63,9571.89,9093.295499999998,October
+50326,2025-01-10,1003,2005,1.0,20.0,Wallet,1.0,0,1.0,Zagazig,39,Regular,Groceries,Rice 5,3045.78,3045.78,2436.6240000000003,January
+50388,2024-10-28,1137,2005,5.0,0.0,Wallet,0.0,0,3.0,Tanta,49,Regular,Groceries,Rice 5,3045.78,15228.900000000001,15228.900000000001,October
+50857,2025-02-28,1129,2016,5.0,0.0,Card,7.0,1,5.0,Tanta,31,New,Groceries,Rice 16,1489.01,7445.05,7445.05,February
+50530,2024-12-15,1025,2037,1.0,15.0,Card,0.0,0,5.0,Suez,37,New,Groceries,Olive Oil 37,2917.62,2917.62,2479.977,December
+50196,2025-01-09,1157,2023,4.0,15.0,Bank Transfer,3.0,0,3.0,Giza,59,New,Sports,Bottle 23,2818.27,11273.08,9582.118,January
+51652,2024-12-09,1019,2029,4.0,10.0,Cash,7.0,0,3.0,Suez,32,New,Home,Lamp 29,2094.4,8377.6,7539.84,December
+50107,2025-02-07,1023,2031,3.0,0.0,Card,3.0,0,3.0,Giza,39,Regular,Fashion,Hoodie 31,2874.63,8623.89,8623.89,February
+50434,2024-09-10,1154,2002,3.0,25.0,Wallet,2.0,0,5.0,Alexandria,53,Vip,Fashion,T-Shirt 2,1229.3,3687.8999999999996,2765.9249999999997,September
+51541,2024-11-26,1020,2007,5.0,0.0,Cash,0.0,0,5.0,Mansoura,59,New,Groceries,Olive Oil 7,2727.69,13638.45,13638.45,November
+51790,2024-12-20,1155,2033,2.0,5.0,Card,8.0,0,4.0,Unknown,37,New,Electronics,Keyboard 33,801.02,1602.04,1521.9379999999999,December
+50163,2024-10-12,1155,2043,4.0,0.0,Card,3.0,0,1.0,Mansoura,37,New,Fashion,Hoodie 43,2572.68,10290.72,10290.72,October
+51685,2024-10-29,1061,2020,2.0,5.0,Wallet,4.0,0,3.0,Ismailia,24,Regular,Fashion,Jacket 20,2508.89,5017.78,4766.891,October
+51090,2025-01-14,1028,2003,3.0,15.0,Card,7.0,0,4.0,Suez,59,Regular,Fashion,Hoodie 3,3157.76,9473.28,8052.2880000000005,January
+51235,2025-01-17,1145,2039,5.0,0.0,Bank Transfer,1.0,0,3.0,Ismailia,59,Regular,Electronics,Wireless Mouse 39,154.27,771.35,771.35,January
+50542,2025-02-15,1094,2025,1.0,5.0,Card,7.0,0,4.0,Mansoura,59,Regular,Groceries,Tea 25,2684.59,2684.59,2550.3605000000002,February
+51543,2024-09-11,1020,2036,4.0,5.0,Cash,7.0,0,5.0,Mansoura,59,New,Beauty,Face Wash 36,666.33,2665.32,2532.054,September
+50835,2024-12-24,1058,2039,1.0,25.0,Cash,3.0,0,5.0,Giza,36,Regular,Electronics,Wireless Mouse 39,154.27,154.27,115.70250000000001,December
+51552,2025-02-17,1050,2040,3.0,0.0,Card,8.0,0,4.0,Suez,25,New,Groceries,Coffee 40,57.16,171.48,171.48,February
+50092,2024-10-26,1158,2011,5.0,5.0,Cash,5.0,0,4.0,Tanta,31,Regular,Groceries,Tea 11,2208.06,11040.3,10488.284999999998,October
+50015,2024-10-21,1071,2008,1.0,0.0,Cash,3.0,0,4.0,Suez,25,Regular,Electronics,Usb-C Cable 8,2053.15,2053.15,2053.15,October
+51462,2024-09-23,1059,2018,5.0,0.0,Wallet,2.0,0,4.0,Zagazig,31,New,Beauty,Perfume 18,994.09,4970.45,4970.45,September
+51555,2024-10-14,1139,2037,2.0,0.0,Cash,3.0,0,4.0,Alexandria,58,New,Groceries,Olive Oil 37,2917.62,5835.24,5835.24,October
+51715,2024-10-13,1145,2007,1.0,0.0,Card,6.0,0,3.0,Ismailia,59,Regular,Groceries,Olive Oil 7,2727.69,2727.69,2727.69,October
+50440,2025-01-24,1015,2013,1.0,5.0,Card,1.0,0,4.0,Zagazig,59,New,Fashion,T-Shirt 13,1475.64,1475.64,1401.858,January
+51467,2024-11-15,1067,2012,5.0,0.0,Card,6.0,0,4.0,Ismailia,50,Regular,Beauty,Face Wash 12,78.88,394.4,394.4,November
+51742,2024-09-06,1111,2011,4.0,0.0,Card,5.0,0,1.0,Alexandria,52,Regular,Groceries,Tea 11,2208.06,8832.24,8832.24,September
+51144,2024-10-30,1103,2029,3.0,5.0,Card,4.0,1,4.0,Suez,46,New,Home,Lamp 29,2094.4,6283.200000000001,5969.04,October
+50961,2024-09-17,1153,2013,1.0,0.0,Wallet,3.0,0,3.0,Ismailia,31,Regular,Fashion,T-Shirt 13,1475.64,1475.64,1475.64,September
+50505,2025-01-18,1065,2025,2.0,0.0,Cash,7.0,0,3.0,Mansoura,45,Regular,Groceries,Tea 25,2684.59,5369.18,5369.18,January
+51128,2024-10-29,1068,2026,5.0,0.0,Card,5.0,0,1.0,Alexandria,35,Regular,Beauty,Perfume 26,376.29,1881.45,1881.45,October
+51349,2025-01-13,1028,2030,5.0,0.0,Card,1.0,0,3.0,Suez,59,Regular,Electronics,Headphones 30,325.79,1628.95,1628.95,January
+50406,2025-02-08,1007,2037,5.0,0.0,Cash,0.0,0,2.0,Cairo,25,Regular,Groceries,Olive Oil 37,2917.62,14588.099999999999,14588.099999999999,February
+51310,2024-11-02,1056,2006,1.0,0.0,Card,5.0,0,3.0,Cairo,48,Regular,Electronics,Keyboard 6,414.39,414.39,414.39,November
+51313,2024-09-19,1013,2029,3.0,0.0,Card,7.0,0,4.0,Zagazig,44,New,Home,Lamp 29,2094.4,6283.200000000001,6283.200000000001,September
+50140,2024-09-12,1060,2010,1.0,0.0,Wallet,2.0,0,4.0,Zagazig,44,New,Sports,Running Socks 10,1898.9,1898.9,1898.9,September
+50622,2024-09-02,1086,2040,4.0,10.0,Cash,1.0,0,4.0,Zagazig,42,New,Groceries,Coffee 40,57.16,228.64,205.77599999999998,September
+51673,2024-09-01,1160,2021,3.0,5.0,Cash,2.0,0,2.0,Suez,58,Vip,Groceries,Rice 21,389.46,1168.3799999999999,1109.9609999999998,September
+50073,2024-09-16,1017,2015,2.0,0.0,Cash,3.0,0,1.0,Tanta,32,Regular,Home,Lamp 15,973.33,1946.66,1946.66,September
+51675,2024-10-27,1037,2010,1.0,5.0,Card,0.0,0,4.0,Suez,21,New,Sports,Running Socks 10,2494.59,2494.59,2369.8605000000002,October
+50434,2024-11-11,1048,2015,2.0,0.0,Cash,3.0,0,2.0,Ismailia,42,Regular,Home,Lamp 15,973.33,1946.66,1946.66,November
+50777,2024-11-05,1090,2023,3.0,10.0,Cash,8.0,0,4.0,Suez,43,New,Sports,Bottle 23,2818.27,8454.81,7609.329,November
+51458,2024-12-21,1073,2022,5.0,5.0,Wallet,4.0,0,4.0,Mansoura,26,Regular,Groceries,Pasta 22,3190.63,15953.150000000001,15155.4925,December
+51364,2024-09-14,1002,2040,5.0,10.0,Card,1.0,1,4.0,Suez,24,Vip,Groceries,Coffee 40,57.16,285.79999999999995,257.21999999999997,September
+50179,2025-02-10,1174,2015,4.0,20.0,Cash,3.0,0,4.0,Zagazig,36,Regular,Home,Lamp 15,973.33,3893.32,3114.6560000000004,February
+51042,2024-09-20,1001,2021,3.0,0.0,Card,8.0,0,2.0,Cairo,58,Vip,Groceries,Rice 21,389.46,1168.3799999999999,1168.3799999999999,September
+51269,2025-01-01,1171,2040,3.0,5.0,Card,3.0,0,2.0,Cairo,40,Regular,Groceries,Coffee 40,2684.59,8053.77,7651.0815,January
+51602,2024-11-06,1009,2020,5.0,10.0,Cash,5.0,1,4.0,Giza,28,Regular,Fashion,Jacket 20,2508.89,12544.449999999999,11290.005,November
+51675,2024-10-15,1122,2021,5.0,0.0,Card,6.0,0,4.0,Zagazig,53,New,Groceries,Rice 21,389.46,1947.3,1947.3,October
+51651,2025-02-20,1120,2017,1.0,20.0,Cash,5.0,0,4.0,Cairo,18,Regular,Groceries,Pasta 17,1437.71,1437.71,1150.1680000000001,February
+50678,2025-02-08,1048,2042,4.0,0.0,Cash,1.0,0,4.0,Ismailia,42,Regular,Sports,Running Socks 42,1954.72,7818.88,7818.88,February
+50607,2025-01-01,1043,2008,3.0,0.0,Wallet,7.0,0,4.0,Zagazig,48,Regular,Electronics,Usb-C Cable 8,2053.15,6159.450000000001,6159.450000000001,January
+50238,2024-11-28,1162,2007,3.0,0.0,Card,3.0,0,4.0,Zagazig,30,Vip,Groceries,Olive Oil 7,2727.69,8183.07,8183.07,November
+50776,2024-09-13,1071,2006,3.0,0.0,Card,8.0,0,4.0,Suez,25,Regular,Electronics,Keyboard 6,414.39,1243.17,1243.17,September
+50124,2024-12-23,1128,2031,5.0,15.0,Card,7.0,0,3.0,Suez,41,Regular,Fashion,Hoodie 31,2874.63,14373.150000000001,12217.177500000002,December
+50567,2024-10-27,1119,2009,4.0,0.0,Card,5.0,0,4.0,Giza,30,Regular,Beauty,Face Wash 9,425.27,1701.08,1701.08,October
+50482,2024-09-01,1028,2025,1.0,0.0,Bank Transfer,1.0,0,4.0,Suez,59,Regular,Groceries,Tea 25,2684.59,2684.59,2684.59,September
+50405,2025-01-19,1089,2028,2.0,0.0,Card,4.0,0,4.0,Suez,44,New,Home,Kitchen Knife 28,2143.56,4287.12,4287.12,January
+51359,2025-02-17,1007,2002,2.0,0.0,Card,4.0,0,4.0,Cairo,25,Regular,Fashion,T-Shirt 2,1229.3,2458.6,2458.6,February
+50149,2024-11-26,1180,2004,4.0,0.0,Cash,1.0,0,3.0,Tanta,50,Regular,Electronics,Keyboard 4,2308.12,9232.48,9232.48,November
+51192,2025-01-07,1120,2019,3.0,0.0,Cash,0.0,0,3.0,Cairo,18,Regular,Groceries,Olive Oil 19,2942.28,8826.84,8826.84,January
+50774,2024-10-16,1108,2004,3.0,0.0,Wallet,1.0,0,4.0,Zagazig,42,Regular,Electronics,Keyboard 4,2308.12,6924.36,6924.36,October
+51387,2024-11-03,1029,2010,2.0,0.0,Card,8.0,0,5.0,Tanta,29,New,Sports,Running Socks 10,1898.9,3797.8,3797.8,November
+51701,2024-12-11,1150,2020,3.0,0.0,Card,1.0,0,4.0,Cairo,41,New,Fashion,Jacket 20,2508.89,7526.67,7526.67,December
+50474,2025-01-13,1140,2039,1.0,10.0,Card,2.0,0,4.0,Mansoura,51,Vip,Electronics,Wireless Mouse 39,154.27,154.27,138.84300000000002,January
+50044,2024-11-02,1087,2036,4.0,5.0,Bank Transfer,4.0,0,2.0,Cairo,37,New,Beauty,Face Wash 36,666.33,2665.32,2532.054,November
+50259,2024-09-08,1042,2025,5.0,25.0,Wallet,0.0,0,3.0,Suez,37,Regular,Groceries,Tea 25,2684.59,13422.95,10067.212500000001,September
+51501,2025-01-15,1054,2026,4.0,0.0,Cash,7.0,0,4.0,Mansoura,50,Regular,Beauty,Perfume 26,376.29,1505.16,1505.16,January
+51048,2024-11-29,1165,2030,5.0,0.0,Wallet,6.0,1,3.0,Mansoura,56,Regular,Electronics,Headphones 30,325.79,1628.95,1628.95,November
+50079,2024-11-23,1121,2004,2.0,30.0,Cash,2.0,0,5.0,Mansoura,33,Regular,Electronics,Keyboard 4,2308.12,4616.24,3231.3679999999995,November
+50577,2024-12-10,1082,2035,5.0,5.0,Card,8.0,0,5.0,Mansoura,25,Regular,Sports,Jump Rope 35,2494.59,12472.95,11849.3025,December
+50947,2024-12-16,1153,2005,4.0,0.0,Card,1.0,0,4.0,Ismailia,31,Regular,Groceries,Rice 5,3045.78,12183.12,12183.12,December
+51405,2024-10-29,1066,2040,4.0,10.0,Wallet,6.0,0,5.0,Alexandria,21,Vip,Groceries,Coffee 40,57.16,228.64,205.77599999999998,October
+50958,2024-12-03,1046,2033,3.0,0.0,Bank Transfer,7.0,0,4.0,Ismailia,31,Vip,Electronics,Keyboard 33,801.02,2403.06,2403.06,December
+51610,2024-09-23,1167,2021,4.0,20.0,Wallet,7.0,0,4.0,Alexandria,60,Vip,Groceries,Rice 21,389.46,1557.84,1246.272,September
+50335,2024-12-06,1131,2013,5.0,0.0,Wallet,6.0,0,4.0,Tanta,46,Regular,Fashion,T-Shirt 13,1475.64,7378.200000000001,7378.200000000001,December
+50651,2024-09-19,1069,2045,3.0,15.0,Card,0.0,1,4.0,Cairo,51,Regular,Beauty,Body Lotion 45,2724.13,8172.39,6946.5315,September
+51075,2025-02-04,1089,2041,3.0,15.0,Card,6.0,0,4.0,Suez,44,New,Home,Storage Box 41,203.24,609.72,518.2620000000001,February
+50429,2025-02-14,1138,2015,5.0,15.0,Cash,8.0,0,4.0,Cairo,49,Regular,Home,Lamp 15,973.33,4866.650000000001,4136.6525,February
+51400,2024-10-25,1069,2006,4.0,20.0,Card,7.0,0,5.0,Cairo,51,Regular,Electronics,Keyboard 6,414.39,1657.56,1326.048,October
+51225,2025-01-11,1094,2011,2.0,0.0,Card,7.0,0,2.0,Mansoura,59,Regular,Groceries,Tea 11,2208.06,4416.12,4416.12,January
+50819,2024-09-29,1069,2021,2.0,0.0,Card,4.0,0,1.0,Cairo,51,Regular,Groceries,Rice 21,389.46,778.92,778.92,September
+50955,2024-10-19,1042,2005,2.0,25.0,Cash,2.0,0,3.0,Suez,37,Regular,Groceries,Rice 5,3045.78,6091.56,4568.67,October
+50311,2024-11-07,1024,2001,3.0,20.0,Cash,7.0,0,4.0,Ismailia,48,New,Electronics,Wireless Mouse 1,1554.81,4664.43,3731.5440000000003,November
+50512,2024-12-13,1123,2026,3.0,0.0,Bank Transfer,1.0,0,4.0,Zagazig,18,Regular,Beauty,Perfume 26,376.29,1128.8700000000001,1128.8700000000001,December
+50854,2024-10-02,1168,2031,2.0,5.0,Bank Transfer,4.0,0,5.0,Giza,58,New,Fashion,Hoodie 31,2874.63,5749.26,5461.797,October
+51589,2024-10-24,1075,2008,3.0,10.0,Card,8.0,0,4.0,Zagazig,46,New,Electronics,Usb-C Cable 8,2053.15,6159.450000000001,5543.505000000001,October
+51662,2024-09-22,1067,2001,4.0,0.0,Card,5.0,0,1.0,Ismailia,50,Regular,Electronics,Wireless Mouse 1,1554.81,6219.24,6219.24,September
+51346,2025-02-25,1058,2004,2.0,0.0,Card,2.0,0,5.0,Giza,36,Regular,Electronics,Keyboard 4,2308.12,4616.24,4616.24,February
+50590,2024-09-25,1090,2034,2.0,10.0,Cash,6.0,0,4.0,Suez,43,New,Fashion,Jeans 34,491.95,983.9,885.51,September
+51326,2025-01-04,1130,2044,1.0,0.0,Card,5.0,0,4.0,Zagazig,22,New,Fashion,T-Shirt 44,793.83,793.83,793.83,January
+51685,2024-11-11,1138,2017,1.0,10.0,Wallet,7.0,0,4.0,Cairo,49,Regular,Groceries,Pasta 17,1437.71,1437.71,1293.939,November
+51350,2025-01-11,1153,2029,5.0,0.0,Bank Transfer,1.0,0,4.0,Ismailia,31,Regular,Home,Lamp 29,2094.4,10472.0,10472.0,January
+50386,2025-01-25,1091,2021,4.0,5.0,Wallet,4.0,0,3.0,Mansoura,30,New,Groceries,Rice 21,389.46,1557.84,1479.9479999999999,January
+51054,2025-01-06,1110,2023,2.0,0.0,Card,5.0,0,4.0,Zagazig,38,New,Sports,Bottle 23,2818.27,5636.54,5636.54,January
+50736,2024-12-06,1069,2039,5.0,0.0,Cash,5.0,0,4.0,Cairo,51,Regular,Electronics,Wireless Mouse 39,154.27,771.35,771.35,December
+51451,2024-12-31,1014,2037,2.0,0.0,Card,3.0,0,4.0,Suez,33,Regular,Groceries,Olive Oil 37,2917.62,5835.24,5835.24,December
+51405,2025-02-26,1007,2031,3.0,0.0,Cash,7.0,0,4.0,Cairo,25,Regular,Fashion,Hoodie 31,2874.63,8623.89,8623.89,February
+50380,2024-09-23,1160,2040,2.0,0.0,Wallet,0.0,0,5.0,Suez,58,Vip,Groceries,Coffee 40,57.16,114.32,114.32,September
+50761,2024-09-30,1109,2010,5.0,0.0,Bank Transfer,5.0,0,4.0,Mansoura,41,Regular,Sports,Running Socks 10,1898.9,9494.5,9494.5,September
+51787,2025-01-10,1118,2026,4.0,10.0,Card,3.0,1,4.0,Giza,36,Regular,Beauty,Perfume 26,376.29,1505.16,1354.644,January
+50310,2024-09-22,1041,2026,4.0,20.0,Card,5.0,0,4.0,Giza,23,New,Beauty,Perfume 26,376.29,1505.16,1204.1280000000002,September
+50928,2024-11-30,1165,2031,3.0,0.0,Card,8.0,0,4.0,Mansoura,56,Regular,Fashion,Hoodie 31,2874.63,8623.89,8623.89,November
+50313,2024-09-12,1002,2018,1.0,10.0,Card,0.0,1,5.0,Suez,24,Vip,Beauty,Perfume 18,994.09,994.09,894.681,September
+51481,2024-11-15,1060,2021,4.0,0.0,Cash,4.0,0,5.0,Zagazig,44,New,Groceries,Rice 21,389.46,1557.84,1557.84,November
+50049,2024-10-31,1040,2032,3.0,0.0,Card,2.0,0,5.0,Zagazig,56,Regular,Electronics,Power Bank 32,131.64,394.91999999999996,394.91999999999996,October
+51568,2024-11-29,1034,2024,5.0,5.0,Wallet,1.0,0,4.0,Tanta,37,Regular,Home,Lamp 24,937.15,4685.75,4451.4625,November
+51571,2025-01-21,1057,2014,3.0,15.0,Card,5.0,0,4.0,Tanta,46,Regular,Groceries,Olive Oil 14,2648.26,7944.780000000001,6753.063,January
+50469,2024-11-29,1145,2030,3.0,10.0,Card,3.0,0,4.0,Ismailia,59,Regular,Electronics,Headphones 30,325.79,977.3700000000001,879.6330000000002,November
+50108,2024-10-29,1039,2045,4.0,0.0,Cash,4.0,0,4.0,Alexandria,37,Vip,Beauty,Body Lotion 45,2724.13,10896.52,10896.52,October
+50707,2024-12-10,1009,2044,4.0,5.0,Wallet,6.0,0,4.0,Giza,28,Regular,Fashion,T-Shirt 44,793.83,3175.32,3016.554,December
+50783,2024-10-22,1141,2045,4.0,20.0,Card,4.0,0,5.0,Ismailia,31,Vip,Beauty,Body Lotion 45,2724.13,10896.52,8717.216,October
+50772,2024-11-06,1006,2007,3.0,0.0,Wallet,6.0,0,4.0,Suez,37,Regular,Groceries,Olive Oil 7,2727.69,8183.07,8183.07,November
+50970,2024-11-06,1146,2033,4.0,0.0,Wallet,3.0,0,2.0,Suez,27,Regular,Electronics,Keyboard 33,801.02,3204.08,3204.08,November
+50290,2024-11-05,1018,2008,2.0,5.0,Card,1.0,0,5.0,Giza,23,Vip,Electronics,Usb-C Cable 8,2053.15,4106.3,3900.985,November
+51026,2025-01-21,1079,2026,1.0,0.0,Wallet,7.0,0,3.0,Tanta,25,New,Beauty,Perfume 26,376.29,376.29,376.29,January
+50783,2025-01-31,1013,2026,2.0,0.0,Card,7.0,0,4.0,Zagazig,44,New,Beauty,Perfume 26,376.29,752.58,752.58,January
+50316,2024-10-07,1008,2010,1.0,0.0,Card,7.0,0,5.0,Zagazig,34,New,Sports,Running Socks 10,1898.9,1898.9,1898.9,October
+50214,2024-10-31,1133,2038,4.0,0.0,Card,2.0,0,2.0,Cairo,23,New,Beauty,Body Lotion 38,2113.81,8455.24,8455.24,October
+51673,2025-01-28,1072,2020,2.0,0.0,Wallet,7.0,0,4.0,Giza,39,Vip,Fashion,Jacket 20,2508.89,5017.78,5017.78,January
+50640,2024-11-15,1022,2025,3.0,5.0,Card,3.0,0,5.0,Alexandria,57,Vip,Groceries,Tea 25,2684.59,8053.77,7651.0815,November
+50348,2024-11-09,1003,2018,3.0,5.0,Wallet,5.0,0,4.0,Zagazig,39,Regular,Beauty,Perfume 18,994.09,2982.27,2833.1565,November
+51443,2024-12-23,1086,2036,3.0,0.0,Card,6.0,0,4.0,Zagazig,42,New,Beauty,Face Wash 36,666.33,1998.9900000000002,1998.9900000000002,December
+50089,2025-01-23,1081,2007,1.0,10.0,Card,6.0,0,4.0,Ismailia,52,New,Groceries,Olive Oil 7,2727.69,2727.69,2454.9210000000003,January
+50967,2024-11-18,1179,2003,5.0,0.0,Card,2.0,0,3.0,Ismailia,21,Regular,Fashion,Hoodie 3,3157.76,15788.800000000001,15788.800000000001,November
+50650,2024-12-04,1067,2037,5.0,15.0,Card,6.0,0,1.0,Ismailia,50,Regular,Groceries,Olive Oil 37,2917.62,14588.099999999999,12399.884999999998,December
+51213,2024-12-24,1088,2036,4.0,0.0,Wallet,2.0,0,4.0,Alexandria,32,New,Beauty,Face Wash 36,666.33,2665.32,2665.32,December
+50843,2025-02-02,1091,2026,5.0,10.0,Bank Transfer,0.0,0,4.0,Mansoura,30,New,Beauty,Perfume 26,376.29,1881.45,1693.305,February
+51568,2024-12-22,1100,2025,2.0,0.0,Bank Transfer,8.0,1,4.0,Giza,21,Vip,Groceries,Tea 25,2684.59,5369.18,5369.18,December
+50733,2025-01-13,1114,2022,2.0,0.0,Card,4.0,1,3.0,Mansoura,32,New,Groceries,Pasta 22,3190.63,6381.26,6381.26,January
+51274,2024-09-05,1172,2034,3.0,0.0,Card,4.0,0,4.0,Cairo,19,New,Fashion,Jeans 34,491.95,1475.85,1475.85,September
+50797,2024-09-03,1169,2015,5.0,25.0,Card,2.0,1,4.0,Alexandria,25,Regular,Home,Lamp 15,973.33,4866.650000000001,3649.9875,September
+50195,2025-02-08,1151,2019,5.0,10.0,Wallet,6.0,0,1.0,Suez,41,Regular,Groceries,Olive Oil 19,2942.28,14711.400000000001,13240.260000000002,February
+50370,2024-09-15,1168,2036,3.0,0.0,Card,3.0,0,2.0,Giza,58,New,Beauty,Face Wash 36,666.33,1998.9900000000002,1998.9900000000002,September
+50604,2024-09-01,1124,2019,4.0,20.0,Card,0.0,0,5.0,Mansoura,56,Regular,Groceries,Olive Oil 19,2942.28,11769.12,9415.296,September
+50352,2024-12-15,1104,2028,4.0,0.0,Wallet,1.0,0,2.0,Cairo,39,New,Home,Kitchen Knife 28,2143.56,8574.24,8574.24,December
+51633,2025-02-06,1017,2042,2.0,15.0,Wallet,7.0,0,4.0,Tanta,32,Regular,Sports,Running Socks 42,1954.72,3909.44,3323.024,February
+51162,2024-09-20,1104,2007,5.0,0.0,Cash,4.0,1,1.0,Cairo,39,New,Groceries,Olive Oil 7,2727.69,13638.45,13638.45,September
+51527,2025-02-20,1048,2019,3.0,0.0,Wallet,2.0,0,3.0,Ismailia,42,Regular,Groceries,Olive Oil 19,2942.28,8826.84,8826.84,February
+50669,2024-09-30,1038,2013,5.0,20.0,Card,0.0,0,5.0,Suez,22,New,Fashion,T-Shirt 13,1475.64,7378.200000000001,5902.560000000001,September
+50327,2024-11-23,1125,2023,3.0,0.0,Cash,2.0,0,4.0,Unknown,41,Vip,Sports,Bottle 23,2818.27,8454.81,8454.81,November
+51127,2024-10-19,1063,2020,3.0,15.0,Wallet,6.0,0,3.0,Alexandria,22,New,Fashion,Jacket 20,2508.89,7526.67,6397.6695,October
+50559,2025-02-06,1169,2027,4.0,5.0,Cash,4.0,0,4.0,Alexandria,25,Regular,Sports,Jump Rope 27,3197.17,12788.68,12149.246,February
+50945,2024-10-30,1166,2013,2.0,0.0,Card,5.0,0,3.0,Suez,29,Regular,Fashion,T-Shirt 13,1475.64,2951.28,2951.28,October
+50765,2024-09-01,1081,2010,4.0,0.0,Wallet,6.0,0,3.0,Ismailia,52,New,Sports,Running Socks 10,1898.9,7595.6,7595.6,September
+50702,2024-11-11,1139,2014,4.0,0.0,Cash,8.0,0,4.0,Alexandria,58,New,Groceries,Olive Oil 14,2648.26,10593.04,10593.04,November
+50080,2024-09-16,1111,2038,2.0,10.0,Card,1.0,0,3.0,Alexandria,52,Regular,Beauty,Body Lotion 38,2113.81,4227.62,3804.858,September
+51444,2025-02-01,1107,2022,5.0,0.0,Bank Transfer,7.0,0,4.0,Suez,24,New,Groceries,Pasta 22,3190.63,15953.150000000001,15953.150000000001,February
+51573,2025-02-02,1059,2040,5.0,15.0,Card,6.0,0,4.0,Zagazig,31,New,Groceries,Coffee 40,57.16,285.79999999999995,242.92999999999995,February
+51614,2025-01-23,1048,2005,4.0,0.0,Card,1.0,0,2.0,Ismailia,42,Regular,Groceries,Rice 5,3045.78,12183.12,12183.12,January
+51218,2024-12-16,1050,2035,2.0,10.0,Card,8.0,0,4.0,Suez,25,New,Sports,Jump Rope 35,2494.59,4989.18,4490.262000000001,December
+51110,2024-09-28,1125,2002,3.0,0.0,Wallet,0.0,0,5.0,Suez,41,Vip,Fashion,T-Shirt 2,1229.3,3687.8999999999996,3687.8999999999996,September
+50918,2024-11-08,1146,2045,1.0,10.0,Card,3.0,0,5.0,Suez,27,Regular,Beauty,Body Lotion 45,2724.13,2724.13,2451.717,November
+51575,2024-12-28,1100,2030,3.0,0.0,Card,6.0,1,4.0,Giza,21,Vip,Electronics,Headphones 30,325.79,977.3700000000001,977.3700000000001,December
+50707,2024-12-27,1137,2041,4.0,5.0,Card,2.0,0,5.0,Tanta,49,Regular,Home,Storage Box 41,203.24,812.96,772.312,December
+50828,2024-10-15,1129,2018,1.0,20.0,Card,4.0,0,4.0,Tanta,31,New,Beauty,Perfume 18,994.09,994.09,795.272,October
+50992,2025-02-08,1004,2031,2.0,0.0,Card,5.0,0,5.0,Mansoura,47,New,Fashion,Hoodie 31,2874.63,5749.26,5749.26,February
+51202,2024-12-13,1136,2028,5.0,0.0,Card,5.0,0,5.0,Alexandria,46,New,Home,Kitchen Knife 28,2143.56,10717.8,10717.8,December
+51488,2025-02-22,1021,2032,5.0,0.0,Wallet,4.0,0,4.0,Tanta,33,Regular,Electronics,Power Bank 32,131.64,658.1999999999999,658.1999999999999,February
+50726,2025-02-18,1157,2028,2.0,20.0,Card,3.0,1,4.0,Giza,59,New,Home,Kitchen Knife 28,2143.56,4287.12,3429.696,February
+50180,2024-11-15,1106,2012,2.0,30.0,Card,3.0,0,5.0,Suez,58,Regular,Beauty,Face Wash 12,78.88,157.76,110.43199999999999,November
+51323,2025-01-05,1131,2014,1.0,10.0,Card,4.0,0,4.0,Tanta,46,Regular,Groceries,Olive Oil 14,2648.26,2648.26,2383.434,January
+51173,2025-02-14,1156,2033,1.0,0.0,Card,6.0,0,3.0,Zagazig,52,Regular,Electronics,Keyboard 33,801.02,801.02,801.02,February
+50790,2024-10-07,1139,2035,2.0,5.0,Card,6.0,0,4.0,Alexandria,58,New,Sports,Jump Rope 35,2494.59,4989.18,4739.7210000000005,October
+51387,2025-01-06,1092,2019,4.0,0.0,Cash,2.0,0,4.0,Suez,18,New,Groceries,Olive Oil 19,2942.28,11769.12,11769.12,January
+50427,2025-02-16,1018,2027,2.0,10.0,Wallet,5.0,0,5.0,Giza,23,Vip,Sports,Jump Rope 27,3197.17,6394.34,5754.906,February
+50391,2025-02-24,1173,2008,3.0,0.0,Card,0.0,0,4.0,Suez,30,Regular,Electronics,Usb-C Cable 8,2053.15,6159.450000000001,6159.450000000001,February
+51021,2024-12-28,1023,2031,2.0,5.0,Card,7.0,0,5.0,Giza,39,Regular,Fashion,Hoodie 31,1475.64,2951.28,2803.716,December
+51786,2024-12-01,1049,2016,5.0,0.0,Card,7.0,0,4.0,Zagazig,41,Regular,Groceries,Rice 16,1489.01,7445.05,7445.05,December
+50002,2025-02-03,1089,2040,1.0,15.0,Cash,5.0,0,3.0,Suez,44,New,Groceries,Coffee 40,57.16,57.16,48.586,February
+50044,2025-02-09,1023,2008,4.0,15.0,Cash,0.0,0,3.0,Giza,39,Regular,Electronics,Usb-C Cable 8,2053.15,8212.6,6980.71,February
+50009,2025-02-26,1080,2007,1.0,20.0,Cash,6.0,0,4.0,Zagazig,43,Regular,Groceries,Olive Oil 7,2727.69,2727.69,2182.152,February
+51740,2025-02-17,1025,2006,5.0,15.0,Wallet,6.0,0,4.0,Suez,37,New,Electronics,Keyboard 6,414.39,2071.95,1761.1574999999998,February
+51659,2024-10-23,1002,2006,1.0,20.0,Wallet,6.0,0,4.0,Suez,24,Vip,Electronics,Keyboard 6,414.39,414.39,331.512,October
+51022,2025-02-03,1082,2031,1.0,0.0,Card,4.0,0,4.0,Mansoura,25,Regular,Fashion,Hoodie 31,2874.63,2874.63,2874.63,February
+50908,2024-11-20,1080,2006,2.0,0.0,Card,0.0,0,4.0,Zagazig,43,Regular,Electronics,Keyboard 6,414.39,828.78,828.78,November
+50681,2025-02-26,1033,2032,4.0,10.0,Cash,5.0,0,4.0,Cairo,51,New,Electronics,Power Bank 32,131.64,526.56,473.90399999999994,February
+50359,2024-12-24,1042,2041,2.0,5.0,Bank Transfer,0.0,0,5.0,Suez,37,Regular,Home,Storage Box 41,203.24,406.48,386.156,December
+50284,2024-11-09,1168,2038,1.0,0.0,Wallet,1.0,0,5.0,Giza,58,New,Beauty,Body Lotion 38,2113.81,2113.81,2113.81,November
+50017,2024-11-15,1101,2041,5.0,15.0,Card,8.0,0,3.0,Suez,29,New,Home,Storage Box 41,203.24,1016.2,863.77,November
+50360,2024-12-15,1124,2026,3.0,0.0,Cash,1.0,0,4.0,Mansoura,56,Regular,Beauty,Perfume 26,376.29,1128.8700000000001,1128.8700000000001,December
+50270,2024-11-20,1114,2032,1.0,0.0,Bank Transfer,3.0,0,2.0,Mansoura,32,New,Electronics,Power Bank 32,131.64,131.64,131.64,November
+51648,2024-11-23,1171,2005,3.0,0.0,Bank Transfer,0.0,1,4.0,Cairo,40,Regular,Groceries,Rice 5,3045.78,9137.34,9137.34,November
+51057,2024-09-24,1044,2029,1.0,0.0,Card,8.0,0,4.0,Alexandria,26,Vip,Home,Lamp 29,2094.4,2094.4,2094.4,September
+50231,2024-12-14,1162,2034,5.0,0.0,Card,3.0,0,1.0,Zagazig,30,Vip,Fashion,Jeans 34,491.95,2459.75,2459.75,December
+50831,2025-02-15,1016,2043,1.0,0.0,Card,5.0,0,5.0,Suez,21,New,Fashion,Hoodie 43,2572.68,2572.68,2572.68,February
+51226,2025-02-07,1008,2022,3.0,0.0,Card,8.0,0,4.0,Zagazig,34,New,Groceries,Pasta 22,3190.63,9571.89,9571.89,February
+51355,2025-02-14,1092,2008,3.0,0.0,Card,7.0,0,5.0,Suez,18,New,Electronics,Usb-C Cable 8,2053.15,6159.450000000001,6159.450000000001,February
+50657,2024-12-26,1165,2024,5.0,0.0,Wallet,7.0,0,2.0,Mansoura,56,Regular,Home,Lamp 24,937.15,4685.75,4685.75,December
+50103,2024-12-05,1104,2004,5.0,15.0,Bank Transfer,4.0,0,4.0,Cairo,39,New,Electronics,Keyboard 4,2308.12,11540.599999999999,9809.509999999998,December
+50534,2024-09-30,1036,2008,4.0,0.0,Card,1.0,0,3.0,Cairo,29,Regular,Electronics,Usb-C Cable 8,2053.15,8212.6,8212.6,September
+51210,2024-12-07,1037,2024,3.0,25.0,Card,0.0,1,3.0,Suez,21,New,Home,Lamp 24,937.15,2811.45,2108.5874999999996,December
+51102,2024-09-10,1137,2021,1.0,0.0,Card,2.0,0,5.0,Tanta,49,Regular,Groceries,Rice 21,389.46,389.46,389.46,September
+50835,2024-10-15,1012,2044,4.0,0.0,Bank Transfer,8.0,0,3.0,Ismailia,45,New,Fashion,T-Shirt 44,793.83,3175.32,3175.32,October
+51540,2024-09-20,1141,2021,3.0,5.0,Card,6.0,0,3.0,Ismailia,31,Vip,Groceries,Rice 21,389.46,1168.3799999999999,1109.9609999999998,September
+51729,2025-02-27,1023,2012,3.0,15.0,Cash,8.0,0,3.0,Giza,39,Regular,Beauty,Face Wash 12,78.88,236.64,201.14399999999998,February
+50456,2024-12-06,1036,2041,1.0,0.0,Cash,5.0,0,5.0,Cairo,29,Regular,Home,Storage Box 41,203.24,203.24,203.24,December
+50006,2024-12-15,1125,2003,5.0,0.0,Cash,2.0,0,4.0,Suez,41,Vip,Fashion,Hoodie 3,3157.76,15788.800000000001,15788.800000000001,December
+51355,2024-12-24,1035,2012,3.0,10.0,Wallet,1.0,0,4.0,Ismailia,49,Regular,Beauty,Face Wash 12,78.88,236.64,212.976,December
+50898,2024-11-06,1086,2026,1.0,0.0,Card,5.0,0,5.0,Zagazig,42,New,Beauty,Perfume 26,376.29,376.29,376.29,November
+51756,2025-01-01,1096,2040,4.0,0.0,Card,8.0,0,5.0,Alexandria,38,Regular,Groceries,Coffee 40,57.16,228.64,228.64,January
+51480,2024-11-14,1102,2045,2.0,0.0,Card,5.0,0,4.0,Giza,38,New,Beauty,Body Lotion 45,2724.13,5448.26,5448.26,November
+50705,2024-10-03,1047,2011,3.0,0.0,Cash,3.0,0,4.0,Mansoura,52,New,Groceries,Tea 11,2208.06,6624.18,6624.18,October
+50464,2025-02-12,1059,2002,3.0,15.0,Cash,5.0,0,5.0,Zagazig,31,New,Fashion,T-Shirt 2,1229.3,3687.8999999999996,3134.7149999999997,February
+50292,2025-02-16,1155,2038,4.0,20.0,Wallet,7.0,0,5.0,Mansoura,37,New,Beauty,Body Lotion 38,2113.81,8455.24,6764.192,February
+50131,2024-09-27,1149,2030,2.0,0.0,Card,2.0,0,3.0,Suez,24,Regular,Electronics,Headphones 30,325.79,651.58,651.58,September
+50754,2024-10-30,1110,2042,1.0,0.0,Cash,0.0,0,3.0,Zagazig,38,New,Sports,Running Socks 42,1954.72,1954.72,1954.72,October
+51735,2025-01-22,1129,2015,3.0,25.0,Wallet,7.0,0,4.0,Tanta,31,New,Home,Lamp 15,973.33,2919.9900000000002,2189.9925000000003,January
+50733,2024-10-15,1136,2044,3.0,0.0,Cash,8.0,1,5.0,Alexandria,46,New,Fashion,T-Shirt 44,793.83,2381.4900000000002,2381.4900000000002,October
+50940,2025-01-08,1168,2043,4.0,0.0,Bank Transfer,5.0,0,5.0,Giza,58,New,Fashion,Hoodie 43,2572.68,10290.72,10290.72,January
+50032,2024-09-27,1055,2023,1.0,0.0,Wallet,1.0,1,2.0,Mansoura,39,Vip,Sports,Bottle 23,2818.27,2818.27,2818.27,September
+50745,2024-12-21,1094,2031,1.0,10.0,Wallet,4.0,0,5.0,Mansoura,59,Regular,Fashion,Hoodie 31,2874.63,2874.63,2587.1670000000004,December
+50220,2024-09-09,1164,2021,3.0,0.0,Card,1.0,0,4.0,Mansoura,40,Regular,Groceries,Rice 21,389.46,1168.3799999999999,1168.3799999999999,September
+51175,2024-12-19,1038,2033,2.0,0.0,Wallet,8.0,0,4.0,Suez,22,New,Electronics,Keyboard 33,801.02,1602.04,1602.04,December
+50853,2024-09-27,1045,2027,3.0,15.0,Cash,5.0,0,4.0,Cairo,49,New,Sports,Jump Rope 27,3197.17,9591.51,8152.7835,September
+50412,2024-09-06,1077,2026,3.0,15.0,Card,8.0,0,3.0,Alexandria,47,Regular,Beauty,Perfume 26,376.29,1128.8700000000001,959.5395000000001,September
+51339,2024-10-06,1009,2034,4.0,25.0,Cash,3.0,0,4.0,Giza,28,Regular,Fashion,Jeans 34,491.95,1967.8,1475.85,October
+50518,2024-11-24,1002,2036,2.0,0.0,Card,1.0,0,4.0,Suez,24,Vip,Beauty,Face Wash 36,666.33,1332.66,1332.66,November
+51756,2024-10-28,1004,2006,3.0,20.0,Card,5.0,0,4.0,Mansoura,47,New,Electronics,Keyboard 6,414.39,1243.17,994.5360000000001,October
+50010,2025-02-26,1003,2016,4.0,0.0,Card,3.0,0,4.0,Zagazig,39,Regular,Groceries,Rice 16,1489.01,5956.04,5956.04,February
+50283,2024-11-11,1040,2010,2.0,0.0,Cash,6.0,0,5.0,Zagazig,56,Regular,Sports,Running Socks 10,1898.9,3797.8,3797.8,November
+50291,2025-01-26,1079,2012,2.0,0.0,Cash,6.0,0,3.0,Unknown,25,New,Beauty,Face Wash 12,78.88,157.76,157.76,January
+50424,2025-02-21,1079,2004,1.0,0.0,Card,5.0,0,4.0,Tanta,25,New,Electronics,Keyboard 4,2308.12,2308.12,2308.12,February
+50388,2024-12-01,1029,2042,1.0,0.0,Card,3.0,1,5.0,Tanta,29,New,Sports,Running Socks 42,1954.72,1954.72,1954.72,December
+50616,2024-12-01,1103,2038,3.0,0.0,Bank Transfer,7.0,0,4.0,Suez,46,New,Beauty,Body Lotion 38,2113.81,6341.43,6341.43,December
+51352,2024-09-10,1086,2012,4.0,0.0,Wallet,7.0,0,4.0,Zagazig,42,New,Beauty,Face Wash 12,78.88,315.52,315.52,September
+50140,2024-11-15,1033,2017,5.0,15.0,Bank Transfer,8.0,0,1.0,Cairo,51,New,Groceries,Pasta 17,1437.71,7188.55,6110.2675,November
+50355,2024-12-23,1018,2009,2.0,0.0,Cash,3.0,0,4.0,Giza,23,Vip,Beauty,Face Wash 9,666.33,1332.66,1332.66,December
+50269,2024-12-06,1160,2042,3.0,5.0,Wallet,0.0,0,4.0,Suez,58,Vip,Sports,Running Socks 42,1954.72,5864.16,5570.951999999999,December
+51023,2025-02-26,1059,2038,2.0,0.0,Cash,5.0,0,4.0,Zagazig,31,New,Beauty,Body Lotion 38,2113.81,4227.62,4227.62,February
+51772,2025-01-30,1175,2011,4.0,0.0,Card,1.0,0,2.0,Zagazig,59,Regular,Groceries,Tea 11,2208.06,8832.24,8832.24,January
+51638,2024-11-20,1066,2008,1.0,0.0,Wallet,7.0,0,1.0,Alexandria,21,Vip,Electronics,Usb-C Cable 8,2053.15,2053.15,2053.15,November
+51461,2024-09-26,1143,2006,2.0,5.0,Card,5.0,0,4.0,Alexandria,44,New,Electronics,Keyboard 6,414.39,828.78,787.3409999999999,September
+50252,2024-10-17,1137,2027,2.0,0.0,Card,3.0,0,1.0,Tanta,49,Regular,Sports,Jump Rope 27,3197.17,6394.34,6394.34,October
+51114,2024-09-06,1059,2044,5.0,0.0,Card,8.0,0,4.0,Zagazig,31,New,Fashion,T-Shirt 44,793.83,3969.15,3969.15,September
+50341,2024-09-24,1133,2040,4.0,0.0,Bank Transfer,2.0,0,4.0,Cairo,23,New,Groceries,Coffee 40,57.16,228.64,228.64,September
+50231,2025-02-02,1032,2027,3.0,0.0,Cash,2.0,0,4.0,Giza,48,Regular,Sports,Jump Rope 27,3197.17,9591.51,9591.51,February
+51156,2024-12-14,1139,2013,2.0,30.0,Card,6.0,0,2.0,Alexandria,58,New,Fashion,T-Shirt 13,1475.64,2951.28,2065.896,December
+50217,2024-10-29,1040,2028,5.0,5.0,Bank Transfer,1.0,0,5.0,Zagazig,56,Regular,Home,Kitchen Knife 28,2143.56,10717.8,10181.909999999998,October
+50417,2025-02-18,1120,2030,3.0,0.0,Card,7.0,0,4.0,Cairo,18,Regular,Electronics,Headphones 30,325.79,977.3700000000001,977.3700000000001,February
+50515,2024-12-11,1128,2012,3.0,0.0,Card,4.0,0,4.0,Suez,41,Regular,Beauty,Face Wash 12,78.88,236.64,236.64,December
+50524,2025-01-04,1121,2018,2.0,10.0,Card,4.0,0,4.0,Mansoura,33,Regular,Beauty,Perfume 18,994.09,1988.18,1789.362,January
+50620,2024-11-13,1091,2045,5.0,5.0,Cash,5.0,0,2.0,Mansoura,30,New,Beauty,Body Lotion 45,2724.13,13620.650000000001,12939.6175,November
+50405,2024-11-10,1139,2006,5.0,0.0,Card,6.0,0,2.0,Alexandria,58,New,Electronics,Keyboard 6,414.39,2071.95,2071.95,November
+50073,2024-11-02,1048,2032,4.0,0.0,Wallet,5.0,0,3.0,Ismailia,42,Regular,Electronics,Power Bank 32,131.64,526.56,526.56,November
+50232,2024-12-06,1143,2045,5.0,5.0,Bank Transfer,7.0,0,4.0,Alexandria,44,New,Beauty,Body Lotion 45,2724.13,13620.650000000001,12939.6175,December
+51748,2024-10-21,1171,2022,2.0,30.0,Cash,8.0,0,4.0,Cairo,40,Regular,Groceries,Pasta 22,3190.63,6381.26,4466.882,October
+50970,2025-02-18,1037,2005,4.0,0.0,Wallet,4.0,0,3.0,Suez,21,New,Groceries,Rice 5,3045.78,12183.12,12183.12,February
+50208,2024-10-03,1138,2037,1.0,0.0,Wallet,6.0,0,4.0,Cairo,49,Regular,Groceries,Olive Oil 37,2917.62,2917.62,2917.62,October
+50230,2025-02-04,1145,2025,2.0,0.0,Cash,0.0,0,4.0,Ismailia,59,Regular,Groceries,Tea 25,2684.59,5369.18,5369.18,February
+50254,2025-02-12,1110,2004,5.0,0.0,Bank Transfer,6.0,0,2.0,Zagazig,38,New,Electronics,Keyboard 4,2308.12,11540.599999999999,11540.599999999999,February
+50231,2025-02-13,1046,2033,5.0,5.0,Card,2.0,0,5.0,Ismailia,31,Vip,Electronics,Keyboard 33,801.02,4005.1,3804.845,February
+51328,2024-11-25,1080,2026,3.0,0.0,Cash,5.0,0,3.0,Zagazig,43,Regular,Beauty,Perfume 26,376.29,1128.8700000000001,1128.8700000000001,November
+50646,2024-11-30,1155,2037,2.0,0.0,Wallet,0.0,0,4.0,Mansoura,37,New,Groceries,Olive Oil 37,2917.62,5835.24,5835.24,November
+50191,2024-09-13,1146,2030,3.0,15.0,Card,0.0,0,5.0,Suez,27,Regular,Electronics,Headphones 30,325.79,977.3700000000001,830.7645000000001,September
+50831,2024-11-01,1077,2004,4.0,0.0,Card,0.0,1,5.0,Alexandria,47,Regular,Electronics,Keyboard 4,2308.12,9232.48,9232.48,November
+50390,2024-10-23,1010,2025,3.0,10.0,Card,1.0,0,3.0,Cairo,30,New,Groceries,Tea 25,2684.59,8053.77,7248.393000000001,October
+50156,2024-12-10,1120,2009,1.0,10.0,Wallet,4.0,0,1.0,Cairo,18,Regular,Beauty,Face Wash 9,425.27,425.27,382.743,December
+50494,2024-10-15,1154,2005,3.0,30.0,Card,4.0,1,4.0,Alexandria,53,Vip,Groceries,Rice 5,3045.78,9137.34,6396.138,October
+50002,2024-11-23,1141,2043,2.0,0.0,Card,0.0,0,5.0,Ismailia,31,Vip,Fashion,Hoodie 43,2572.68,5145.36,5145.36,November
+50454,2025-02-22,1002,2026,1.0,0.0,Cash,8.0,0,4.0,Suez,24,Vip,Beauty,Perfume 26,376.29,376.29,376.29,February
+51345,2024-12-15,1087,2031,5.0,0.0,Card,4.0,0,4.0,Cairo,37,New,Fashion,Hoodie 31,2874.63,14373.150000000001,14373.150000000001,December
+51182,2025-01-25,1034,2026,4.0,15.0,Cash,5.0,1,3.0,Tanta,37,Regular,Beauty,Perfume 26,376.29,1505.16,1279.386,January
+51176,2025-02-14,1159,2019,5.0,0.0,Cash,3.0,1,5.0,Tanta,26,New,Groceries,Olive Oil 19,2942.28,14711.400000000001,14711.400000000001,February
+51389,2025-02-11,1070,2035,5.0,0.0,Wallet,5.0,0,4.0,Mansoura,19,Regular,Sports,Jump Rope 35,2494.59,12472.95,12472.95,February
+50346,2024-10-21,1132,2030,2.0,0.0,Wallet,1.0,0,4.0,Tanta,46,Regular,Electronics,Headphones 30,325.79,651.58,651.58,October
+50064,2024-12-05,1028,2013,1.0,10.0,Wallet,0.0,0,5.0,Suez,59,Regular,Fashion,T-Shirt 13,1475.64,1475.64,1328.076,December
+51277,2025-01-17,1057,2030,2.0,15.0,Wallet,3.0,0,4.0,Tanta,46,Regular,Electronics,Headphones 30,325.79,651.58,553.8430000000001,January
+50996,2024-11-20,1059,2033,5.0,0.0,Card,3.0,0,4.0,Zagazig,31,New,Electronics,Keyboard 33,801.02,4005.1,4005.1,November
+51782,2024-10-11,1034,2008,3.0,25.0,Cash,6.0,0,4.0,Tanta,37,Regular,Electronics,Usb-C Cable 8,2053.15,6159.450000000001,4619.587500000001,October
+50373,2024-12-05,1086,2021,3.0,0.0,Cash,0.0,0,4.0,Zagazig,42,New,Groceries,Rice 21,389.46,1168.3799999999999,1168.3799999999999,December
+51386,2024-10-03,1020,2029,2.0,5.0,Cash,1.0,0,1.0,Mansoura,59,New,Home,Lamp 29,2094.4,4188.8,3979.36,October
+51115,2025-02-08,1039,2015,3.0,10.0,Cash,0.0,0,3.0,Alexandria,37,Vip,Home,Lamp 15,973.33,2919.9900000000002,2627.9910000000004,February
+51369,2024-12-30,1035,2031,5.0,5.0,Cash,7.0,0,3.0,Ismailia,49,Regular,Fashion,Hoodie 31,2874.63,14373.150000000001,13654.4925,December
+51664,2024-11-22,1140,2037,4.0,15.0,Cash,1.0,0,4.0,Mansoura,51,Vip,Groceries,Olive Oil 37,2917.62,11670.48,9919.908,November
+51424,2024-09-01,1041,2028,5.0,0.0,Cash,0.0,0,4.0,Giza,23,New,Home,Kitchen Knife 28,2143.56,10717.8,10717.8,September
+50665,2025-01-19,1022,2031,4.0,10.0,Cash,3.0,0,4.0,Alexandria,57,Vip,Fashion,Hoodie 31,2874.63,11498.52,10348.668000000001,January
+51707,2024-11-26,1144,2015,3.0,10.0,Card,3.0,0,3.0,Mansoura,57,Regular,Home,Lamp 15,973.33,2919.9900000000002,2627.9910000000004,November
+51016,2024-10-13,1168,2035,2.0,0.0,Cash,5.0,0,4.0,Giza,58,New,Sports,Jump Rope 35,2494.59,4989.18,4989.18,October
+51384,2024-09-10,1003,2016,3.0,25.0,Card,2.0,1,2.0,Zagazig,39,Regular,Groceries,Rice 16,1489.01,4467.03,3350.2725,September
+50316,2024-09-04,1046,2027,3.0,0.0,Card,8.0,1,3.0,Ismailia,31,Vip,Sports,Jump Rope 27,3197.17,9591.51,9591.51,September
+50497,2024-12-28,1059,2035,1.0,20.0,Card,3.0,0,1.0,Zagazig,31,New,Sports,Jump Rope 35,2494.59,2494.59,1995.6720000000003,December
+51400,2024-12-30,1134,2041,3.0,10.0,Card,6.0,0,5.0,Tanta,30,Regular,Home,Storage Box 41,203.24,609.72,548.748,December
+50644,2024-12-17,1127,2031,5.0,0.0,Wallet,2.0,0,4.0,Cairo,30,Regular,Fashion,Hoodie 31,2874.63,14373.150000000001,14373.150000000001,December
+50398,2025-01-05,1035,2002,5.0,10.0,Wallet,6.0,0,5.0,Ismailia,49,Regular,Fashion,T-Shirt 2,1229.3,6146.5,5531.85,January
+51561,2024-09-28,1161,2011,3.0,15.0,Card,0.0,0,1.0,Ismailia,45,New,Groceries,Tea 11,2208.06,6624.18,5630.553,September
+50361,2024-11-14,1052,2021,3.0,0.0,Card,7.0,0,4.0,Giza,54,Regular,Groceries,Rice 21,389.46,1168.3799999999999,1168.3799999999999,November
+51259,2024-11-26,1094,2004,5.0,0.0,Card,3.0,0,4.0,Mansoura,59,Regular,Electronics,Keyboard 4,2308.12,11540.599999999999,11540.599999999999,November
+51014,2024-09-17,1162,2038,3.0,15.0,Cash,5.0,0,3.0,Unknown,30,Vip,Beauty,Body Lotion 38,2113.81,6341.43,5390.2155,September
+50788,2025-01-20,1061,2034,3.0,5.0,Bank Transfer,4.0,0,4.0,Ismailia,24,Regular,Fashion,Jeans 34,491.95,1475.85,1402.0575,January
+51148,2024-11-02,1147,2004,5.0,0.0,Card,2.0,0,5.0,Cairo,28,Regular,Electronics,Keyboard 4,2308.12,11540.599999999999,11540.599999999999,November
+50302,2024-11-15,1095,2006,1.0,0.0,Card,0.0,0,4.0,Ismailia,35,Regular,Electronics,Keyboard 6,414.39,414.39,414.39,November
+50691,2024-12-20,1082,2008,5.0,0.0,Card,2.0,0,2.0,Mansoura,25,Regular,Electronics,Usb-C Cable 8,2053.15,10265.75,10265.75,December
+50119,2024-12-04,1001,2019,4.0,0.0,Card,0.0,0,5.0,Cairo,58,Vip,Groceries,Olive Oil 19,2942.28,11769.12,11769.12,December
+50128,2024-11-29,1037,2003,1.0,0.0,Card,7.0,0,4.0,Suez,21,New,Fashion,Hoodie 3,3157.76,3157.76,3157.76,November
+51507,2025-01-17,1052,2037,5.0,0.0,Wallet,6.0,0,1.0,Giza,54,Regular,Groceries,Olive Oil 37,2684.59,13422.95,13422.95,January
+51771,2024-11-22,1143,2009,2.0,0.0,Card,5.0,0,4.0,Alexandria,44,New,Beauty,Face Wash 9,425.27,850.54,850.54,November
+51407,2024-09-15,1011,2028,1.0,10.0,Card,6.0,0,3.0,Tanta,47,Vip,Home,Kitchen Knife 28,2143.56,2143.56,1929.204,September
+50048,2024-11-02,1006,2045,4.0,0.0,Card,5.0,1,5.0,Suez,37,Regular,Beauty,Body Lotion 45,2724.13,10896.52,10896.52,November
+51373,2024-09-17,1085,2041,5.0,10.0,Bank Transfer,7.0,0,4.0,Zagazig,60,Vip,Home,Storage Box 41,203.24,1016.2,914.58,September
+50189,2024-09-14,1051,2014,2.0,10.0,Card,7.0,0,4.0,Suez,37,New,Groceries,Olive Oil 14,2648.26,5296.52,4766.868,September
+50499,2024-09-07,1151,2038,4.0,0.0,Wallet,3.0,0,3.0,Suez,41,Regular,Beauty,Body Lotion 38,2113.81,8455.24,8455.24,September
+51187,2025-01-21,1071,2014,2.0,10.0,Cash,3.0,0,4.0,Suez,25,Regular,Groceries,Olive Oil 14,2648.26,5296.52,4766.868,January
+51083,2024-10-02,1113,2032,5.0,0.0,Card,4.0,0,4.0,Tanta,59,Vip,Electronics,Power Bank 32,131.64,658.1999999999999,658.1999999999999,October
+51726,2025-01-07,1146,2002,1.0,15.0,Cash,1.0,0,1.0,Suez,27,Regular,Fashion,T-Shirt 2,1229.3,1229.3,1044.905,January
+51279,2025-02-03,1006,2038,2.0,25.0,Card,5.0,0,3.0,Suez,37,Regular,Beauty,Body Lotion 38,2113.81,4227.62,3170.715,February
+50660,2024-10-09,1060,2011,3.0,10.0,Card,0.0,0,4.0,Zagazig,44,New,Groceries,Tea 11,2208.06,6624.18,5961.762000000001,October
+51682,2025-02-20,1173,2035,4.0,10.0,Cash,8.0,0,4.0,Suez,30,Regular,Sports,Jump Rope 35,2494.59,9978.36,8980.524000000001,February
+51625,2024-12-08,1050,2042,4.0,15.0,Cash,2.0,0,4.0,Unknown,25,New,Sports,Running Socks 42,1954.72,7818.88,6646.048,December
+50213,2024-09-28,1009,2035,3.0,0.0,Cash,8.0,0,5.0,Giza,28,Regular,Sports,Jump Rope 35,2494.59,7483.77,7483.77,September
+50928,2024-10-25,1140,2013,3.0,0.0,Card,6.0,0,5.0,Mansoura,51,Vip,Fashion,T-Shirt 13,1475.64,4426.92,4426.92,October
+50394,2024-10-08,1057,2030,2.0,0.0,Card,0.0,0,3.0,Tanta,46,Regular,Electronics,Headphones 30,325.79,651.58,651.58,October
+50802,2024-11-06,1036,2025,3.0,5.0,Cash,8.0,0,4.0,Cairo,29,Regular,Groceries,Tea 25,2684.59,8053.77,7651.0815,November
+51720,2024-12-07,1168,2039,1.0,0.0,Wallet,6.0,0,5.0,Giza,58,New,Electronics,Wireless Mouse 39,154.27,154.27,154.27,December
+50805,2024-11-28,1035,2017,5.0,0.0,Card,8.0,0,3.0,Ismailia,49,Regular,Groceries,Pasta 17,1437.71,7188.55,7188.55,November
+51022,2024-09-05,1028,2024,2.0,0.0,Card,5.0,0,4.0,Suez,59,Regular,Home,Lamp 24,937.15,1874.3,1874.3,September
+51338,2024-09-23,1111,2001,1.0,0.0,Card,2.0,0,4.0,Alexandria,52,Regular,Electronics,Wireless Mouse 1,1554.81,1554.81,1554.81,September
+51707,2024-12-25,1028,2012,3.0,30.0,Cash,2.0,1,4.0,Suez,59,Regular,Beauty,Face Wash 12,78.88,236.64,165.64799999999997,December
+50554,2024-11-07,1089,2015,4.0,0.0,Card,4.0,0,3.0,Suez,44,New,Home,Lamp 15,973.33,3893.32,3893.32,November
+51220,2024-12-08,1152,2021,3.0,0.0,Cash,2.0,0,3.0,Alexandria,33,New,Groceries,Rice 21,389.46,1168.3799999999999,1168.3799999999999,December
+50706,2025-01-23,1125,2003,1.0,15.0,Cash,1.0,0,4.0,Suez,41,Vip,Fashion,Hoodie 3,3157.76,3157.76,2684.096,January
+50292,2025-02-14,1146,2016,1.0,0.0,Card,5.0,0,5.0,Suez,27,Regular,Groceries,Rice 16,1489.01,1489.01,1489.01,February
+51637,2024-12-16,1160,2030,5.0,5.0,Card,7.0,0,1.0,Suez,58,Vip,Electronics,Headphones 30,801.02,4005.1,3804.845,December
+51659,2025-01-05,1095,2015,1.0,0.0,Wallet,5.0,0,2.0,Ismailia,35,Regular,Home,Lamp 15,973.33,973.33,973.33,January
+50689,2024-12-18,1176,2012,1.0,5.0,Cash,2.0,0,3.0,Mansoura,60,Regular,Beauty,Face Wash 12,78.88,78.88,74.93599999999999,December
+51344,2024-10-15,1002,2006,2.0,0.0,Cash,5.0,0,1.0,Suez,24,Vip,Electronics,Keyboard 6,414.39,828.78,828.78,October
+50783,2024-10-05,1161,2019,5.0,0.0,Card,6.0,0,4.0,Ismailia,45,New,Groceries,Olive Oil 19,2942.28,14711.400000000001,14711.400000000001,October
+51189,2025-02-07,1068,2035,1.0,0.0,Cash,8.0,0,5.0,Alexandria,35,Regular,Sports,Jump Rope 35,2494.59,2494.59,2494.59,February
+51403,2024-11-22,1017,2037,5.0,0.0,Cash,5.0,0,4.0,Tanta,32,Regular,Groceries,Olive Oil 37,2917.62,14588.099999999999,14588.099999999999,November
+50171,2025-01-06,1052,2037,1.0,5.0,Card,8.0,0,4.0,Giza,54,Regular,Groceries,Olive Oil 37,2917.62,2917.62,2771.7389999999996,January
+50433,2024-10-19,1088,2034,3.0,0.0,Cash,5.0,0,5.0,Alexandria,32,New,Fashion,Jeans 34,491.95,1475.85,1475.85,October
+51729,2024-12-16,1004,2028,5.0,0.0,Card,1.0,0,1.0,Mansoura,47,New,Home,Kitchen Knife 28,2143.56,10717.8,10717.8,December
+51416,2025-01-28,1171,2037,3.0,0.0,Bank Transfer,4.0,0,4.0,Cairo,40,Regular,Groceries,Olive Oil 37,2917.62,8752.86,8752.86,January
+50466,2024-09-11,1023,2014,1.0,0.0,Cash,6.0,0,5.0,Giza,39,Regular,Groceries,Olive Oil 14,2648.26,2648.26,2648.26,September
+51220,2024-09-09,1085,2012,3.0,25.0,Bank Transfer,0.0,0,4.0,Zagazig,60,Vip,Beauty,Face Wash 12,78.88,236.64,177.48,September
+50924,2024-09-11,1028,2013,1.0,0.0,Cash,6.0,0,3.0,Suez,59,Regular,Fashion,T-Shirt 13,1475.64,1475.64,1475.64,September
+50243,2025-01-30,1008,2009,3.0,20.0,Wallet,8.0,0,2.0,Zagazig,34,New,Beauty,Face Wash 9,425.27,1275.81,1020.648,January
+50340,2024-12-25,1047,2004,4.0,0.0,Wallet,6.0,1,4.0,Mansoura,52,New,Electronics,Keyboard 4,2308.12,9232.48,9232.48,December
+50896,2025-02-06,1143,2001,3.0,0.0,Cash,8.0,1,4.0,Alexandria,44,New,Electronics,Wireless Mouse 1,1554.81,4664.43,4664.43,February
+50566,2024-12-18,1034,2013,1.0,25.0,Cash,3.0,0,5.0,Tanta,37,Regular,Fashion,T-Shirt 13,1475.64,1475.64,1106.73,December
+50134,2025-01-03,1107,2009,2.0,0.0,Card,7.0,0,5.0,Suez,24,New,Beauty,Face Wash 9,425.27,850.54,850.54,January
+50211,2025-01-12,1163,2045,2.0,0.0,Card,2.0,1,2.0,Mansoura,44,Regular,Beauty,Body Lotion 45,666.33,1332.66,1332.66,January
+51173,2024-12-18,1121,2015,2.0,0.0,Card,4.0,1,4.0,Mansoura,33,Regular,Home,Lamp 15,973.33,1946.66,1946.66,December
+50381,2024-10-17,1017,2007,4.0,0.0,Cash,8.0,0,5.0,Tanta,32,Regular,Groceries,Olive Oil 7,2727.69,10910.76,10910.76,October
+50842,2024-10-31,1170,2023,3.0,0.0,Card,3.0,0,4.0,Cairo,25,New,Sports,Bottle 23,2818.27,8454.81,8454.81,October
+50351,2024-10-24,1076,2042,5.0,0.0,Wallet,1.0,0,4.0,Mansoura,24,Regular,Sports,Running Socks 42,1954.72,9773.6,9773.6,October
+50578,2024-12-01,1040,2023,3.0,15.0,Card,4.0,0,4.0,Zagazig,56,Regular,Sports,Bottle 23,2818.27,8454.81,7186.588499999999,December
+51007,2025-01-05,1153,2039,3.0,10.0,Card,7.0,0,4.0,Ismailia,31,Regular,Electronics,Wireless Mouse 39,154.27,462.81000000000006,416.52900000000005,January
+51732,2024-10-05,1035,2010,3.0,20.0,Card,7.0,0,4.0,Ismailia,49,Regular,Sports,Running Socks 10,1898.9,5696.700000000001,4557.360000000001,October
+51598,2024-10-20,1116,2016,2.0,0.0,Card,8.0,0,3.0,Tanta,40,Vip,Groceries,Rice 16,1489.01,2978.02,2978.02,October
+51684,2025-01-27,1098,2044,4.0,0.0,Wallet,7.0,0,4.0,Zagazig,51,Regular,Fashion,T-Shirt 44,793.83,3175.32,3175.32,January
+51676,2024-11-16,1132,2023,1.0,0.0,Cash,2.0,0,4.0,Tanta,46,Regular,Sports,Bottle 23,2818.27,2818.27,2818.27,November
+50488,2024-10-28,1116,2008,3.0,10.0,Wallet,7.0,0,3.0,Tanta,40,Vip,Electronics,Usb-C Cable 8,2053.15,6159.450000000001,5543.505000000001,October
+50682,2024-10-21,1136,2008,5.0,15.0,Wallet,1.0,0,5.0,Alexandria,46,New,Electronics,Usb-C Cable 8,2053.15,10265.75,8725.887499999999,October
+51644,2024-11-24,1171,2038,5.0,10.0,Card,3.0,0,4.0,Cairo,40,Regular,Beauty,Body Lotion 38,2113.81,10569.05,9512.145,November
+50747,2025-01-11,1156,2010,2.0,0.0,Cash,2.0,1,4.0,Zagazig,52,Regular,Sports,Running Socks 10,1898.9,3797.8,3797.8,January
+51387,2025-02-06,1046,2044,2.0,5.0,Card,1.0,0,2.0,Ismailia,31,Vip,Fashion,T-Shirt 44,793.83,1587.66,1508.277,February
+50260,2024-10-29,1164,2001,1.0,0.0,Card,3.0,0,4.0,Mansoura,40,Regular,Electronics,Wireless Mouse 1,1554.81,1554.81,1554.81,October
+51013,2025-01-16,1081,2024,5.0,5.0,Card,4.0,0,5.0,Ismailia,52,New,Home,Lamp 24,937.15,4685.75,4451.4625,January
+50401,2024-09-28,1084,2016,3.0,20.0,Card,6.0,1,3.0,Suez,57,New,Groceries,Rice 16,1489.01,4467.03,3573.624,September
+50156,2024-10-05,1116,2005,5.0,5.0,Wallet,1.0,0,3.0,Tanta,40,Vip,Groceries,Rice 5,3045.78,15228.900000000001,14467.455,October
+50376,2024-11-16,1152,2018,1.0,0.0,Wallet,2.0,0,3.0,Alexandria,33,New,Beauty,Perfume 18,994.09,994.09,994.09,November
+50318,2024-10-28,1135,2009,1.0,5.0,Bank Transfer,0.0,0,3.0,Suez,28,Regular,Beauty,Face Wash 9,425.27,425.27,404.00649999999996,October
+51394,2024-12-25,1048,2002,1.0,0.0,Card,2.0,0,4.0,Ismailia,42,Regular,Fashion,T-Shirt 2,1229.3,1229.3,1229.3,December
+51658,2024-11-15,1082,2014,3.0,0.0,Cash,5.0,0,5.0,Mansoura,25,Regular,Groceries,Olive Oil 14,2648.26,7944.780000000001,7944.780000000001,November
+50557,2025-01-21,1007,2037,3.0,5.0,Cash,0.0,0,5.0,Cairo,25,Regular,Groceries,Olive Oil 37,2917.62,8752.86,8315.217,January
+51551,2024-11-07,1068,2003,5.0,25.0,Card,1.0,0,2.0,Alexandria,35,Regular,Fashion,Hoodie 3,3157.76,15788.800000000001,11841.6,November
+50384,2025-02-20,1052,2032,5.0,0.0,Card,0.0,0,4.0,Giza,54,Regular,Electronics,Power Bank 32,131.64,658.1999999999999,658.1999999999999,February
+50595,2024-09-05,1123,2008,1.0,15.0,Cash,2.0,0,5.0,Zagazig,18,Regular,Electronics,Usb-C Cable 8,2053.15,2053.15,1745.1775,September
+51511,2024-12-02,1133,2007,2.0,0.0,Card,3.0,1,5.0,Cairo,23,New,Groceries,Olive Oil 7,2727.69,5455.38,5455.38,December
+50536,2025-01-05,1035,2026,5.0,5.0,Card,8.0,0,3.0,Ismailia,49,Regular,Beauty,Perfume 26,376.29,1881.45,1787.3775,January
+51418,2024-12-29,1123,2014,3.0,0.0,Cash,3.0,1,2.0,Zagazig,18,Regular,Groceries,Olive Oil 14,2648.26,7944.780000000001,7944.780000000001,December
+50416,2024-12-30,1029,2008,4.0,5.0,Card,2.0,0,2.0,Tanta,29,New,Electronics,Usb-C Cable 8,2053.15,8212.6,7801.97,December
+50449,2024-12-10,1063,2022,2.0,0.0,Wallet,5.0,0,4.0,Unknown,22,New,Groceries,Pasta 22,3190.63,6381.26,6381.26,December
+50953,2024-12-17,1082,2001,2.0,20.0,Cash,0.0,0,4.0,Mansoura,25,Regular,Electronics,Wireless Mouse 1,1554.81,3109.62,2487.696,December
+51274,2025-01-30,1162,2003,4.0,15.0,Card,2.0,0,4.0,Zagazig,30,Vip,Fashion,Hoodie 3,3157.76,12631.04,10736.384,January
+50861,2024-10-12,1013,2027,4.0,0.0,Bank Transfer,4.0,0,4.0,Zagazig,44,New,Sports,Jump Rope 27,3197.17,12788.68,12788.68,October
+50220,2024-09-01,1156,2005,3.0,0.0,Cash,7.0,0,4.0,Zagazig,52,Regular,Groceries,Rice 5,3045.78,9137.34,9137.34,September
+51373,2024-11-25,1094,2016,1.0,5.0,Cash,6.0,0,5.0,Mansoura,59,Regular,Groceries,Rice 16,1489.01,1489.01,1414.5594999999998,November
+50759,2024-10-17,1142,2008,4.0,0.0,Wallet,7.0,0,4.0,Giza,22,Regular,Electronics,Usb-C Cable 8,2053.15,8212.6,8212.6,October
+51772,2024-10-22,1179,2012,4.0,0.0,Card,4.0,0,3.0,Ismailia,21,Regular,Beauty,Face Wash 12,78.88,315.52,315.52,October
+50640,2024-11-18,1085,2032,3.0,5.0,Cash,8.0,0,5.0,Zagazig,60,Vip,Electronics,Power Bank 32,131.64,394.91999999999996,375.1739999999999,November
+50186,2024-12-16,1170,2037,5.0,15.0,Cash,2.0,0,5.0,Cairo,25,New,Groceries,Olive Oil 37,2917.62,14588.099999999999,12399.884999999998,December
+51030,2024-11-14,1019,2012,3.0,20.0,Wallet,8.0,0,4.0,Suez,32,New,Beauty,Face Wash 12,78.88,236.64,189.312,November
+51091,2024-10-06,1037,2003,1.0,5.0,Card,0.0,0,1.0,Suez,21,New,Fashion,Hoodie 3,3157.76,3157.76,2999.872,October
+50244,2025-01-23,1172,2042,4.0,0.0,Card,2.0,0,3.0,Cairo,19,New,Sports,Running Socks 42,1954.72,7818.88,7818.88,January
+51208,2024-11-02,1014,2038,2.0,0.0,Card,5.0,0,4.0,Suez,33,Regular,Beauty,Body Lotion 38,2113.81,4227.62,4227.62,November
+50621,2024-11-11,1160,2003,2.0,10.0,Card,2.0,1,4.0,Suez,58,Vip,Fashion,Hoodie 3,3157.76,6315.52,5683.968000000001,November
+50407,2024-10-30,1018,2030,3.0,15.0,Card,7.0,0,3.0,Giza,23,Vip,Electronics,Headphones 30,325.79,977.3700000000001,830.7645000000001,October
+51465,2025-02-06,1111,2043,1.0,0.0,Card,1.0,0,1.0,Alexandria,52,Regular,Fashion,Hoodie 43,2572.68,2572.68,2572.68,February
+51148,2024-09-19,1177,2039,1.0,5.0,Bank Transfer,8.0,0,5.0,Zagazig,24,Regular,Electronics,Wireless Mouse 39,154.27,154.27,146.5565,September
+50654,2025-02-18,1149,2027,5.0,0.0,Cash,8.0,1,3.0,Suez,24,Regular,Sports,Jump Rope 27,3197.17,15985.85,15985.85,February
+51271,2024-10-17,1019,2005,1.0,25.0,Card,7.0,0,4.0,Suez,32,New,Groceries,Rice 5,3045.78,3045.78,2284.335,October
+51637,2024-09-29,1056,2025,2.0,0.0,Cash,3.0,1,5.0,Cairo,48,Regular,Groceries,Tea 25,2684.59,5369.18,5369.18,September
+50828,2024-10-02,1080,2003,2.0,0.0,Wallet,5.0,0,4.0,Zagazig,43,Regular,Fashion,Hoodie 3,3157.76,6315.52,6315.52,October
+50424,2025-02-26,1176,2035,1.0,25.0,Bank Transfer,0.0,0,4.0,Mansoura,60,Regular,Sports,Jump Rope 35,2494.59,2494.59,1870.9425,February
+51151,2024-11-18,1010,2020,2.0,20.0,Wallet,7.0,0,3.0,Cairo,30,New,Fashion,Jacket 20,2508.89,5017.78,4014.224,November
+50794,2024-11-12,1109,2028,1.0,0.0,Wallet,5.0,0,5.0,Mansoura,41,Regular,Home,Kitchen Knife 28,2143.56,2143.56,2143.56,November
+50055,2024-12-08,1173,2025,1.0,0.0,Card,3.0,0,4.0,Suez,30,Regular,Groceries,Tea 25,2684.59,2684.59,2684.59,December
+51430,2024-12-06,1005,2023,1.0,0.0,Bank Transfer,1.0,0,4.0,Mansoura,39,Regular,Sports,Bottle 23,2818.27,2818.27,2818.27,December
+51610,2024-09-28,1086,2011,4.0,0.0,Card,4.0,0,5.0,Zagazig,42,New,Groceries,Tea 11,2208.06,8832.24,8832.24,September
+50134,2024-09-21,1170,2001,5.0,20.0,Wallet,8.0,0,4.0,Cairo,25,New,Electronics,Wireless Mouse 1,1554.81,7774.049999999999,6219.24,September
+50611,2024-10-23,1135,2026,5.0,5.0,Card,5.0,0,1.0,Suez,28,Regular,Beauty,Perfume 26,376.29,1881.45,1787.3775,October
+50223,2024-10-05,1084,2031,4.0,0.0,Cash,7.0,0,4.0,Suez,57,New,Fashion,Hoodie 31,2874.63,11498.52,11498.52,October
+50388,2024-10-29,1001,2043,5.0,0.0,Wallet,6.0,0,3.0,Cairo,58,Vip,Fashion,Hoodie 43,2572.68,12863.4,12863.4,October
+50509,2024-12-11,1048,2011,3.0,15.0,Wallet,2.0,0,4.0,Ismailia,42,Regular,Groceries,Tea 11,2208.06,6624.18,5630.553,December
+50973,2024-10-16,1165,2037,2.0,15.0,Bank Transfer,6.0,0,4.0,Mansoura,56,Regular,Groceries,Olive Oil 37,2917.62,5835.24,4959.954,October
+50818,2024-11-02,1021,2033,1.0,0.0,Card,1.0,1,2.0,Tanta,33,Regular,Electronics,Keyboard 33,801.02,801.02,801.02,November
+51300,2025-02-26,1134,2024,2.0,20.0,Card,7.0,0,4.0,Tanta,30,Regular,Home,Lamp 24,937.15,1874.3,1499.44,February
+51606,2025-01-01,1009,2009,1.0,25.0,Card,8.0,0,3.0,Giza,28,Regular,Beauty,Face Wash 9,425.27,425.27,318.9525,January
+50741,2024-11-12,1115,2042,1.0,5.0,Card,1.0,1,4.0,Tanta,41,Regular,Sports,Running Socks 42,1954.72,1954.72,1856.984,November
+50124,2024-12-20,1015,2024,4.0,20.0,Card,3.0,0,5.0,Zagazig,59,New,Home,Lamp 24,937.15,3748.6,2998.88,December
+50364,2025-01-31,1017,2017,5.0,0.0,Cash,2.0,0,3.0,Tanta,32,Regular,Groceries,Pasta 17,1437.71,7188.55,7188.55,January
+51524,2024-12-03,1091,2007,2.0,0.0,Card,8.0,0,4.0,Mansoura,30,New,Groceries,Olive Oil 7,2727.69,5455.38,5455.38,December
+50521,2024-11-05,1012,2043,3.0,0.0,Card,5.0,0,5.0,Ismailia,45,New,Fashion,Hoodie 43,2572.68,7718.039999999999,7718.039999999999,November
+51498,2025-02-19,1004,2034,2.0,0.0,Wallet,3.0,0,4.0,Mansoura,47,New,Fashion,Jeans 34,491.95,983.9,983.9,February
+51706,2024-10-23,1138,2030,4.0,0.0,Card,1.0,0,4.0,Cairo,49,Regular,Electronics,Headphones 30,325.79,1303.16,1303.16,October
+50082,2024-12-07,1084,2018,3.0,0.0,Wallet,0.0,0,4.0,Unknown,57,New,Beauty,Perfume 18,994.09,2982.27,2982.27,December
+51663,2024-12-28,1052,2012,1.0,20.0,Cash,5.0,1,3.0,Giza,54,Regular,Beauty,Face Wash 12,78.88,78.88,63.104,December
+50302,2025-01-26,1166,2002,5.0,0.0,Card,3.0,0,5.0,Suez,29,Regular,Fashion,T-Shirt 2,1229.3,6146.5,6146.5,January
+50729,2025-02-28,1051,2040,3.0,0.0,Cash,2.0,0,4.0,Suez,37,New,Groceries,Coffee 40,57.16,171.48,171.48,February
+50901,2025-01-08,1005,2043,1.0,20.0,Cash,7.0,0,4.0,Mansoura,39,Regular,Fashion,Hoodie 43,2572.68,2572.68,2058.144,January
+50278,2024-12-22,1171,2002,2.0,5.0,Card,2.0,0,4.0,Cairo,40,Regular,Fashion,T-Shirt 2,1229.3,2458.6,2335.6699999999996,December
+51521,2024-10-23,1127,2031,3.0,0.0,Card,5.0,0,3.0,Cairo,30,Regular,Fashion,Hoodie 31,2874.63,8623.89,8623.89,October
+51385,2024-11-22,1057,2029,1.0,15.0,Card,3.0,0,3.0,Tanta,46,Regular,Home,Lamp 29,2094.4,2094.4,1780.24,November
+51441,2024-10-18,1119,2018,5.0,10.0,Cash,8.0,0,3.0,Giza,30,Regular,Beauty,Perfume 18,994.09,4970.45,4473.405,October
+51445,2024-11-01,1005,2012,2.0,10.0,Cash,5.0,0,4.0,Mansoura,39,Regular,Beauty,Face Wash 12,78.88,157.76,141.984,November
+50595,2025-01-17,1140,2033,5.0,0.0,Card,4.0,0,4.0,Mansoura,51,Vip,Electronics,Keyboard 33,801.02,4005.1,4005.1,January
+50666,2024-12-03,1099,2009,4.0,25.0,Card,6.0,0,4.0,Zagazig,20,Vip,Beauty,Face Wash 9,425.27,1701.08,1275.81,December
+50246,2025-01-01,1009,2027,2.0,10.0,Wallet,3.0,0,4.0,Giza,28,Regular,Sports,Jump Rope 27,3197.17,6394.34,5754.906,January
+51439,2024-09-04,1154,2045,2.0,0.0,Wallet,2.0,0,2.0,Alexandria,53,Vip,Beauty,Body Lotion 45,2724.13,5448.26,5448.26,September
+51545,2025-02-21,1063,2003,2.0,20.0,Bank Transfer,6.0,0,4.0,Alexandria,22,New,Fashion,Hoodie 3,3157.76,6315.52,5052.416000000001,February
+50391,2024-11-17,1132,2006,4.0,0.0,Wallet,8.0,0,4.0,Tanta,46,Regular,Electronics,Keyboard 6,414.39,1657.56,1657.56,November
+50955,2025-01-13,1131,2018,2.0,0.0,Cash,6.0,0,4.0,Tanta,46,Regular,Beauty,Perfume 18,994.09,1988.18,1988.18,January
+51652,2024-10-21,1136,2037,1.0,30.0,Wallet,4.0,0,4.0,Alexandria,46,New,Groceries,Olive Oil 37,2917.62,2917.62,2042.3339999999998,October
+51374,2024-10-09,1081,2012,4.0,0.0,Card,1.0,0,4.0,Ismailia,52,New,Beauty,Face Wash 12,78.88,315.52,315.52,October
+50994,2025-02-25,1136,2006,2.0,0.0,Card,6.0,0,4.0,Alexandria,46,New,Electronics,Keyboard 6,414.39,828.78,828.78,February
+51303,2024-12-13,1062,2012,5.0,0.0,Cash,0.0,0,4.0,Zagazig,43,Regular,Beauty,Face Wash 12,78.88,394.4,394.4,December
+50822,2024-09-07,1051,2003,1.0,0.0,Wallet,3.0,0,4.0,Suez,37,New,Fashion,Hoodie 3,3157.76,3157.76,3157.76,September
+51178,2024-11-06,1068,2011,4.0,0.0,Cash,3.0,0,3.0,Alexandria,35,Regular,Groceries,Tea 11,2208.06,8832.24,8832.24,November
+50356,2024-10-20,1057,2032,5.0,10.0,Wallet,5.0,0,2.0,Tanta,46,Regular,Electronics,Power Bank 32,131.64,658.1999999999999,592.38,October
+50948,2025-01-30,1057,2017,3.0,0.0,Cash,6.0,0,5.0,Tanta,46,Regular,Groceries,Pasta 17,1437.71,4313.13,4313.13,January
+50059,2024-09-08,1055,2008,2.0,0.0,Cash,3.0,0,5.0,Mansoura,39,Vip,Electronics,Usb-C Cable 8,2053.15,4106.3,4106.3,September
+51461,2024-10-04,1001,2045,1.0,10.0,Bank Transfer,6.0,0,5.0,Cairo,58,Vip,Beauty,Body Lotion 45,2724.13,2724.13,2451.717,October
+50554,2024-12-26,1073,2002,4.0,0.0,Cash,0.0,0,5.0,Mansoura,26,Regular,Fashion,T-Shirt 2,1229.3,4917.2,4917.2,December
+50111,2024-12-04,1162,2011,2.0,0.0,Wallet,8.0,0,4.0,Zagazig,30,Vip,Groceries,Tea 11,2208.06,4416.12,4416.12,December
+50334,2024-11-21,1131,2034,1.0,0.0,Wallet,4.0,0,5.0,Tanta,46,Regular,Fashion,Jeans 34,491.95,491.95,491.95,November
+50975,2024-09-30,1048,2015,4.0,0.0,Card,2.0,0,4.0,Ismailia,42,Regular,Home,Lamp 15,973.33,3893.32,3893.32,September
+51432,2024-10-29,1090,2027,5.0,0.0,Wallet,4.0,0,5.0,Suez,43,New,Sports,Jump Rope 27,3197.17,15985.85,15985.85,October
+50685,2025-01-31,1175,2021,1.0,15.0,Card,5.0,0,3.0,Zagazig,59,Regular,Groceries,Rice 21,389.46,389.46,331.041,January
+50607,2024-12-18,1123,2033,1.0,0.0,Card,2.0,0,4.0,Zagazig,18,Regular,Electronics,Keyboard 33,801.02,801.02,801.02,December
+51797,2024-09-29,1053,2009,1.0,0.0,Wallet,1.0,0,4.0,Alexandria,18,Vip,Beauty,Face Wash 9,425.27,425.27,425.27,September
+50008,2024-09-13,1032,2043,4.0,0.0,Card,6.0,0,3.0,Giza,48,Regular,Fashion,Hoodie 43,2572.68,10290.72,10290.72,September
+50289,2025-01-24,1107,2041,5.0,10.0,Cash,8.0,0,5.0,Suez,24,New,Home,Storage Box 41,203.24,1016.2,914.58,January
+51181,2024-12-23,1050,2019,3.0,0.0,Card,1.0,0,4.0,Suez,25,New,Groceries,Olive Oil 19,2942.28,8826.84,8826.84,December
+51057,2024-10-24,1032,2021,3.0,20.0,Card,8.0,0,4.0,Giza,48,Regular,Groceries,Rice 21,2684.59,8053.77,6443.0160000000005,October
+50190,2025-02-12,1150,2036,2.0,10.0,Card,6.0,0,4.0,Cairo,41,New,Beauty,Face Wash 36,666.33,1332.66,1199.394,February
+51494,2025-02-28,1094,2003,5.0,0.0,Card,0.0,0,2.0,Mansoura,59,Regular,Fashion,Hoodie 3,3157.76,15788.800000000001,15788.800000000001,February
+50438,2024-11-13,1150,2042,3.0,5.0,Cash,4.0,0,4.0,Cairo,41,New,Sports,Running Socks 42,1954.72,5864.16,5570.951999999999,November
+51067,2024-11-22,1151,2025,3.0,0.0,Card,7.0,1,5.0,Suez,41,Regular,Groceries,Tea 25,2684.59,8053.77,8053.77,November
+51395,2025-02-15,1004,2001,3.0,15.0,Cash,2.0,0,4.0,Mansoura,47,New,Electronics,Wireless Mouse 1,1554.81,4664.43,3964.7655,February
+51640,2024-11-09,1011,2021,5.0,5.0,Cash,6.0,0,4.0,Tanta,47,Vip,Groceries,Rice 21,389.46,1947.3,1849.935,November
+50389,2024-11-13,1120,2003,1.0,0.0,Bank Transfer,4.0,0,4.0,Cairo,18,Regular,Fashion,Hoodie 3,3157.76,3157.76,3157.76,November
+51669,2025-01-20,1160,2022,5.0,0.0,Card,7.0,1,5.0,Suez,58,Vip,Groceries,Pasta 22,3190.63,15953.150000000001,15953.150000000001,January
+50812,2024-11-22,1167,2009,5.0,0.0,Card,2.0,0,5.0,Alexandria,60,Vip,Beauty,Face Wash 9,425.27,2126.35,2126.35,November
+50937,2025-02-02,1177,2040,5.0,30.0,Bank Transfer,2.0,0,4.0,Zagazig,24,Regular,Groceries,Coffee 40,57.16,285.79999999999995,200.05999999999995,February
+50056,2025-01-12,1114,2032,5.0,0.0,Card,2.0,0,4.0,Mansoura,32,New,Electronics,Power Bank 32,131.64,658.1999999999999,658.1999999999999,January
+50990,2024-11-11,1017,2026,3.0,0.0,Wallet,1.0,0,4.0,Tanta,32,Regular,Beauty,Perfume 26,376.29,1128.8700000000001,1128.8700000000001,November
+50648,2024-09-19,1036,2024,2.0,20.0,Card,0.0,0,3.0,Cairo,29,Regular,Home,Lamp 24,937.15,1874.3,1499.44,September
+50049,2024-12-28,1037,2045,4.0,5.0,Card,7.0,0,5.0,Suez,21,New,Beauty,Body Lotion 45,2724.13,10896.52,10351.694,December
+51534,2024-09-08,1068,2026,5.0,10.0,Wallet,5.0,0,4.0,Alexandria,35,Regular,Beauty,Perfume 26,376.29,1881.45,1693.305,September
+50666,2024-09-26,1056,2011,4.0,0.0,Card,6.0,0,4.0,Cairo,48,Regular,Groceries,Tea 11,2208.06,8832.24,8832.24,September
+50712,2025-01-08,1080,2013,4.0,0.0,Card,3.0,0,3.0,Zagazig,43,Regular,Fashion,T-Shirt 13,1475.64,5902.56,5902.56,January
+50712,2024-09-30,1048,2015,5.0,15.0,Bank Transfer,5.0,0,4.0,Ismailia,42,Regular,Home,Lamp 15,973.33,4866.650000000001,4136.6525,September
+50119,2025-01-28,1172,2041,2.0,0.0,Wallet,8.0,0,4.0,Cairo,19,New,Home,Storage Box 41,203.24,406.48,406.48,January
+51781,2025-01-24,1095,2043,5.0,20.0,Cash,7.0,0,3.0,Ismailia,35,Regular,Fashion,Hoodie 43,2572.68,12863.4,10290.720000000001,January
+51409,2024-09-24,1086,2012,1.0,0.0,Card,4.0,0,4.0,Zagazig,42,New,Beauty,Face Wash 12,78.88,78.88,78.88,September
+51682,2025-02-26,1154,2045,5.0,25.0,Card,6.0,0,3.0,Alexandria,53,Vip,Beauty,Body Lotion 45,2724.13,13620.650000000001,10215.487500000001,February
+51658,2024-09-11,1178,2028,4.0,0.0,Wallet,0.0,0,5.0,Giza,56,Regular,Home,Kitchen Knife 28,2143.56,8574.24,8574.24,September
+50491,2025-02-10,1016,2007,4.0,0.0,Card,8.0,0,2.0,Suez,21,New,Groceries,Olive Oil 7,2727.69,10910.76,10910.76,February
+50792,2024-12-03,1036,2013,3.0,5.0,Cash,4.0,0,4.0,Cairo,29,Regular,Fashion,T-Shirt 13,1475.64,4426.92,4205.574,December
+51391,2024-09-02,1018,2034,5.0,0.0,Card,6.0,0,4.0,Giza,23,Vip,Fashion,Jeans 34,491.95,2459.75,2459.75,September
+50607,2025-01-15,1072,2015,3.0,0.0,Card,0.0,0,4.0,Giza,39,Vip,Home,Lamp 15,973.33,2919.9900000000002,2919.9900000000002,January
+50358,2024-10-04,1024,2010,4.0,0.0,Wallet,6.0,0,3.0,Ismailia,48,New,Sports,Running Socks 10,1898.9,7595.6,7595.6,October
+50167,2024-12-02,1150,2045,1.0,30.0,Bank Transfer,3.0,0,4.0,Cairo,41,New,Beauty,Body Lotion 45,2724.13,2724.13,1906.8909999999998,December
+51081,2024-12-29,1164,2031,5.0,5.0,Bank Transfer,5.0,0,5.0,Unknown,40,Regular,Fashion,Hoodie 31,2874.63,14373.150000000001,13654.4925,December
+51406,2025-02-20,1171,2037,3.0,0.0,Bank Transfer,5.0,0,1.0,Cairo,40,Regular,Groceries,Olive Oil 37,2917.62,8752.86,8752.86,February
+50063,2024-12-13,1105,2028,1.0,0.0,Bank Transfer,0.0,0,5.0,Suez,36,Regular,Home,Kitchen Knife 28,2143.56,2143.56,2143.56,December
+50668,2025-02-09,1162,2007,3.0,20.0,Card,5.0,1,1.0,Zagazig,30,Vip,Groceries,Olive Oil 7,2727.69,8183.07,6546.456,February
+51561,2024-11-19,1062,2009,4.0,10.0,Wallet,0.0,0,5.0,Zagazig,43,Regular,Beauty,Face Wash 9,425.27,1701.08,1530.972,November
+51594,2024-11-01,1106,2038,4.0,5.0,Card,5.0,0,5.0,Suez,58,Regular,Beauty,Body Lotion 38,2113.81,8455.24,8032.477999999999,November
+51531,2024-12-27,1002,2014,5.0,0.0,Cash,4.0,0,1.0,Suez,24,Vip,Groceries,Olive Oil 14,2648.26,13241.300000000001,13241.300000000001,December
+51301,2025-02-25,1153,2018,4.0,0.0,Card,5.0,0,4.0,Ismailia,31,Regular,Beauty,Perfume 18,994.09,3976.36,3976.36,February
+50909,2025-02-16,1061,2034,5.0,0.0,Card,2.0,0,4.0,Ismailia,24,Regular,Fashion,Jeans 34,491.95,2459.75,2459.75,February
+51490,2024-12-15,1100,2006,5.0,15.0,Cash,6.0,1,4.0,Giza,21,Vip,Electronics,Keyboard 6,414.39,2071.95,1761.1574999999998,December
+51095,2025-01-18,1071,2022,5.0,5.0,Card,8.0,0,5.0,Suez,25,Regular,Groceries,Pasta 22,3190.63,15953.150000000001,15155.4925,January
+50187,2025-02-05,1099,2042,5.0,0.0,Bank Transfer,5.0,0,5.0,Zagazig,20,Vip,Sports,Running Socks 42,1954.72,9773.6,9773.6,February
+50162,2024-12-23,1107,2033,2.0,0.0,Wallet,7.0,0,3.0,Suez,24,New,Electronics,Keyboard 33,801.02,1602.04,1602.04,December
+50942,2024-11-19,1179,2003,4.0,0.0,Bank Transfer,8.0,0,4.0,Ismailia,21,Regular,Fashion,Hoodie 3,3157.76,12631.04,12631.04,November
+51588,2025-02-17,1094,2045,1.0,0.0,Card,7.0,0,5.0,Mansoura,59,Regular,Beauty,Body Lotion 45,2724.13,2724.13,2724.13,February
+50100,2024-10-25,1131,2009,3.0,0.0,Card,3.0,0,5.0,Tanta,46,Regular,Beauty,Face Wash 9,425.27,1275.81,1275.81,October
+50092,2025-01-09,1130,2041,4.0,25.0,Wallet,7.0,0,3.0,Zagazig,22,New,Home,Storage Box 41,203.24,812.96,609.72,January
+51242,2024-12-16,1024,2031,1.0,0.0,Cash,3.0,0,5.0,Ismailia,48,New,Fashion,Hoodie 31,2874.63,2874.63,2874.63,December
+51329,2024-09-21,1056,2018,4.0,0.0,Cash,5.0,1,4.0,Cairo,48,Regular,Beauty,Perfume 18,994.09,3976.36,3976.36,September
+50153,2025-02-22,1151,2030,5.0,0.0,Card,0.0,0,4.0,Suez,41,Regular,Electronics,Headphones 30,325.79,1628.95,1628.95,February
+50176,2025-01-09,1097,2002,2.0,0.0,Bank Transfer,1.0,0,4.0,Giza,38,New,Fashion,T-Shirt 2,1229.3,2458.6,2458.6,January
+50140,2024-11-22,1110,2013,2.0,0.0,Cash,2.0,0,4.0,Zagazig,38,New,Fashion,T-Shirt 13,1475.64,2951.28,2951.28,November
+51477,2025-01-27,1043,2006,5.0,10.0,Bank Transfer,0.0,1,4.0,Zagazig,48,Regular,Electronics,Keyboard 6,414.39,2071.95,1864.7549999999999,January
+51473,2025-01-08,1011,2012,1.0,15.0,Wallet,3.0,0,3.0,Tanta,47,Vip,Beauty,Face Wash 12,78.88,78.88,67.04799999999999,January
+50643,2024-09-26,1149,2014,3.0,15.0,Card,5.0,0,4.0,Suez,24,Regular,Groceries,Olive Oil 14,2648.26,7944.780000000001,6753.063,September
+50352,2024-12-01,1056,2010,2.0,0.0,Wallet,8.0,0,3.0,Cairo,48,Regular,Sports,Running Socks 10,1898.9,3797.8,3797.8,December
+50447,2024-12-22,1019,2024,2.0,15.0,Card,8.0,0,5.0,Suez,32,New,Home,Lamp 24,937.15,1874.3,1593.155,December
+50084,2024-09-26,1018,2011,3.0,0.0,Card,0.0,0,5.0,Giza,23,Vip,Groceries,Tea 11,2208.06,6624.18,6624.18,September
+51721,2025-02-16,1168,2026,3.0,5.0,Cash,3.0,0,2.0,Giza,58,New,Beauty,Perfume 26,376.29,1128.8700000000001,1072.4265,February
+50586,2025-02-04,1119,2045,3.0,0.0,Card,3.0,0,4.0,Giza,30,Regular,Beauty,Body Lotion 45,2724.13,8172.39,8172.39,February
+50057,2024-10-21,1110,2040,3.0,10.0,Cash,3.0,0,4.0,Zagazig,38,New,Groceries,Coffee 40,57.16,171.48,154.332,October
+50114,2024-10-29,1024,2023,3.0,10.0,Card,8.0,0,4.0,Ismailia,48,New,Sports,Bottle 23,2818.27,8454.81,7609.329,October
+51396,2024-10-25,1149,2015,1.0,10.0,Cash,8.0,0,5.0,Suez,24,Regular,Home,Lamp 15,973.33,973.33,875.9970000000001,October
+50108,2024-10-27,1080,2011,2.0,5.0,Cash,6.0,0,4.0,Zagazig,43,Regular,Groceries,Tea 11,2208.06,4416.12,4195.313999999999,October
+51344,2024-09-05,1030,2042,2.0,10.0,Wallet,4.0,0,4.0,Mansoura,51,Regular,Sports,Running Socks 42,1954.72,3909.44,3518.496,September
+51618,2024-12-28,1020,2020,3.0,0.0,Card,0.0,1,5.0,Mansoura,59,New,Fashion,Jacket 20,2508.89,7526.67,7526.67,December
+50522,2025-02-07,1099,2014,1.0,0.0,Card,4.0,0,4.0,Zagazig,20,Vip,Groceries,Olive Oil 14,2648.26,2648.26,2648.26,February
+50095,2025-02-25,1041,2002,1.0,0.0,Bank Transfer,7.0,0,4.0,Giza,23,New,Fashion,T-Shirt 2,1229.3,1229.3,1229.3,February
+50543,2025-02-21,1063,2025,4.0,0.0,Card,0.0,0,4.0,Alexandria,22,New,Groceries,Tea 25,2684.59,10738.36,10738.36,February
+51298,2024-10-11,1064,2038,3.0,0.0,Cash,1.0,0,5.0,Ismailia,45,Regular,Beauty,Body Lotion 38,2113.81,6341.43,6341.43,October
+51328,2024-12-21,1138,2024,5.0,0.0,Wallet,4.0,0,4.0,Cairo,49,Regular,Home,Lamp 24,937.15,4685.75,4685.75,December
+51353,2025-01-02,1113,2036,2.0,0.0,Cash,6.0,0,4.0,Tanta,59,Vip,Beauty,Face Wash 36,666.33,1332.66,1332.66,January
+51017,2024-09-16,1069,2007,5.0,0.0,Card,8.0,0,5.0,Cairo,51,Regular,Groceries,Olive Oil 7,2727.69,13638.45,13638.45,September
+50337,2024-12-29,1082,2035,1.0,10.0,Cash,4.0,1,3.0,Mansoura,25,Regular,Sports,Jump Rope 35,2494.59,2494.59,2245.1310000000003,December
+50150,2024-12-25,1077,2024,1.0,20.0,Card,0.0,0,5.0,Alexandria,47,Regular,Home,Lamp 24,937.15,937.15,749.72,December
+51626,2025-02-04,1061,2025,2.0,0.0,Card,8.0,0,5.0,Ismailia,24,Regular,Groceries,Tea 25,2684.59,5369.18,5369.18,February
+50619,2024-10-07,1030,2045,2.0,5.0,Wallet,0.0,0,4.0,Mansoura,51,Regular,Beauty,Body Lotion 45,2724.13,5448.26,5175.847,October
+51104,2025-01-11,1178,2044,5.0,0.0,Card,4.0,0,4.0,Giza,56,Regular,Fashion,T-Shirt 44,793.83,3969.15,3969.15,January
+50794,2024-11-16,1076,2032,3.0,20.0,Card,6.0,0,4.0,Mansoura,24,Regular,Electronics,Power Bank 32,131.64,394.91999999999996,315.936,November
+50479,2024-12-06,1011,2040,1.0,15.0,Bank Transfer,4.0,0,4.0,Tanta,47,Vip,Groceries,Coffee 40,57.16,57.16,48.586,December
+50100,2025-02-27,1032,2039,1.0,20.0,Cash,3.0,1,4.0,Unknown,48,Regular,Electronics,Wireless Mouse 39,154.27,154.27,123.41600000000001,February
+50375,2024-09-18,1006,2018,4.0,0.0,Bank Transfer,1.0,0,2.0,Suez,37,Regular,Beauty,Perfume 18,994.09,3976.36,3976.36,September
+50631,2024-11-16,1155,2003,2.0,0.0,Card,8.0,0,1.0,Mansoura,37,New,Fashion,Hoodie 3,3157.76,6315.52,6315.52,November
+50477,2024-12-04,1132,2005,3.0,15.0,Card,6.0,0,2.0,Tanta,46,Regular,Groceries,Rice 5,3045.78,9137.34,7766.739,December
+50058,2024-11-03,1092,2041,1.0,15.0,Cash,7.0,0,5.0,Suez,18,New,Home,Storage Box 41,203.24,203.24,172.754,November
+50352,2024-11-10,1140,2040,1.0,0.0,Bank Transfer,2.0,0,5.0,Mansoura,51,Vip,Groceries,Coffee 40,57.16,57.16,57.16,November
+51416,2024-11-24,1045,2019,3.0,5.0,Bank Transfer,4.0,0,4.0,Cairo,49,New,Groceries,Olive Oil 19,2942.28,8826.84,8385.498,November
+51743,2025-01-24,1132,2043,3.0,0.0,Card,4.0,0,4.0,Tanta,46,Regular,Fashion,Hoodie 43,2572.68,7718.039999999999,7718.039999999999,January
+50978,2024-09-19,1008,2027,1.0,0.0,Card,0.0,0,4.0,Zagazig,34,New,Sports,Jump Rope 27,3197.17,3197.17,3197.17,September
+51038,2024-12-27,1134,2023,2.0,20.0,Wallet,4.0,1,3.0,Tanta,30,Regular,Sports,Bottle 23,2818.27,5636.54,4509.232,December
+50710,2024-11-13,1055,2001,5.0,0.0,Card,3.0,1,5.0,Mansoura,39,Vip,Electronics,Wireless Mouse 1,1554.81,7774.049999999999,7774.049999999999,November
+51480,2024-09-13,1056,2009,1.0,5.0,Card,2.0,0,5.0,Cairo,48,Regular,Beauty,Face Wash 9,425.27,425.27,404.00649999999996,September
+50305,2025-02-24,1100,2028,3.0,5.0,Cash,1.0,0,5.0,Giza,21,Vip,Home,Kitchen Knife 28,2143.56,6430.68,6109.146,February
+50603,2024-09-01,1046,2016,1.0,0.0,Cash,8.0,0,3.0,Ismailia,31,Vip,Groceries,Rice 16,1489.01,1489.01,1489.01,September
+50405,2025-02-02,1075,2007,3.0,0.0,Cash,7.0,0,2.0,Zagazig,46,New,Groceries,Olive Oil 7,2727.69,8183.07,8183.07,February
+50595,2025-02-25,1083,2008,1.0,10.0,Card,3.0,0,4.0,Giza,30,New,Electronics,Usb-C Cable 8,2053.15,2053.15,1847.835,February
+50464,2024-09-22,1178,2034,4.0,0.0,Card,4.0,0,4.0,Giza,56,Regular,Fashion,Jeans 34,491.95,1967.8,1967.8,September
+51731,2024-12-03,1116,2006,3.0,10.0,Cash,5.0,1,4.0,Tanta,40,Vip,Electronics,Keyboard 6,414.39,1243.17,1118.853,December
+50278,2025-01-29,1062,2042,1.0,15.0,Bank Transfer,6.0,0,3.0,Zagazig,43,Regular,Sports,Running Socks 42,1954.72,1954.72,1661.512,January
+50835,2025-01-11,1094,2023,1.0,0.0,Card,0.0,0,1.0,Mansoura,59,Regular,Sports,Bottle 23,2818.27,2818.27,2818.27,January
+50265,2024-12-14,1116,2028,2.0,0.0,Wallet,2.0,0,4.0,Tanta,40,Vip,Home,Kitchen Knife 28,2143.56,4287.12,4287.12,December
+51548,2025-02-27,1041,2033,2.0,10.0,Wallet,6.0,0,5.0,Giza,23,New,Electronics,Keyboard 33,801.02,1602.04,1441.836,February
+51387,2025-01-07,1081,2019,4.0,20.0,Card,1.0,0,2.0,Ismailia,52,New,Groceries,Olive Oil 19,2942.28,11769.12,9415.296,January
+51454,2025-01-26,1166,2030,1.0,10.0,Cash,4.0,0,5.0,Suez,29,Regular,Electronics,Headphones 30,325.79,325.79,293.211,January
+50691,2024-09-24,1005,2024,3.0,15.0,Bank Transfer,2.0,0,4.0,Mansoura,39,Regular,Home,Lamp 24,937.15,2811.45,2389.7324999999996,September
+51167,2024-09-28,1032,2018,4.0,0.0,Card,2.0,0,4.0,Giza,48,Regular,Beauty,Perfume 18,994.09,3976.36,3976.36,September
+50923,2025-02-28,1121,2025,1.0,0.0,Wallet,2.0,0,5.0,Mansoura,33,Regular,Groceries,Tea 25,2684.59,2684.59,2684.59,February
+51149,2024-09-28,1161,2035,1.0,5.0,Wallet,4.0,0,2.0,Ismailia,45,New,Sports,Jump Rope 35,2494.59,2494.59,2369.8605000000002,September
+51686,2024-10-26,1078,2004,3.0,0.0,Card,1.0,0,2.0,Giza,22,New,Electronics,Keyboard 4,2308.12,6924.36,6924.36,October
+51204,2024-09-21,1026,2011,2.0,5.0,Cash,7.0,0,4.0,Zagazig,29,New,Groceries,Tea 11,2208.06,4416.12,4195.313999999999,September
+50182,2025-01-12,1052,2005,2.0,25.0,Wallet,6.0,0,5.0,Giza,54,Regular,Groceries,Rice 5,3045.78,6091.56,4568.67,January
+50205,2024-12-09,1178,2034,3.0,5.0,Card,3.0,0,4.0,Giza,56,Regular,Fashion,Jeans 34,491.95,1475.85,1402.0575,December
+50767,2024-09-22,1007,2024,4.0,0.0,Cash,7.0,0,2.0,Cairo,25,Regular,Home,Lamp 24,937.15,3748.6,3748.6,September
+50121,2025-02-14,1175,2005,4.0,5.0,Cash,7.0,0,5.0,Zagazig,59,Regular,Groceries,Rice 5,3045.78,12183.12,11573.964,February
+50807,2024-12-03,1097,2001,3.0,0.0,Card,1.0,0,4.0,Giza,38,New,Electronics,Wireless Mouse 1,1554.81,4664.43,4664.43,December
+51109,2024-10-28,1154,2024,5.0,15.0,Wallet,1.0,0,4.0,Alexandria,53,Vip,Home,Lamp 24,937.15,4685.75,3982.8875,October
+50400,2024-09-28,1095,2027,3.0,0.0,Wallet,0.0,0,3.0,Ismailia,35,Regular,Sports,Jump Rope 27,3197.17,9591.51,9591.51,September
+51652,2024-09-12,1108,2043,1.0,0.0,Card,4.0,0,5.0,Zagazig,42,Regular,Fashion,Hoodie 43,2572.68,2572.68,2572.68,September
+50682,2025-02-28,1107,2030,3.0,30.0,Cash,6.0,0,4.0,Suez,24,New,Electronics,Headphones 30,325.79,977.3700000000001,684.159,February
+51503,2025-02-25,1064,2013,5.0,0.0,Card,7.0,0,4.0,Ismailia,45,Regular,Fashion,T-Shirt 13,1475.64,7378.200000000001,7378.200000000001,February
+51014,2024-12-06,1018,2021,1.0,10.0,Cash,8.0,0,3.0,Giza,23,Vip,Groceries,Rice 21,389.46,389.46,350.514,December
+50512,2024-11-23,1168,2043,4.0,5.0,Wallet,3.0,0,4.0,Giza,58,New,Fashion,Hoodie 43,2572.68,10290.72,9776.184,November
+50122,2024-10-04,1180,2032,5.0,0.0,Card,0.0,0,4.0,Tanta,50,Regular,Electronics,Power Bank 32,131.64,658.1999999999999,658.1999999999999,October
+50670,2024-12-03,1069,2037,2.0,0.0,Card,0.0,0,4.0,Cairo,51,Regular,Groceries,Olive Oil 37,2917.62,5835.24,5835.24,December
+51023,2024-09-05,1111,2030,4.0,25.0,Cash,4.0,0,2.0,Alexandria,52,Regular,Electronics,Headphones 30,325.79,1303.16,977.3700000000001,September
+51377,2024-10-14,1173,2009,1.0,20.0,Card,2.0,0,2.0,Suez,30,Regular,Beauty,Face Wash 9,425.27,425.27,340.216,October
+51779,2024-09-14,1138,2038,4.0,30.0,Card,3.0,0,4.0,Cairo,49,Regular,Beauty,Body Lotion 38,2113.81,8455.24,5918.668,September
+50555,2024-10-01,1111,2028,5.0,10.0,Cash,5.0,0,1.0,Alexandria,52,Regular,Home,Kitchen Knife 28,2143.56,10717.8,9646.02,October
+51408,2025-01-16,1025,2015,5.0,10.0,Card,1.0,0,5.0,Suez,37,New,Home,Lamp 15,973.33,4866.650000000001,4379.985000000001,January
+50821,2025-01-12,1033,2033,3.0,0.0,Cash,0.0,0,5.0,Cairo,51,New,Electronics,Keyboard 33,801.02,2403.06,2403.06,January
+50618,2025-01-18,1034,2034,4.0,0.0,Card,5.0,0,5.0,Tanta,37,Regular,Fashion,Jeans 34,491.95,1967.8,1967.8,January
+51432,2024-10-04,1167,2026,4.0,10.0,Card,8.0,0,4.0,Alexandria,60,Vip,Beauty,Perfume 26,376.29,1505.16,1354.644,October
+50483,2024-11-24,1127,2028,3.0,5.0,Cash,3.0,0,2.0,Cairo,30,Regular,Home,Kitchen Knife 28,2143.56,6430.68,6109.146,November
+50386,2024-09-02,1129,2024,2.0,5.0,Cash,3.0,0,5.0,Tanta,31,New,Home,Lamp 24,937.15,1874.3,1780.5849999999998,September
+50889,2024-12-07,1092,2022,3.0,5.0,Cash,5.0,0,4.0,Suez,18,New,Groceries,Pasta 22,3190.63,9571.89,9093.295499999998,December
+51098,2024-09-02,1007,2035,1.0,0.0,Bank Transfer,4.0,0,4.0,Cairo,25,Regular,Sports,Jump Rope 35,2494.59,2494.59,2494.59,September
+50734,2024-09-24,1002,2021,3.0,20.0,Card,5.0,0,5.0,Suez,24,Vip,Groceries,Rice 21,389.46,1168.3799999999999,934.704,September
+50717,2024-11-25,1023,2016,4.0,20.0,Card,4.0,0,4.0,Giza,39,Regular,Groceries,Rice 16,1489.01,5956.04,4764.832,November
+51393,2025-01-28,1102,2018,5.0,20.0,Cash,7.0,0,4.0,Giza,38,New,Beauty,Perfume 18,994.09,4970.45,3976.36,January
+50555,2024-12-20,1062,2027,1.0,0.0,Card,4.0,1,4.0,Zagazig,43,Regular,Sports,Jump Rope 27,3197.17,3197.17,3197.17,December
+50711,2025-01-09,1059,2036,3.0,5.0,Card,6.0,0,5.0,Zagazig,31,New,Beauty,Face Wash 36,666.33,1998.9900000000002,1899.0405,January
+51505,2024-10-05,1155,2008,2.0,30.0,Cash,8.0,0,4.0,Mansoura,37,New,Electronics,Usb-C Cable 8,2053.15,4106.3,2874.41,October
+50525,2024-09-10,1064,2045,4.0,0.0,Card,3.0,0,2.0,Ismailia,45,Regular,Beauty,Body Lotion 45,2724.13,10896.52,10896.52,September
+50646,2025-01-19,1006,2042,2.0,0.0,Card,0.0,0,4.0,Suez,37,Regular,Sports,Running Socks 42,1954.72,3909.44,3909.44,January
+51354,2024-09-25,1178,2038,4.0,5.0,Card,8.0,0,3.0,Giza,56,Regular,Beauty,Body Lotion 38,2113.81,8455.24,8032.477999999999,September
+50688,2024-10-04,1106,2026,4.0,10.0,Card,3.0,0,4.0,Suez,58,Regular,Beauty,Perfume 26,376.29,1505.16,1354.644,October
+51023,2024-11-28,1168,2027,3.0,0.0,Cash,8.0,0,5.0,Giza,58,New,Sports,Jump Rope 27,3197.17,9591.51,9591.51,November
+50665,2025-02-13,1106,2042,2.0,30.0,Card,5.0,0,1.0,Suez,58,Regular,Sports,Running Socks 42,1954.72,3909.44,2736.6079999999997,February
+51643,2025-01-14,1137,2042,2.0,5.0,Bank Transfer,2.0,1,3.0,Tanta,49,Regular,Sports,Running Socks 42,1954.72,3909.44,3713.968,January
+51743,2024-09-29,1146,2003,1.0,0.0,Wallet,5.0,0,3.0,Suez,27,Regular,Fashion,Hoodie 3,3157.76,3157.76,3157.76,September
+50968,2024-11-08,1126,2004,3.0,5.0,Cash,3.0,0,4.0,Tanta,24,Regular,Electronics,Keyboard 4,2308.12,6924.36,6578.142,November
+51686,2024-12-06,1100,2006,1.0,30.0,Cash,7.0,0,4.0,Giza,21,Vip,Electronics,Keyboard 6,414.39,414.39,290.073,December
+51672,2025-01-31,1079,2016,5.0,0.0,Cash,5.0,0,4.0,Tanta,25,New,Groceries,Rice 16,1489.01,7445.05,7445.05,January
+51489,2024-11-12,1061,2028,3.0,5.0,Cash,8.0,0,4.0,Ismailia,24,Regular,Home,Kitchen Knife 28,2143.56,6430.68,6109.146,November
+51449,2024-10-30,1024,2013,5.0,0.0,Cash,2.0,0,3.0,Ismailia,48,New,Fashion,T-Shirt 13,1475.64,7378.200000000001,7378.200000000001,October
+51693,2025-01-27,1045,2014,4.0,10.0,Cash,1.0,0,3.0,Cairo,49,New,Groceries,Olive Oil 14,2648.26,10593.04,9533.736,January
+50375,2024-11-14,1101,2042,1.0,10.0,Wallet,6.0,0,3.0,Suez,29,New,Sports,Running Socks 42,1954.72,1954.72,1759.248,November
+51136,2024-11-20,1131,2032,1.0,30.0,Card,4.0,0,4.0,Tanta,46,Regular,Electronics,Power Bank 32,131.64,131.64,92.14799999999998,November
+50939,2025-01-07,1126,2012,5.0,5.0,Card,3.0,1,5.0,Tanta,24,Regular,Beauty,Face Wash 12,78.88,394.4,374.67999999999995,January
+51753,2024-12-17,1071,2034,3.0,15.0,Card,5.0,0,4.0,Suez,25,Regular,Fashion,Jeans 34,491.95,1475.85,1254.4724999999999,December
+50662,2024-12-20,1058,2039,3.0,0.0,Wallet,4.0,0,3.0,Giza,36,Regular,Electronics,Wireless Mouse 39,154.27,462.81000000000006,462.81000000000006,December
+51586,2024-12-23,1167,2026,3.0,0.0,Card,4.0,0,2.0,Alexandria,60,Vip,Beauty,Perfume 26,376.29,1128.8700000000001,1128.8700000000001,December
+50779,2024-10-24,1162,2034,4.0,10.0,Card,5.0,0,2.0,Zagazig,30,Vip,Fashion,Jeans 34,491.95,1967.8,1771.02,October
+50598,2025-02-20,1158,2045,3.0,10.0,Cash,4.0,0,5.0,Tanta,31,Regular,Beauty,Body Lotion 45,2724.13,8172.39,7355.151000000001,February
+51434,2024-10-22,1175,2012,3.0,0.0,Wallet,5.0,0,4.0,Zagazig,59,Regular,Beauty,Face Wash 12,78.88,236.64,236.64,October
+50669,2025-01-24,1011,2002,2.0,0.0,Bank Transfer,0.0,0,4.0,Tanta,47,Vip,Fashion,T-Shirt 2,1229.3,2458.6,2458.6,January
+50629,2024-10-22,1113,2009,4.0,0.0,Card,4.0,0,5.0,Tanta,59,Vip,Beauty,Face Wash 9,425.27,1701.08,1701.08,October
+50949,2024-10-04,1125,2013,5.0,0.0,Card,6.0,0,5.0,Suez,41,Vip,Fashion,T-Shirt 13,1475.64,7378.200000000001,7378.200000000001,October
+51686,2024-10-14,1076,2028,4.0,5.0,Cash,5.0,0,5.0,Mansoura,24,Regular,Home,Kitchen Knife 28,2143.56,8574.24,8145.527999999999,October
